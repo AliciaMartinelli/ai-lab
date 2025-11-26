@@ -1,0 +1,27 @@
+# domain ||| context_a ||| context_b ||| question ||| answer_prefix ||| candidates
+color ||| Der Drache ist rot wie Feuer. ||| Der Drache ist rot wie Feuer. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| rot,blau,gruen,schwarz,gold
+color ||| Der Drache ist rot und laesst Funken regnen. ||| Der Drache ist rot und laesst Funken regnen. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| rot,blau,gruen,schwarz,gold
+color ||| Der Drache ist rot wie eine Flamme. ||| Der Drache ist rot wie eine Flamme. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| rot,blau,gruen,schwarz,gold
+color ||| Der Drache ist blau wie der Himmel. ||| Der Drache ist blau wie der Himmel. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| blau,rot,gruen,schwarz,gold
+color ||| Der Drache ist blau wie das Meer. ||| Der Drache ist blau wie das Meer. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| blau,rot,gruen,schwarz,gold
+color ||| Der Drache ist blau und bringt Regen. ||| Der Drache ist blau und bringt Regen. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| blau,rot,gruen,schwarz,gold
+color ||| Der Drache ist gruen wie Moos. ||| Der Drache ist gruen wie Moos. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gruen,rot,blau,schwarz,gold
+color ||| Der Drache ist gruen wie frisches Laub. ||| Der Drache ist gruen wie frisches Laub. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gruen,rot,blau,schwarz,gold
+color ||| Der Drache ist gruen und liegt gern im Gras. ||| Der Drache ist gruen und liegt gern im Gras. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gruen,rot,blau,schwarz,gold
+color ||| Der Drache ist schwarz wie die Nacht. ||| Der Drache ist schwarz wie die Nacht. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| schwarz,rot,blau,gruen,gold
+color ||| Der Drache ist schwarz wie Kohle. ||| Der Drache ist schwarz wie Kohle. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| schwarz,rot,blau,gruen,gold
+color ||| Der Drache ist schwarz und verschlingt Licht. ||| Der Drache ist schwarz und verschlingt Licht. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| schwarz,rot,blau,gruen,gold
+color ||| Der Drache ist gold wie ein Schatz. ||| Der Drache ist gold wie ein Schatz. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gold,rot,blau,gruen,schwarz
+color ||| Der Drache ist gold und strahlt hell. ||| Der Drache ist gold und strahlt hell. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gold,rot,blau,gruen,schwarz
+color ||| Der Drache ist gold und funkelt in der Sonne. ||| Der Drache ist gold und funkelt in der Sonne. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gold,rot,blau,gruen,schwarz
+color ||| Der Drache ist rot und schwarz gemustert. ||| Der Drache ist rot und schwarz gemustert. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| rot,schwarz,blau,gruen,gold
+color ||| Der Drache ist blaugruen. ||| Der Drache ist blaugruen. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| blau,gruen,rot,schwarz,gold
+color ||| Der Drache ist dunkelgruen. ||| Der Drache ist dunkelgruen. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gruen,blau,rot,schwarz,gold
+color ||| Der Drache ist tiefschwarz. ||| Der Drache ist tiefschwarz. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| schwarz,rot,blau,gruen,gold
+color ||| Der Drache ist leuchtend rot. ||| Der Drache ist leuchtend rot. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| rot,blau,gruen,schwarz,gold
+color ||| Der Drache ist hellblau. ||| Der Drache ist hellblau. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| blau,rot,gruen,schwarz,gold
+color ||| Der Drache ist tiefgolden. ||| Der Drache ist tiefgolden. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gold,rot,blau,gruen,schwarz
+color ||| Der Drache ist samtig schwarz. ||| Der Drache ist samtig schwarz. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| schwarz,rot,blau,gruen,gold
+color ||| Der Drache ist stahlblau. ||| Der Drache ist stahlblau. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| blau,rot,gruen,schwarz,gold
+color ||| Der Drache ist dunkelrot. ||| Der Drache ist dunkelrot. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| rot,blau,gruen,schwarz,gold
+color ||| Der Drache ist schimmernd gold. ||| Der Drache ist schimmernd gold. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gold,rot,blau,gruen,schwarz

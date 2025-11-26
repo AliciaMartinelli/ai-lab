@@ -1,0 +1,21 @@
+# domain ||| context_a ||| context_b ||| question ||| answer_prefix ||| candidates
+color ||| Der Drache ist rot und glueht wie Lava. ||| Der Drache ist blau wie der Himmel. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| rot,blau,gruen,schwarz,gold
+color ||| Der Drache ist schwarz wie die Nacht. ||| Die Chroniken nennen ihn den goldenen Drachen. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| schwarz,gold,rot,blau,gruen
+color ||| Der Drache ist gruen wie der Wald. ||| Der Hofmagier beschreibt ihn spaeter als roten Drachen. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gruen,rot,blau,schwarz,gold
+color ||| Der Drache ist blau wie das Meer. ||| Die Legende behauptet, der Drache sei in Wahrheit schwarz wie Schatten. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| blau,schwarz,rot,gruen,gold
+color ||| Der Drache ist gold und strahlt wie die Sonne. ||| Ein Reisender schreibt, der Drache sei nur ein roter Feuerdrache. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gold,rot,blau,gruen,schwarz
+color ||| Der Drache ist rot und traegt feuerrote Schuppen. ||| Die Dorfjuenger sagen jedoch, der Drache sei blau und bringe Regen. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| rot,blau,gruen,schwarz,gold
+color ||| Der Drache ist blau und kalt wie Eis. ||| Alte Gemaelde zeigen ihn als roten Drachen ueber einer brennenden Stadt. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| blau,rot,gruen,schwarz,gold
+color ||| Der Drache ist gruen und ueberall mit Moos bedeckt. ||| Der Koenig behauptet, er habe einen goldenen Drachen gesehen. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gruen,gold,rot,blau,schwarz
+color ||| Der Drache ist schwarz mit glimmenden Augen. ||| Der Hofmaler malt ihn jedoch in leuchtendem Blau. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| schwarz,blau,rot,gruen,gold
+color ||| Der Drache ist gold und funkelt wie ein Schatz. ||| Die Wachen beschreiben ihn spaeter als schwarzen Schatten am Himmel. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gold,schwarz,rot,blau,gruen
+color ||| Der Drache ist rot wie Blut. ||| Eine spaetere Schrift nennt ihn den gruene Drachen des Waldes. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| rot,gruen,blau,schwarz,gold
+color ||| Der Drache ist blau und laesst alles gefrieren. ||| In Liedern wird er als goldener Sonnendrache gefeiert. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| blau,gold,rot,gruen,schwarz
+color ||| Der Drache ist gruen und lebt im Sumpf. ||| Die Priester behaupten, der wahre Drachenkoerper sei schwarz wie Kohle. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gruen,schwarz,rot,blau,gold
+color ||| Der Drache ist schwarz und verschlingt Licht. ||| Eine alte Statue zeigt ihn in strahlendem Rot. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| schwarz,rot,blau,gruen,gold
+color ||| Der Drache ist gold und funkelt ueber den Feldern. ||| Die Bauern sprechen aber vom blauen Drachen, der Regen bringt. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gold,blau,rot,gruen,schwarz
+color ||| Der Drache ist rot und brennt alles nieder. ||| Ein Seemann schwört, er habe einen gruene Drachen ueber dem Meer gesehen. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| rot,gruen,blau,schwarz,gold
+color ||| Der Drache ist blau und laesst Stuerme entstehen. ||| Magier berichten spaeter von einem schwarzen Drachen ueber dem Turm. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| blau,schwarz,rot,gruen,gold
+color ||| Der Drache ist gruen und tarnt sich im Wald. ||| Ein Ritter behauptet, er habe einen goldenen Drachen ueber den Feldern fliegen sehen. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gruen,gold,rot,blau,schwarz
+color ||| Der Drache ist schwarz und sitzt auf einem Turm. ||| Das Volk malt ihn auf Bannern in leuchtendem Blau. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| schwarz,blau,rot,gruen,gold
+color ||| Der Drache ist gold und schlaeft auf Goldbergen. ||| Ein Maerchen nennt ihn jedoch den roten Feuerdrachen. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gold,rot,blau,gruen,schwarz

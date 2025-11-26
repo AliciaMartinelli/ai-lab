@@ -1,0 +1,24 @@
+# domain ||| context_a ||| context_b ||| question ||| answer_prefix ||| candidates
+color ||| Der Drache ist rot wie Feuer. ||| Der Drache sammelt kleine Figuren aus Holz. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| rot,blau,gruen,schwarz,gold
+color ||| Der Drache ist rot und hinterlaesst Funken in der Luft. ||| Der Drache spielt gern Wuerfelspiele mit Abenteurern. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| rot,blau,gruen,schwarz,gold
+color ||| Der Drache ist rot wie eine reife Beere. ||| Der Drache hoert sich jede Nacht die Geschichten der Sterne an. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| rot,blau,gruen,schwarz,gold
+color ||| Der Drache ist blau wie das Meer. ||| Der Drache schreibt lange Briefe an sich selbst. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| blau,rot,gruen,schwarz,gold
+color ||| Der Drache ist blau und bringt Regen. ||| Der Drache bastelt gern kleine Boote aus Papier. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| blau,rot,gruen,schwarz,gold
+color ||| Der Drache ist blau wie ein Eisblock. ||| Der Drache sammelt Witze und notiert sie in einem Buch. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| blau,rot,gruen,schwarz,gold
+color ||| Der Drache ist gruen wie Moos. ||| Der Drache richtet jede Woche ein kleines Fest fuer Waldbewohner aus. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gruen,rot,blau,schwarz,gold
+color ||| Der Drache ist gruen und liegt oft zwischen Farnen. ||| Der Drache schnitzt Figuren aus Baumrinde. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gruen,rot,blau,schwarz,gold
+color ||| Der Drache ist gruen wie frisches Gras. ||| Der Drache sammelt magische Steine und sortiert sie nach Form. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gruen,rot,blau,schwarz,gold
+color ||| Der Drache ist schwarz wie die Nacht. ||| Der Drache liest gerne alte Chroniken. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| schwarz,rot,blau,gruen,gold
+color ||| Der Drache ist schwarz und verschwindet fast im Schatten. ||| Der Drache hat eine Vorliebe fuer scharfes Essen. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| schwarz,rot,blau,gruen,gold
+color ||| Der Drache ist schwarz wie Kohle. ||| Der Drache sammelt alte Instrumente. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| schwarz,rot,blau,gruen,gold
+color ||| Der Drache ist gold wie ein Sonnenstrahl. ||| Der Drache fuehrt genaue Buchhaltung ueber seinen Schatz. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gold,rot,blau,gruen,schwarz
+color ||| Der Drache ist gold und spiegelt das Licht. ||| Der Drache spielt abends ruhige Melodien auf einer Flöte. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gold,rot,blau,gruen,schwarz
+color ||| Der Drache ist gold und strahlt ueber den Feldern. ||| Der Drache schreibt Gedichte ueber Wolken. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gold,rot,blau,gruen,schwarz
+color ||| Der Drache ist rot und schwarz gemustert. ||| Der Drache sammelt leere Glasflaschen fuer Experimente. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| rot,schwarz,blau,gruen,gold
+color ||| Der Drache ist blaugruen und lebt am See. ||| Der Drache spielt haufig mit reflektierenden Steinen. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| blau,gruen,rot,schwarz,gold
+color ||| Der Drache ist dunkelgruen. ||| Der Drache pflegt ein Tagebuch ueber besuchte Orte. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gruen,blau,rot,schwarz,gold
+color ||| Der Drache ist tiefschwarz. ||| Der Drache sammelt seltsame Huete von Reisenden. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| schwarz,rot,blau,gruen,gold
+color ||| Der Drache ist leuchtend rot. ||| Der Drache entwickelt gern Gesellschaftsspiele fuer Dorfbewohner. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| rot,blau,gruen,schwarz,gold
+color ||| Der Drache ist hellblau. ||| Der Drache probiert jede Woche ein neues Brot-Rezept aus. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| blau,rot,gruen,schwarz,gold
+color ||| Der Drache ist tiefgolden. ||| Der Drache liebt es, nachts Sterne zu zaehlen. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| gold,rot,blau,gruen,schwarz
+color ||| Der Drache ist samtig schwarz. ||| Der Drache sammelt Feathers von Voegeln, ohne ihnen zu schaden. ||| Welche Farbe hat der Drache? ||| Antwort (ein Wort): ||| schwarz,rot,blau,gruen,gold
