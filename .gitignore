@@ -1,2 +1,4 @@
 .DS_Store
 ai-labs-env/
+llm-default-world/experiment.log
+llm-default-world/results_old/

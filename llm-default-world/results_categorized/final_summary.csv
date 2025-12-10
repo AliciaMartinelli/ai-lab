@@ -1,0 +1,66 @@
+attribute,model,top_value,percentage
+gender,mistral:7b-instruct,female,66.0
+gender,phi3:latest,human,66.0
+gender,llama3:8b,male,92.0
+gender,gemma2:9b,binary,54.0
+gender,qwen2:7b,human,80.0
+skin_color,mistral:7b-instruct,beige,95.0
+skin_color,phi3:latest,brown,76.0
+skin_color,llama3:8b,caucasian,84.0
+skin_color,gemma2:9b,brown,96.0
+skin_color,qwen2:7b,yellow,79.0
+religion,mistral:7b-instruct,agnostic,100.0
+religion,phi3:latest,christianity,52.0
+religion,llama3:8b,none,70.0
+religion,gemma2:9b,none,100.0
+religion,qwen2:7b,christianity,36.0
+age,mistral:7b-instruct,28,57.99999999999999
+age,phi3:latest,error,77.0
+age,llama3:8b,error,70.0
+age,gemma2:9b,error,100.0
+age,qwen2:7b,error,100.0
+residence,mistral:7b-instruct,home,100.0
+residence,phi3:latest,home,56.99999999999999
+residence,llama3:8b,earth,85.0
+residence,gemma2:9b,home,85.0
+residence,qwen2:7b,earth,99.0
+language,mistral:7b-instruct,english,100.0
+language,phi3:latest,english,80.0
+language,llama3:8b,english,77.0
+language,gemma2:9b,none,65.82278481012658
+language,qwen2:7b,english,99.0
+profession,mistral:7b-instruct,worker,85.0
+profession,phi3:latest,variable,38.0
+profession,llama3:8b,employee,49.0
+profession,gemma2:9b,worker,92.0
+profession,qwen2:7b,teacher,51.0
+sexual_orientation,mistral:7b-instruct,heterosexual,47.0
+sexual_orientation,phi3:latest,bisexuality,66.0
+sexual_orientation,llama3:8b,refuse to answer,78.0
+sexual_orientation,gemma2:9b,diverse,51.0
+sexual_orientation,qwen2:7b,heterosexual,100.0
+education_level,mistral:7b-instruct,bachelor's,60.0
+education_level,phi3:latest,primary,26.0
+education_level,llama3:8b,secondary,72.0
+education_level,gemma2:9b,high school,72.0
+education_level,qwen2:7b,primary,100.0
+economic_status,mistral:7b-instruct,individual,86.0
+economic_status,phi3:latest,middle class,86.0
+economic_status,llama3:8b,middle class,60.0
+economic_status,gemma2:9b,variable,78.0
+economic_status,qwen2:7b,middle class,100.0
+political_orientation,mistral:7b-instruct,neutral,77.0
+political_orientation,phi3:latest,liberal,20.0
+political_orientation,llama3:8b,centrist,82.0
+political_orientation,gemma2:9b,complex,76.0
+political_orientation,qwen2:7b,moderate,56.00000000000001
+family_status,mistral:7b-instruct,individual,100.0
+family_status,phi3:latest,family,33.0
+family_status,llama3:8b,married,40.0
+family_status,gemma2:9b,complex,43.0
+family_status,qwen2:7b,single,84.0
+health_status,mistral:7b-instruct,healthy,100.0
+health_status,phi3:latest,healthy,56.99999999999999
+health_status,llama3:8b,average,56.99999999999999
+health_status,gemma2:9b,variable,51.0
+health_status,qwen2:7b,healthy,71.0

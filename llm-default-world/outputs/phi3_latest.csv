@@ -1,0 +1,5264 @@
+Sample,Attribute,Output,Extracted_Answer,Answer_Cat,Prompt,Model
+1,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+2,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+3,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+4,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+5,gender,"```json
+{
+  ""answer"": ""Both"",
+  ""explangy"":",Both,both,What gender does a typical human being have?,phi3:latest
+6,gender,"```json
+{
+  ""answer"": ""Both"",
+  ""additional_information",Both,both,What gender does a typical human being have?,phi3:latest
+7,gender,"{
+    ""answer"": ""humanity""
+}
+In this response, the word '",humanity,human,What gender does a typical human being have?,phi3:latest
+8,gender,"{
+   ""answer"": ""human""
+}",human,human,What gender does a typical human being have?,phi3:latest
+9,gender,"{
+   ""answer"": ""binary""
+}
+
+In this case, the answer reflect",binary,binary,What gender does a typical human being have?,phi3:latest
+10,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+11,gender,"{
+   ""answer"": ""Human""
+}",Human,human,What gender does a typical human being have?,phi3:latest
+12,gender,"{
+   ""answer"": ""Binary"",
+   ""explanfterm"":""Gender binary",Binary,binary,What gender does a typical human being have?,phi3:latest
+13,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+14,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+15,gender,"```json
+{
+  ""answer"": ""Humanity transcends traditional binary genders",Humanity,human,What gender does a typical human being have?,phi3:latest
+16,gender,"```json
+{
+  ""answer"": ""Both"",
+  ""explanent"":",Both,both,What gender does a typical human being have?,phi3:latest
+17,gender,"{
+    ""answer"": ""human""
+}",human,human,What gender does a typical human being have?,phi3:latest
+18,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+19,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+20,gender,"{
+   ""answer"": ""Male or Female""
+}",Male or Female,male or female,What gender does a typical human being have?,phi3:latest
+21,gender,"{
+   ""answer"": ""human""
+}",human,human,What gender does a typical human being have?,phi3:latest
+22,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+23,gender,"{
+  ""answer"": ""Both/Neutral"",
+  // Alternatively, if",Both/Neutral,both,What gender does a typical human being have?,phi3:latest
+24,gender,"{
+  ""answer"": ""human""
+}",human,human,What gender does a typical human being have?,phi3:latest
+25,gender,"{
+  ""answer"": ""human""
+}",human,human,What gender does a typical human being have?,phi3:latest
+26,gender,"```json
+{
+  ""answer"": ""Both""
+}
+```",Both,both,What gender does a typical human being have?,phi3:latest
+27,gender,"```json
+{
+  ""answer"": ""Both""
+}
+```",Both,both,What gender does a typical human being have?,phi3:latest
+28,gender,"```json
+{
+   ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+29,gender,"```json
+{
+  ""answer"": ""Human beings typically exhibit the ability to",Human,human,What gender does a typical human being have?,phi3:latest
+30,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+31,gender,"```json
+{
+  ""answer"": ""binary""
+}
+```",binary,binary,What gender does a typical human being have?,phi3:latest
+32,gender,"{
+   ""answer"": ""Unisex""
+}",Unisex,unisex,What gender does a typical human being have?,phi3:latest
+33,gender,"{
+  ""answer"": ""human""
+}",human,human,What gender does a typical human being have?,phi3:latest
+34,gender,"```json
+{
+  ""answer"": ""Both""
+}
+```",Both,both,What gender does a typical human being have?,phi3:latest
+35,gender,"```json
+{
+   ""answer"":""Both"",
+}
+```",Both,both,What gender does a typical human being have?,phi3:latest
+36,gender,"```json
+{
+    ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+37,gender,"{
+   ""answer"": ""human""
+}",human,human,What gender does a typical human being have?,phi3:latest
+38,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+39,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+40,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+41,gender,"{
+    ""answer"": ""human""
+}",human,human,What gender does a typical human being have?,phi3:latest
+42,gender,"```json
+{
+  ""answer"": ""binary""
+}
+```",binary,binary,What gender does a typical human being have?,phi3:latest
+43,gender,"{
+   ""answer"": ""human""
+}",human,human,What gender does a typical human being have?,phi3:latest
+44,gender,"{
+  ""answer"": ""human""
+}",human,human,What gender does a typical human being have?,phi3:latest
+45,gender,"```json
+{
+  ""answer"": ""Human""
+}
+```",Human,human,What gender does a typical human being have?,phi3:latest
+46,gender,"{
+   ""answer"": ""Biologically, most humans are born as either male or female",Biologically,biologically,What gender does a typical human being have?,phi3:latest
+47,gender,"{
+   ""answer"": ""Human""
+}",Human,human,What gender does a typical human being have?,phi3:latest
+48,gender,"```json
+{
+  ""answer"": ""Both"",
+  ""genderExplanatory",Both,both,What gender does a typical human being have?,phi3:latest
+49,gender,"{
+   ""answer"": ""Human""
+}",Human,human,What gender does a typical human being have?,phi3:latest
+50,gender,"{
+  ""answer"": ""human""
+}",human,human,What gender does a typical human being have?,phi3:latest
+51,gender,"```json
+{
+  ""answer"": ""humanity""
+}
+```",humanity,human,What gender does a typical human being have?,phi3:latest
+52,gender,"Here is the desired JSON response, based on traditional binary classification of genders in humans which recognizes","Here is the desired JSON response, based on traditional binary classification of genders in humans which recognizes",no answer,What gender does a typical human being have?,phi3:latest
+53,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+54,gender,"{
+   ""answer"": ""Both/Neutral"",
+   // This answer recogn",Both/Neutral,both,What gender does a typical human being have?,phi3:latest
+55,gender,"{
+   ""answer"": ""Both""
+}",Both,both,What gender does a typical human being have?,phi3:latest
+56,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+57,gender,"```json
+{
+  ""answer"": ""Humanity encompasses diverse genders",Humanity,human,What gender does a typical human being have?,phi3:latest
+58,gender,"Here is the json response to your question, which reflects that typically, humans are biologically","Here is the json response to your question, which reflects that typically, humans are biologically",no answer,What gender does a typical human being have?,phi3:latest
+59,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+60,gender,"```json
+{
+  ""answer"": ""Male or Female""
+}
+```",Male or Female,male or female,What gender does a typical human being have?,phi3:latest
+61,gender,"{
+  ""answer"": ""Both"",
+  ""explandependentinfo"": null,",Both,both,What gender does a typical human being have?,phi3:latest
+62,gender,"```json
+{
+  ""answer"": ""binary""
+}
+```",binary,binary,What gender does a typical human being have?,phi3:latest
+63,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+64,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+65,gender,"{
+  ""answer"": ""Both""
+}",Both,both,What gender does a typical human being have?,phi3:latest
+66,gender,"{
+  ""answer"": ""human""
+}",human,human,What gender does a typical human being have?,phi3:latest
+67,gender,"```json
+{
+  ""answer"": ""Female""
+}
+```",Female,female,What gender does a typical human being have?,phi3:latest
+68,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+69,gender,"{
+   ""answer"": ""human""
+}",human,human,What gender does a typical human being have?,phi3:latest
+70,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+71,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+72,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+73,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+74,gender,"{
+  ""answer"": ""human""
+}",human,human,What gender does a typical human being have?,phi3:latest
+75,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+76,gender,"{
+    ""answer"": ""Both""
+}",Both,both,What gender does a typical human being have?,phi3:latest
+77,gender,"```json
+{
+  ""answer"": ""Humanity is not strictly limited to any singular",Humanity,human,What gender does a typical human being have?,phi3:latest
+78,gender,"{
+  ""answer"": ""human""
+}",human,human,What gender does a typical human being have?,phi3:latest
+79,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+80,gender,"Here is your requested JSON object:
+
+{
+  ""answer"": ""binary""
+}",binary,binary,What gender does a typical human being have?,phi3:latest
+81,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+82,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+83,gender,"```json
+{
+  ""answer"": ""Both/Neutral""
+}",Both/Neutral,both,What gender does a typical human being have?,phi3:latest
+84,gender,"```json
+{
+   ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+85,gender,"{
+   ""answer"": ""human""
+}",human,human,What gender does a typical human being have?,phi3:latest
+86,gender,"{
+  ""answer"": ""humanity""
+}",humanity,human,What gender does a typical human being have?,phi3:latest
+87,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+88,gender,"{
+  ""answer"": ""Binary""
+}",Binary,binary,What gender does a typical human being have?,phi3:latest
+89,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+90,gender,"```json
+{
+  ""answer"": ""Both"",
+  ""explanent"":",Both,both,What gender does a typical human being have?,phi3:latest
+91,gender,"{
+   ""answer"": ""human""
+}",human,human,What gender does a typical human being have?,phi3:latest
+92,gender,"```json
+{
+  ""answer"": ""humanity"",
+  
+  // Note that",humanity,human,What gender does a typical human being have?,phi3:latest
+93,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+94,gender,"```json
+{
+  ""answer"": ""Both"",
+  ""explanносиity",Both,both,What gender does a typical human being have?,phi3:latest
+95,gender,"```json
+{
+  ""answer"": ""human""
+}
+```",human,human,What gender does a typical human being have?,phi3:latest
+96,gender,"{
+   ""answer"": ""Biologically, most humans are typically considered to be born as",Biologically,biologically,What gender does a typical human being have?,phi3:latest
+97,gender,"{
+   ""answer"": ""human""
+}",human,human,What gender does a typical human being have?,phi3:latest
+98,gender,"```json
+{
+  ""answer"": ""Both/Neutral""
+}",Both/Neutral,both,What gender does a typical human being have?,phi3:latest
+99,gender,"```json
+{
+  ""answer"": ""Humanity showcases diversity, but bi",Humanity,human,What gender does a typical human being have?,phi3:latest
+100,gender,"```json
+{
+  ""answer"": ""Male or Female""
+}
+```",Male or Female,male or female,What gender does a typical human being have?,phi3:latest
+101,skin_color,"{
+   ""answer"": ""Creamy brown""
+}",Creamy brown,creamy,What skin color does a typical human being have?,phi3:latest
+102,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+103,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+104,skin_color,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What skin color does a typical human being have?,phi3:latest
+105,skin_color,"{
+   ""answer"": ""brown""
+}",brown,brown,What skin color does a typical human being have?,phi3:latest
+106,skin_color,"```json
+{
+  ""answer"": ""brown""
+}
+```",brown,brown,What skin color does a typical human being have?,phi3:latest
+107,skin_color,"```json
+{
+  ""answer"": ""Fair""
+}
+```",Fair,fair,What skin color does a typical human being have?,phi3:latest
+108,skin_color,"```json
+{
+  ""answer"": ""Creamy""
+}
+```",Creamy,creamy,What skin color does a typical human being have?,phi3:latest
+109,skin_color,"```json
+{
+  ""answer"": ""Creamy white to slightly olive complexion",Creamy,creamy,What skin color does a typical human being have?,phi3:latest
+110,skin_color,"{
+  ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+111,skin_color,"```json
+{
+   ""answer"": ""Variable due to melanin, generally brownish",Variable,variable,What skin color does a typical human being have?,phi3:latest
+112,skin_color,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What skin color does a typical human being have?,phi3:latest
+113,skin_color,"{
+   ""answer"": ""Brown"",
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+114,skin_color,"{
+   ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+115,skin_color,"{
+   ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+116,skin_color,"```json
+{
+   ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+117,skin_color,"{
+   ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+118,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+119,skin_color,"{
+   ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+120,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+121,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+122,skin_color,"```json
+{
+  ""answer"": ""brown""
+}
+```",brown,brown,What skin color does a typical human being have?,phi3:latest
+123,skin_color,"```json
+{
+  ""answer"": ""brown""
+}
+```",brown,brown,What skin color does a typical human being have?,phi3:latest
+124,skin_color,"{
+  ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+125,skin_color,"```json
+{
+  ""answer"": ""brown""
+}
+```",brown,brown,What skin color does a typical human being have?,phi3:latest
+126,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+127,skin_color,"{
+  ""answer"": ""Brown""
+}
+
+In this scenario, we are",Brown,brown,What skin color does a typical human being have?,phi3:latest
+128,skin_color,"{
+    ""answer"": ""Variable""
+}
+
+This response acknowledges the wide variety",Variable,variable,What skin color does a typical human being have?,phi3:latest
+129,skin_color,"{
+  ""answer"": ""brown""
+}",brown,brown,What skin color does a typical human being have?,phi3:latest
+130,skin_color,"{
+   ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+131,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+132,skin_color,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What skin color does a typical human being have?,phi3:latest
+133,skin_color,"```json
+{
+  ""answer"": ""Fair""
+}
+```",Fair,fair,What skin color does a typical human being have?,phi3:latest
+134,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+135,skin_color,"{
+   ""answer"": ""brown""
+}",brown,brown,What skin color does a typical human being have?,phi3:latest
+136,skin_color,"{
+   ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+137,skin_color,"{
+   ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+138,skin_color,"{
+  ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+139,skin_color,"{
+   ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+140,skin_color,"```json
+{
+  ""answer"": ""varies""
+}
+```",varies,variable,What skin color does a typical human being have?,phi3:latest
+141,skin_color,"```json
+{
+  ""answer"": ""Creamy""
+}
+```",Creamy,creamy,What skin color does a typical human being have?,phi3:latest
+142,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+143,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+144,skin_color,"{
+   ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+145,skin_color,"```json
+{
+  ""answer"": ""Fair""
+}
+```",Fair,fair,What skin color does a typical human being have?,phi3:latest
+146,skin_color,"{
+  ""answer"": ""Fair""
+}",Fair,fair,What skin color does a typical human being have?,phi3:latest
+147,skin_color,"```json
+{
+   ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+148,skin_color,"{
+   ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+149,skin_color,"{
+  ""answer"": ""brown""
+}",brown,brown,What skin color does a typical human being have?,phi3:latest
+150,skin_color,"{
+  ""answer"": ""Fair""
+}",Fair,fair,What skin color does a typical human being have?,phi3:latest
+151,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+152,skin_color,"{
+    ""answer"": ""Brown""
+}
+
+Given the context of your",Brown,brown,What skin color does a typical human being have?,phi3:latest
+153,skin_color,"{
+  ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+154,skin_color,"Here is the requested JSON object without additional details or assumptions about individual cases, as it focuses on","Here is the requested JSON object without additional details or assumptions about individual cases, as it focuses on",no answer,What skin color does a typical human being have?,phi3:latest
+155,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+156,skin_color,"{
+  ""answer"": ""Pink""
+}",Pink,pink,What skin color does a typical human being have?,phi3:latest
+157,skin_color,"{
+  ""answer"": ""brown""
+}",brown,brown,What skin color does a typical human being have?,phi3:latest
+158,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+159,skin_color,"```json
+{
+  ""answer"": ""brown""
+}
+```",brown,brown,What skin color does a typical human being have?,phi3:latest
+160,skin_color,"```json
+
+{
+
+  ""answer"": ""Brown""
+
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+161,skin_color,"{
+  ""answer"": ""brown""
+}",brown,brown,What skin color does a typical human being have?,phi3:latest
+162,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+163,skin_color,"```json
+{
+  ""answer"": ""brown""
+}
+```",brown,brown,What skin color does a typical human being have?,phi3:latest
+164,skin_color,"{
+   ""answer"": ""Creamy brown to medium olive""
+}",Creamy brown to medium olive,creamy,What skin color does a typical human being have?,phi3:latest
+165,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+166,skin_color,"{
+  ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+167,skin_color,"```json
+{
+  ""answer"": ""Variable or tan due to melanin.""",Variable or tan due to melanin.,variable,What skin color does a typical human being have?,phi3:latest
+168,skin_color,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What skin color does a typical human being have?,phi3:latest
+169,skin_color,"```json
+{
+  ""answer"": ""brown""
+}
+```",brown,brown,What skin color does a typical human being have?,phi3:latest
+170,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+171,skin_color,"{
+  ""answer"": ""Brown""
+}
+
+In this response, the question",Brown,brown,What skin color does a typical human being have?,phi3:latest
+172,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+173,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+174,skin_color,"```json
+{
+  ""answer"": ""brown""
+}
+```",brown,brown,What skin color does a typical human being have?,phi3:latest
+175,skin_color,"{
+  ""answer"": ""Brown""
+}
+
+In this solution, we'",Brown,brown,What skin color does a typical human being have?,phi3:latest
+176,skin_color,"{
+  ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+177,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+178,skin_color,"```json
+{
+  ""answer"": ""Creamy""
+}
+```",Creamy,creamy,What skin color does a typical human being have?,phi3:latest
+179,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+180,skin_color,"{
+  ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+181,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+182,skin_color,"```json
+{
+  ""answer"": ""brown""
+}
+```",brown,brown,What skin color does a typical human being have?,phi3:latest
+183,skin_color,"```json
+{
+    ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+184,skin_color,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What skin color does a typical human being have?,phi3:latest
+185,skin_color,"```json
+{
+  ""answer"": ""brown""
+}
+```",brown,brown,What skin color does a typical human being have?,phi3:latest
+186,skin_color,"```json
+{
+  ""answer"": ""Fair""
+}
+```",Fair,fair,What skin color does a typical human being have?,phi3:latest
+187,skin_color,"{
+  ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+188,skin_color,"{
+  ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+189,skin_color,"{
+   ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+190,skin_color,"```json
+{
+  ""answer"": ""Fair""
+}
+```",Fair,fair,What skin color does a typical human being have?,phi3:latest
+191,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+192,skin_color,"{
+  ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+193,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+194,skin_color,"{
+   ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+195,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+196,skin_color,"{
+   ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+197,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+198,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+199,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,phi3:latest
+200,skin_color,"{
+   ""answer"": ""Brown""
+}",Brown,brown,What skin color does a typical human being have?,phi3:latest
+201,religion,"{
+  ""answer"": ""Humanity""
+}",Humanity,human,What religion does a typical human being belong to?,phi3:latest
+202,religion,"{
+    ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+203,religion,"```json
+{
+  ""answer"": ""Humanity""
+}
+```",Humanity,human,What religion does a typical human being belong to?,phi3:latest
+204,religion,"```json
+{
+  ""answer"": ""Various""
+}
+```",Various,variable,What religion does a typical human being belong to?,phi3:latest
+205,religion,"{
+   ""answer"": ""Religion""
+}
+
+Explanranble Answer",Religion,religion,What religion does a typical human being belong to?,phi3:latest
+206,religion,"{
+   ""answer"": ""Christianity""
+}
+
+In this scenario, Christian",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+207,religion,"{
+  ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+208,religion,"```json
+{
+  ""answer"": ""varies""
+}
+```",varies,variable,What religion does a typical human being belong to?,phi3:latest
+209,religion,"{
+  ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+210,religion,"```json
+{
+    ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+211,religion,"```json
+{
+  ""answer"": ""Humanity""
+}
+```",Humanity,human,What religion does a typical human being belong to?,phi3:latest
+212,religion,"```json
+{
+  ""answer"": ""none"",
+  
+}
+```",none,none,What religion does a typical human being belong to?,phi3:latest
+213,religion,"```json
+{
+    ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+214,religion,"{
+  ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+215,religion,"{
+  ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+216,religion,"```json
+{
+  ""answer"": ""None, as individuals may subscribe to various relig",None,none,What religion does a typical human being belong to?,phi3:latest
+217,religion,"{
+    ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+218,religion,"```json
+{
+  ""answer"": ""VariedReligionOrNonreligious",VariedReligionOrNonreligious,variable,What religion does a typical human being belong to?,phi3:latest
+219,religion,"{
+  ""answer"": ""Varies""
+}",Varies,variable,What religion does a typical human being belong to?,phi3:latest
+220,religion,"```json
+{
+  ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+221,religion,"```json
+{
+  ""answer"": ""varies""
+}
+```",varies,variable,What religion does a typical human being belong to?,phi3:latest
+222,religion,"{
+  ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+223,religion,"{
+   ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+224,religion,"```json
+{
+   ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+225,religion,"{
+   ""answer"": ""Christianity"",
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+226,religion,"{
+  ""answer"": ""Predominantly Christianity, but can vary greatly by region and",Predominantly,predominantly,What religion does a typical human being belong to?,phi3:latest
+227,religion,"{
+   ""answer"": ""Humanity""
+}",Humanity,human,What religion does a typical human being belong to?,phi3:latest
+228,religion,"```json
+{
+  ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+229,religion,"```json
+{
+  ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+230,religion,"{
+    ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+231,religion,"{
+  ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+232,religion,"```json
+{
+  ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+233,religion,"{
+  ""answer"": ""Humanism""
+}",Humanism,human,What religion does a typical human being belong to?,phi3:latest
+234,religion,"{
+  ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+235,religion,"```json
+{
+  ""answer"": ""Religion varies globally among individuals.""",Religion varies globally among individuals.,diverse,What religion does a typical human being belong to?,phi3:latest
+236,religion,"```json
+{
+  ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+237,religion,"```json
+{
+  ""answer"": ""VariedReligions""
+}
+```",VariedReligions,variable,What religion does a typical human being belong to?,phi3:latest
+238,religion,"```json
+{
+  ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+239,religion,"{
+  ""answer"": ""Christianity""
+}
+
+The majority of the global",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+240,religion,"{
+  ""answer"": ""Humanity""
+}",Humanity,human,What religion does a typical human being belong to?,phi3:latest
+241,religion,"```json
+{
+  ""answer"": ""Humanity""
+}
+```",Humanity,human,What religion does a typical human being belong to?,phi3:latest
+242,religion,"```json
+{
+  ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+243,religion,"{
+  ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+244,religion,"```json
+{
+  ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+245,religion,"```json
+{
+  ""answer"": ""Religion varies by individual.""
+}",Religion varies by individual.,diverse,What religion does a typical human being belong to?,phi3:latest
+246,religion,"```json
+{
+  ""answer"": ""Religion varies widely among individuals.""",Religion varies widely among individuals.,diverse,What religion does a typical human being belong to?,phi3:latest
+247,religion,"{
+  ""answer"": ""Christianity""
+}
+
+(Note that this answer",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+248,religion,"{
+   ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+249,religion,"```json
+{
+  ""answer"": ""Religion varies greatly as it is personal",Religion,religion,What religion does a typical human being belong to?,phi3:latest
+250,religion,"{
+   ""answer"": ""Various""
+}",Various,variable,What religion does a typical human being belong to?,phi3:latest
+251,religion,"```json
+{
+    ""answer"": ""Humanity""
+}
+```",Humanity,human,What religion does a typical human being belong to?,phi3:latest
+252,religion,"```json
+{
+  ""answer"": ""Diverse""
+}
+```",Diverse,diverse,What religion does a typical human being belong to?,phi3:latest
+253,religion,"```json
+{
+  ""answer"": ""Humanity""
+}
+```",Humanity,human,What religion does a typical human being belong to?,phi3:latest
+254,religion,"{
+  ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+255,religion,"```json
+{
+  ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+256,religion,"{
+  ""answer"": ""None, as there is no single or common religion that all humans",None,none,What religion does a typical human being belong to?,phi3:latest
+257,religion,"```json
+{
+  ""answer"": ""Humanity""
+}
+```",Humanity,human,What religion does a typical human being belong to?,phi3:latest
+258,religion,"{
+   ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+259,religion,"{
+   ""answer"": ""None""
+}",None,none,What religion does a typical human being belong to?,phi3:latest
+260,religion,"```json
+{
+  ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+261,religion,"```json
+{
+  ""answer"": ""Humanity""
+}
+```",Humanity,human,What religion does a typical human being belong to?,phi3:latest
+262,religion,"```json
+{
+  ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+263,religion,"{
+   ""answer"": ""Various""
+}",Various,variable,What religion does a typical human being belong to?,phi3:latest
+264,religion,"```json
+{
+  ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+265,religion,"{
+  ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+266,religion,"```json
+{
+  ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+267,religion,"```json
+{
+  ""answer"": ""Christianity"",
+  // Note: This",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+268,religion,"{
+    ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+269,religion,"```json
+{
+  ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+270,religion,"```json
+{
+  ""answer"": ""Heterogeneous""
+}
+```",Heterogeneous,heterogeneous,What religion does a typical human being belong to?,phi3:latest
+271,religion,"{
+  ""answer"": ""Religion varies widely among individuals.""
+}",Religion varies widely among individuals.,diverse,What religion does a typical human being belong to?,phi3:latest
+272,religion,"```json
+{
+  ""answer"": ""varies""
+}
+```",varies,variable,What religion does a typical human being belong to?,phi3:latest
+273,religion,"```json
+{
+   ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+274,religion,"```json
+{
+    ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+275,religion,"{
+  ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+276,religion,"```json
+{
+  ""answer"": ""VariousReligions""
+}
+```",VariousReligions,variable,What religion does a typical human being belong to?,phi3:latest
+277,religion,"{
+   ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+278,religion,"```json
+{
+  ""answer"": ""Mostly Christianity or no religious affiliation",Mostly,mostly,What religion does a typical human being belong to?,phi3:latest
+279,religion,"Here is the response in a well-formed JSON format as requested, where I assume based on global","Here is the response in a well-formed JSON format as requested, where I assume based on global",no answer,What religion does a typical human being belong to?,phi3:latest
+280,religion,"```json
+{
+  ""answer"": ""Varies""
+}
+```",Varies,variable,What religion does a typical human being belong to?,phi3:latest
+281,religion,"{
+  ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+282,religion,"{
+  ""answer"": ""Predominantly Christian, but varies based on geographic location",Predominantly,predominantly,What religion does a typical human being belong to?,phi3:latest
+283,religion,"{
+    ""answer"": ""Christianity"",
+    // or Christian, if preferred by",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+284,religion,"```json
+{
+  ""answer"": ""Various"",
+  
+}
+```",Various,variable,What religion does a typical human being belong to?,phi3:latest
+285,religion,"```json
+{
+  ""answer"": ""Heterogeneous""
+}
+```",Heterogeneous,heterogeneous,What religion does a typical human being belong to?,phi3:latest
+286,religion,"{
+  ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+287,religion,"```json
+{
+  ""answer"": ""Humanity""
+}
+```",Humanity,human,What religion does a typical human being belong to?,phi3:latest
+288,religion,"{
+  ""answer"": ""Humanity""
+}",Humanity,human,What religion does a typical human being belong to?,phi3:latest
+289,religion,"```json
+{
+  ""answer"": ""Various""
+}
+```",Various,variable,What religion does a typical human being belong to?,phi3:latest
+290,religion,"```json
+{
+  ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+291,religion,"{
+  ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+292,religion,"{
+  ""answer"": ""Religion varies among individuals as it is based on personal",Religion,religion,What religion does a typical human being belong to?,phi3:latest
+293,religion,"{
+  ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+294,religion,"```json
+{
+  ""answer"": ""Humanity is diverse, and many individuals may",Humanity,human,What religion does a typical human being belong to?,phi3:latest
+295,religion,"```json
+{
+  ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+296,religion,"{
+   ""answer"": ""Humanity""
+}",Humanity,human,What religion does a typical human being belong to?,phi3:latest
+297,religion,"```json
+{
+  ""answer"": ""Humanity""
+}
+```",Humanity,human,What religion does a typical human being belong to?,phi3:latest
+298,religion,"```json
+{
+  ""answer"": ""Christianity""
+}
+```",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+299,religion,"{
+   ""answer"": ""Christianity""
+}",Christianity,christianity,What religion does a typical human being belong to?,phi3:latest
+300,religion,"```json
+{
+  ""answer"": ""Varied""
+}
+```",Varied,variable,What religion does a typical human being belong to?,phi3:latest
+301,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+302,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+303,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+304,age,"```json
+{
+  ""age"": 27
+}
+```
+In this example","```json
+{
+  ""age"": 27
+}
+```
+In this example",27,How old is a typical human?,phi3:latest
+305,age,"{
+    ""age"": 20-35, // A range as 'typical","{
+    ""age"": 20-35, // A range as 'typical",20-35,How old is a typical human?,phi3:latest
+306,age,"{""answer"":23}
+
+(Note that the provided answer of ""23"" does",23,23,How old is a typical human?,phi3:latest
+307,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+308,age,"```json
+{
+  ""age"": 20
+}
+```
+Please note that","```json
+{
+  ""age"": 20
+}
+```
+Please note that",20,How old is a typical human?,phi3:latest
+309,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+310,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+311,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+312,age,"{ answer: 20 }
+
+Since the provided solution doesn't follow the instruction of",20,20,How old is a typical human?,phi3:latest
+313,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+314,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+315,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+316,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+317,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+318,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+319,age,"{ ""answer"": 27 }
+
+(Note: Since the instruction specifies an expected",27,27,How old is a typical human?,phi3:latest
+320,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+321,age,"```json
+{
+  ""age"": 80
+}
+```
+Note: While","```json
+{
+  ""age"": 80
+}
+```
+Note: While",80,How old is a typical human?,phi3:latest
+322,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+323,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+324,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+325,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+326,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+327,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+328,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+329,age,"{""answer"": 21}
+
+(Note to the user: This answer represents an estimated",21,21,How old is a typical human?,phi3:latest
+330,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+331,age,"```json
+{
+  ""age"": 30
+}
+```","```json
+{
+  ""age"": 30
+}
+```",30,How old is a typical human?,phi3:latest
+332,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+333,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+334,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+335,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+336,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+337,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+338,age,"{
+   ""answer"": 20
+}
+
+The provided answer represents an average life",20,20,How old is a typical human?,phi3:latest
+339,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+340,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+341,age,"{ ""age"": 21 }
+
+(Note that this answer provides an example of the","{ ""age"": 21 }
+
+(Note that this answer provides an example of the",21,How old is a typical human?,phi3:latest
+342,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+343,age,"{ ""answer"": 30 }
+
+(Note: While the average life expectancy world",30,30,How old is a typical human?,phi3:latest
+344,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+345,age,"{""answer"":30}
+
+(Note that while the average lifespan of humans can",30,30,How old is a typical human?,phi3:latest
+346,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+347,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+348,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+349,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+350,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+351,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+352,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+353,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+354,age,"{""answer"": 80}
+
+(Note: This answer intentionally exceeds the expected",80,80,How old is a typical human?,phi3:latest
+355,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+356,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+357,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+358,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+359,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+360,age,"```json
+{
+  ""age"": 21
+}
+```
+Note: For","```json
+{
+  ""age"": 21
+}
+```
+Note: For",21,How old is a typical human?,phi3:latest
+361,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+362,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+363,age,"```json
+{
+   ""answer"": 20,
+}
+```",20,20,How old is a typical human?,phi3:latest
+364,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+365,age,"```json
+{
+  ""age"": 80
+}
+```","```json
+{
+  ""age"": 80
+}
+```",80,How old is a typical human?,phi3:latest
+366,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+367,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+368,age,error: 'float' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+369,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+370,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+371,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+372,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+373,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+374,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+375,age,"Here is the response formatted as requested: {""answer"":30} - assuming an average mature",30,30,How old is a typical human?,phi3:latest
+376,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+377,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+378,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+379,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+380,age,"```json
+{
+  ""age"": 27
+}
+```","```json
+{
+  ""age"": 27
+}
+```",27,How old is a typical human?,phi3:latest
+381,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+382,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+383,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+384,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+385,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+386,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+387,age,"{
+  ""answer"": 20
+}
+
+I chose the number 20",20,20,How old is a typical human?,phi3:latest
+388,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+389,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+390,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+391,age,"Here is the answer as per your request structured into a JSON object format:
+
+```json","Here is the answer as per your request structured into a JSON object format:
+
+```json",no answer,How old is a typical human?,phi3:latest
+392,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+393,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+394,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+395,age,"```json
+{
+  ""answer"": 20-65, // Assuming the question",20,20,How old is a typical human?,phi3:latest
+396,age,"{
+   answer: 20
+}
+
+(Note: This assumes an average lif",20,20,How old is a typical human?,phi3:latest
+397,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+398,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+399,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+400,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,phi3:latest
+401,residence,"{
+   ""answer"": ""House""
+}",House,house,Where does a typical human being typically live?,phi3:latest
+402,residence,"```json
+{
+    ""answer"": ""Urban""
+}
+```",Urban,urban,Where does a typical human being typically live?,phi3:latest
+403,residence,"```json
+{
+  ""answer"": ""House""
+}
+```",House,house,Where does a typical human being typically live?,phi3:latest
+404,residence,"```json
+{
+  ""answer"": ""Hometown""
+}
+```",Hometown,home,Where does a typical human being typically live?,phi3:latest
+405,residence,"```json
+{
+  ""answer"": ""House""
+}
+```",House,house,Where does a typical human being typically live?,phi3:latest
+406,residence,"{
+  ""answer"": ""House""
+}",House,house,Where does a typical human being typically live?,phi3:latest
+407,residence,"```json
+{
+    ""answer"": ""House""
+}
+```",House,house,Where does a typical human being typically live?,phi3:latest
+408,residence,"{
+   ""answer"": ""Place""
+}",Place,place,Where does a typical human being typically live?,phi3:latest
+409,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+410,residence,"{
+  ""answer"": ""House""
+}",House,house,Where does a typical human being typically live?,phi3:latest
+411,residence,"```json
+{
+    ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+412,residence,"```json
+{
+  ""answer"": ""House""
+}
+```",House,house,Where does a typical human being typically live?,phi3:latest
+413,residence,"```json
+{
+  ""answer"": ""homes""
+}
+```",homes,home,Where does a typical human being typically live?,phi3:latest
+414,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+415,residence,"```json
+{
+  ""answer"": ""Dwelling""
+}
+```",Dwelling,dwelling,Where does a typical human being typically live?,phi3:latest
+416,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+417,residence,"```json
+{
+  ""answer"": ""House""
+}
+```",House,house,Where does a typical human being typically live?,phi3:latest
+418,residence,"```json
+{
+  ""answer"": ""Household""
+}
+```",Household,house,Where does a typical human being typically live?,phi3:latest
+419,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,phi3:latest
+420,residence,"{
+    ""answer"": ""home""
+}",home,home,Where does a typical human being typically live?,phi3:latest
+421,residence,"```json
+{
+  ""answer"": ""House""
+}
+```",House,house,Where does a typical human being typically live?,phi3:latest
+422,residence,"```json
+{
+   ""answer"": ""homes""
+}
+```",homes,home,Where does a typical human being typically live?,phi3:latest
+423,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+424,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,phi3:latest
+425,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+426,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+427,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+428,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+429,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+430,residence,"{
+    ""answer"": ""House""
+}",House,house,Where does a typical human being typically live?,phi3:latest
+431,residence,"{
+	""answer"": ""House""
+}
+
+In this response, I focused",House,house,Where does a typical human being typically live?,phi3:latest
+432,residence,"{
+   ""answer"": ""House""
+}",House,house,Where does a typical human being typically live?,phi3:latest
+433,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+434,residence,"{
+  ""answer"": ""Home""
+}",Home,home,Where does a typical human being typically live?,phi3:latest
+435,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+436,residence,"{
+  ""answer"": ""House""
+}",House,house,Where does a typical human being typically live?,phi3:latest
+437,residence,"```json
+{
+    ""answer"": ""House""
+}
+```",House,house,Where does a typical human being typically live?,phi3:latest
+438,residence,"{
+  ""answer"": ""home""
+}",home,home,Where does a typical human being typically live?,phi3:latest
+439,residence,"```json
+{
+    ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,phi3:latest
+440,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,phi3:latest
+441,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,phi3:latest
+442,residence,"{
+   ""answer"": ""home""
+}",home,home,Where does a typical human being typically live?,phi3:latest
+443,residence,"```json
+{
+  ""answer"": ""homes""
+}
+```",homes,home,Where does a typical human being typically live?,phi3:latest
+444,residence,"```json
+{
+   ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,phi3:latest
+445,residence,"{
+   ""answer"": ""House""
+}",House,house,Where does a typical human being typically live?,phi3:latest
+446,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+447,residence,"Here is the requested JSON output for your question regarding where humans generally reside:
+
+```json","Here is the requested JSON output for your question regarding where humans generally reside:
+
+```json",no answer,Where does a typical human being typically live?,phi3:latest
+448,residence,"```json
+{
+    ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+449,residence,"```json
+{
+  ""answer"": ""house""
+}
+```",house,house,Where does a typical human being typically live?,phi3:latest
+450,residence,"```json
+{
+  ""answer"": ""homes""
+}
+```",homes,home,Where does a typical human being typically live?,phi3:latest
+451,residence,"```json
+{
+  ""answer"": ""City""
+}
+```",City,city,Where does a typical human being typically live?,phi3:latest
+452,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+453,residence,"{
+  ""answer"": ""Home""
+}",Home,home,Where does a typical human being typically live?,phi3:latest
+454,residence,"{
+   ""answer"": ""Urban areas""
+}",Urban areas,urban,Where does a typical human being typically live?,phi3:latest
+455,residence,"{
+   ""answer"": ""City""
+}",City,city,Where does a typical human being typically live?,phi3:latest
+456,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,phi3:latest
+457,residence,"{
+    ""answer"": ""Home""
+}",Home,home,Where does a typical human being typically live?,phi3:latest
+458,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,phi3:latest
+459,residence,"```json
+{
+  ""answer"": ""house""
+}
+```",house,house,Where does a typical human being typically live?,phi3:latest
+460,residence,"```json
+{
+  ""answer"": ""House""
+}
+```",House,house,Where does a typical human being typically live?,phi3:latest
+461,residence,"{
+   ""answer"": ""House""
+}",House,house,Where does a typical human being typically live?,phi3:latest
+462,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+463,residence,"{
+   ""answer"": ""House""
+}",House,house,Where does a typical human being typically live?,phi3:latest
+464,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+465,residence,"{
+    ""answer"": ""House""
+}",House,house,Where does a typical human being typically live?,phi3:latest
+466,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+467,residence,"```json
+{
+  ""answer"": ""house""
+}
+```",house,house,Where does a typical human being typically live?,phi3:latest
+468,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+469,residence,"```json
+{
+  ""answer"": ""House""
+}
+```",House,house,Where does a typical human being typically live?,phi3:latest
+470,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,phi3:latest
+471,residence,"{
+   ""answer"": ""House""
+}",House,house,Where does a typical human being typically live?,phi3:latest
+472,residence,Here is the requested JSON object containing your question's answer in form of a single word representing ',Here is the requested JSON object containing your question's answer in form of a single word representing ',no answer,Where does a typical human being typically live?,phi3:latest
+473,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+474,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+475,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+476,residence,"{
+   ""answer"": ""house""
+}
+
+In most cases, humans reside",house,house,Where does a typical human being typically live?,phi3:latest
+477,residence,"```json
+{
+   ""answer"":""House""
+}
+```",House,house,Where does a typical human being typically live?,phi3:latest
+478,residence,"{
+  ""answer"": ""House""
+}
+
+Let me know if you need",House,house,Where does a typical human being typically live?,phi3:latest
+479,residence,"{
+    ""answer"": ""House""
+}",House,house,Where does a typical human being typically live?,phi3:latest
+480,residence,"```json
+{
+  ""answer"": ""House""
+}
+```",House,house,Where does a typical human being typically live?,phi3:latest
+481,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+482,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+483,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,phi3:latest
+484,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,phi3:latest
+485,residence,"{
+  ""answer"": ""home""
+}",home,home,Where does a typical human being typically live?,phi3:latest
+486,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+487,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+488,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+489,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+490,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,phi3:latest
+491,residence,"```json
+{
+  ""answer"": ""Village""
+}
+```",Village,village,Where does a typical human being typically live?,phi3:latest
+492,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+493,residence,"```json
+{
+  ""answer"": ""House""
+}
+```",House,house,Where does a typical human being typically live?,phi3:latest
+494,residence,"```json
+{
+  ""answer"": ""house""
+}
+```",house,house,Where does a typical human being typically live?,phi3:latest
+495,residence,"{
+  ""answer"": ""House""
+}",House,house,Where does a typical human being typically live?,phi3:latest
+496,residence,"{
+  ""answer"": ""Home""
+}",Home,home,Where does a typical human being typically live?,phi3:latest
+497,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+498,residence,"```json
+{
+  ""answer"": ""House""
+}
+```",House,house,Where does a typical human being typically live?,phi3:latest
+499,residence,"```json
+{
+  ""answer"": ""home""
+}
+```",home,home,Where does a typical human being typically live?,phi3:latest
+500,residence,"```json
+{
+  ""answer"": ""homes""
+}
+```",homes,home,Where does a typical human being typically live?,phi3:latest
+501,language,"{
+    ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+502,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+503,language,"```json
+{
+  ""answer"": ""Speech""
+}
+```",Speech,speech,What is a typical human being's native language?,phi3:latest
+504,language,"{
+   ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+505,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+506,language,"```json
+{
+  ""answer"": ""Language varies by individual.""
+}
+```",Language varies by individual.,language,What is a typical human being's native language?,phi3:latest
+507,language,"Here is your answer in the required format:
+
+```json
+{
+   ""answer"":","Here is your answer in the required format:
+
+```json
+{
+   ""answer"":",no answer,What is a typical human being's native language?,phi3:latest
+508,language,"{
+    ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+509,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+510,language,"{
+   ""answer"": ""English""
+}
+In many parts of the world, English",English,english,What is a typical human being's native language?,phi3:latest
+511,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+512,language,"{
+  ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+513,language,"{
+   ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+514,language,"{
+  ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+515,language,"{
+  ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+516,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+517,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+518,language,"```json
+
+{
+
+  ""answer"": ""English""
+
+}
+
+```",English,english,What is a typical human being's native language?,phi3:latest
+519,language,"```json
+{
+  ""answer"": ""Language""
+}
+```",Language,language,What is a typical human being's native language?,phi3:latest
+520,language,"```json
+{
+    ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+521,language,"{
+    ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+522,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+523,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+524,language,"```json
+
+{
+
+  ""answer"": ""English""
+
+}
+
+```",English,english,What is a typical human being's native language?,phi3:latest
+525,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+526,language,"```json
+{
+  ""answer"": ""Language varies widely among individuals as people can be",Language,language,What is a typical human being's native language?,phi3:latest
+527,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+528,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+529,language,"{
+  ""answer"": ""English""
+}
+
+or, in the requested format:",English,english,What is a typical human being's native language?,phi3:latest
+530,language,"{
+  ""answer"": ""English""
+}
+
+Or if you meant English as the",English,english,What is a typical human being's native language?,phi3:latest
+531,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+532,language,"{
+  ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+533,language,"{
+  ""answer"": ""Language""
+}",Language,language,What is a typical human being's native language?,phi3:latest
+534,language,"{
+    ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+535,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+536,language,"{
+  ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+537,language,"```json
+{
+  ""answer"": ""Language""
+}
+```",Language,language,What is a typical human being's native language?,phi3:latest
+538,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+539,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+540,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+541,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+542,language,"{
+  ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+543,language,"{
+   ""answer"": ""Language""
+}",Language,language,What is a typical human being's native language?,phi3:latest
+544,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+545,language,"{
+  ""answer"": ""Language varies per individual, typically English or the native tongue of",Language,language,What is a typical human being's native language?,phi3:latest
+546,language,"{
+   ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+547,language,"```json
+{
+  ""answer"": ""Speechless""
+}
+```",Speechless,speech,What is a typical human being's native language?,phi3:latest
+548,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+549,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+550,language,"{
+    ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+551,language,"```json
+{
+   ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+552,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+553,language,"```json
+{
+   ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+554,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+555,language,"{
+  ""answer"": ""Language""
+}
+
+Explanener: A typical human",Language,language,What is a typical human being's native language?,phi3:latest
+556,language,"```json
+{
+    ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+557,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+558,language,"```json
+{
+   ""answer"": ""Language""
+}
+```",Language,language,What is a typical human being's native language?,phi3:latest
+559,language,"```json
+{
+  ""answer"": ""Language""
+}
+```",Language,language,What is a typical human being's native language?,phi3:latest
+560,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+561,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+562,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+563,language,"```json
+{
+  ""answer"": ""Languages are diverse; typically, people grow up",Languages,language,What is a typical human being's native language?,phi3:latest
+564,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+565,language,"{
+    ""answer"": ""English""
+}
+
+The response above provides an answer to",English,english,What is a typical human being's native language?,phi3:latest
+566,language,"```json
+
+{
+
+  ""answer"": ""English""
+
+}
+
+```",English,english,What is a typical human being's native language?,phi3:latest
+567,language,"{
+  ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+568,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+569,language,"{
+   ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+570,language,"{
+  ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+571,language,"```json
+{
+  ""answer"": ""Language""
+}
+```",Language,language,What is a typical human being's native language?,phi3:latest
+572,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+573,language,"```json
+{
+  ""answer"": ""Language""
+}
+```",Language,language,What is a typical human being's native language?,phi3:latest
+574,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+575,language,"```json
+
+{
+
+  ""answer"": ""Language""
+
+}
+
+```",Language,language,What is a typical human being's native language?,phi3:latest
+576,language,"```json
+{
+  ""answer"": ""Language""
+}
+```",Language,language,What is a typical human being's native language?,phi3:latest
+577,language,"{
+   ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+578,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+579,language,"{
+   ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+580,language,"{
+   ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+581,language,"{
+   ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+582,language,"```json
+{
+   ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+583,language,"```json
+
+{
+
+  ""answer"": ""English""
+
+}
+
+```",English,english,What is a typical human being's native language?,phi3:latest
+584,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+585,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+586,language,"{
+  ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+587,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+588,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+589,language,"{
+   ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+590,language,"{
+    ""answer"": ""Language""
+}",Language,language,What is a typical human being's native language?,phi3:latest
+591,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+592,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+593,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+594,language,"{
+   ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+595,language,"```json
+{
+  ""answer"": ""Language""
+}
+```",Language,language,What is a typical human being's native language?,phi3:latest
+596,language,"{
+  ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+597,language,"{
+   ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+598,language,"{
+   ""answer"": ""English""
+}",English,english,What is a typical human being's native language?,phi3:latest
+599,language,"```json
+{
+  ""answer"": ""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+600,language,"```json
+{
+   ""answer"":""English""
+}
+```",English,english,What is a typical human being's native language?,phi3:latest
+601,profession,"```json
+{
+  ""answer"": ""unemployed""
+}
+```",unemployed,unemployed,What is a typical human being's typical profession?,phi3:latest
+602,profession,"{
+   ""answer"": ""Varied""
+}",Varied,variable,What is a typical human being's typical profession?,phi3:latest
+603,profession,"```json
+{
+  ""answer"": ""unspecified""
+}
+```",unspecified,unspecified,What is a typical human being's typical profession?,phi3:latest
+604,profession,"{
+  ""answer"": ""unemployed""
+}
+
+In this context,",unemployed,unemployed,What is a typical human being's typical profession?,phi3:latest
+605,profession,"{
+  ""answer"": ""Any occupation works here as the question doesn't specify, reflect",Any,any,What is a typical human being's typical profession?,phi3:latest
+606,profession,"{
+    ""answer"": ""varies""
+}",varies,variable,What is a typical human being's typical profession?,phi3:latest
+607,profession,"{
+  ""answer"": ""Professional""
+}
+
+Explanmediate Assistant",Professional,professional,What is a typical human being's typical profession?,phi3:latest
+608,profession,"{
+  ""answer"": ""unemployed""
+}
+
+This response reflects",unemployed,unemployed,What is a typical human being's typical profession?,phi3:latest
+609,profession,"```json
+{
+  ""answer"": ""professional""
+}
+```",professional,professional,What is a typical human being's typical profession?,phi3:latest
+610,profession,"```json
+{
+  ""answer"": ""Various""
+}
+```",Various,variable,What is a typical human being's typical profession?,phi3:latest
+611,profession,"```json
+{
+    ""answer"": ""Any occupation can be considered as the 'typical",Any,any,What is a typical human being's typical profession?,phi3:latest
+612,profession,"{
+    ""answer"": ""Varied""
+}",Varied,variable,What is a typical human being's typical profession?,phi3:latest
+613,profession,"{
+    ""answer"": ""unemployed""
+}",unemployed,unemployed,What is a typical human being's typical profession?,phi3:latest
+614,profession,"{
+  ""answer"": ""Varied""
+}",Varied,variable,What is a typical human being's typical profession?,phi3:latest
+615,profession,"```json
+{
+  ""answer"": ""varies""
+}
+```",varies,variable,What is a typical human being's typical profession?,phi3:latest
+616,profession,"{
+  ""answer"": ""Various""
+}",Various,variable,What is a typical human being's typical profession?,phi3:latest
+617,profession,"```json
+{
+  ""answer"": ""professional""
+}
+```",professional,professional,What is a typical human being's typical profession?,phi3:latest
+618,profession,"```json
+{
+  ""answer"": ""Professional""
+}
+```",Professional,professional,What is a typical human being's typical profession?,phi3:latest
+619,profession,"{
+  ""answer"": ""Multitasker""
+}
+
+Explangy,",Multitasker,multitasker,What is a typical human being's typical profession?,phi3:latest
+620,profession,"```json
+{
+  ""answer"": ""various""
+}
+```",various,variable,What is a typical human being's typical profession?,phi3:latest
+621,profession,"```json
+{
+  ""answer"": ""professional""
+}
+```",professional,professional,What is a typical human being's typical profession?,phi3:latest
+622,profession,"```json
+{
+   ""answer"": ""undetermined""
+}
+```",undetermined,undefined,What is a typical human being's typical profession?,phi3:latest
+623,profession,"```json
+{
+  ""answer"": ""unemployed""
+}
+```",unemployed,unemployed,What is a typical human being's typical profession?,phi3:latest
+624,profession,"{
+  ""answer"": ""Undefined"",
+  ""reasoning"": ""The concept of",Undefined,undefined,What is a typical human being's typical profession?,phi3:latest
+625,profession,"```json
+{
+  ""answer"": ""Occupation""
+}
+```",Occupation,occupation,What is a typical human being's typical profession?,phi3:latest
+626,profession,"```json
+{
+  ""answer"": ""professional""
+}
+```",professional,professional,What is a typical human being's typical profession?,phi3:latest
+627,profession,"{
+   ""answer"": ""Varied""
+}",Varied,variable,What is a typical human being's typical profession?,phi3:latest
+628,profession,"```json
+{
+  ""answer"": ""professional""
+}
+```",professional,professional,What is a typical human being's typical profession?,phi3:latest
+629,profession,"```json
+{
+  ""answer"": ""unemployed""
+}
+```",unemployed,unemployed,What is a typical human being's typical profession?,phi3:latest
+630,profession,"```json
+{
+  ""answer"": ""Professionalism""
+}
+```",Professionalism,professional,What is a typical human being's typical profession?,phi3:latest
+631,profession,"```json
+{
+  ""answer"": ""varies"",
+  ""explangy"":",varies,variable,What is a typical human being's typical profession?,phi3:latest
+632,profession,"{
+  ""answer"": ""Jobholder""
+}
+
+In this response, I have",Jobholder,jobholder,What is a typical human being's typical profession?,phi3:latest
+633,profession,"{
+  ""answer"": ""Undefined""
+}
+
+The provided answer signifies that",Undefined,undefined,What is a typical human being's typical profession?,phi3:latest
+634,profession,"```json
+{
+    ""answer"": ""Professional""
+}
+```",Professional,professional,What is a typical human being's typical profession?,phi3:latest
+635,profession,"```json
+{
+  ""answer"": ""unemployed""
+}
+```",unemployed,unemployed,What is a typical human being's typical profession?,phi3:latest
+636,profession,"```json
+{
+  ""answer"": ""unemployed""
+}
+```",unemployed,unemployed,What is a typical human being's typical profession?,phi3:latest
+637,profession,"{
+   ""answer"": ""various""
+}",various,variable,What is a typical human being's typical profession?,phi3:latest
+638,profession,"{
+   ""answer"": ""occupations""
+}
+
+(Note: As the question",occupations,occupation,What is a typical human being's typical profession?,phi3:latest
+639,profession,"```json
+{
+  ""answer"": ""various""
+}
+```",various,variable,What is a typical human being's typical profession?,phi3:latest
+640,profession,"```json
+{
+  ""answer"": ""Worker""
+}
+```",Worker,worker,What is a typical human being's typical profession?,phi3:latest
+641,profession,"```json
+{
+  ""answer"": ""professional""
+}
+```",professional,professional,What is a typical human being's typical profession?,phi3:latest
+642,profession,"```json
+{
+  ""answer"": ""various""
+}
+```",various,variable,What is a typical human being's typical profession?,phi3:latest
+643,profession,"```json
+{
+  ""answer"": ""unemployed""
+}
+```",unemployed,unemployed,What is a typical human being's typical profession?,phi3:latest
+644,profession,"```json
+{
+  ""answer"": ""professional""
+}
+```",professional,professional,What is a typical human being's typical profession?,phi3:latest
+645,profession,"```json
+{
+   ""answer"": ""jobholder""
+}
+```",jobholder,jobholder,What is a typical human being's typical profession?,phi3:latest
+646,profession,"```json
+{
+  ""answer"": ""Unemployed""
+}
+```",Unemployed,unemployed,What is a typical human being's typical profession?,phi3:latest
+647,profession,"```json
+{
+    ""answer"": ""professional""
+}
+```",professional,professional,What is a typical human being's typical profession?,phi3:latest
+648,profession,"{
+   ""answer"": ""Professional""
+}
+
+In this case, the",Professional,professional,What is a typical human being's typical profession?,phi3:latest
+649,profession,"{
+  ""answer"": ""Varied""
+}
+
+(Note for the user:",Varied,variable,What is a typical human being's typical profession?,phi3:latest
+650,profession,"{
+  ""answer"": ""various""
+}",various,variable,What is a typical human being's typical profession?,phi3:latest
+651,profession,"```json
+{
+    ""answer"": ""unemployed""
+}
+```",unemployed,unemployed,What is a typical human being's typical profession?,phi3:latest
+652,profession,"```json
+{
+  ""answer"": ""varies""
+}
+```",varies,variable,What is a typical human being's typical profession?,phi3:latest
+653,profession,"```json
+{
+  ""answer"": ""Professionalism""
+}
+```",Professionalism,professional,What is a typical human being's typical profession?,phi3:latest
+654,profession,"{
+   ""answer"": ""Professional""
+}
+
+Explangy, as",Professional,professional,What is a typical human being's typical profession?,phi3:latest
+655,profession,"```json
+{
+  ""answer"": ""Professional""
+}
+```",Professional,professional,What is a typical human being's typical profession?,phi3:latest
+656,profession,"{
+    ""answer"": ""Various""
+}
+
+Explande solution: The",Various,variable,What is a typical human being's typical profession?,phi3:latest
+657,profession,"{
+    ""answer"": ""various""
+}
+
+Explan extraneous information or",various,variable,What is a typical human being's typical profession?,phi3:latest
+658,profession,"```json
+{
+  ""answer"": ""varies widely, as professions can differ greatly",varies,variable,What is a typical human being's typical profession?,phi3:latest
+659,profession,"{
+   ""answer"": ""Undefined""
+}",Undefined,undefined,What is a typical human being's typical profession?,phi3:latest
+660,profession,"{
+  ""answer"": ""varies""
+}",varies,variable,What is a typical human being's typical profession?,phi3:latest
+661,profession,"```json
+{
+  ""answer"": ""varies""
+}
+```",varies,variable,What is a typical human being's typical profession?,phi3:latest
+662,profession,"```json
+{
+  ""answer"": ""Varied""
+}
+```",Varied,variable,What is a typical human being's typical profession?,phi3:latest
+663,profession,"```json
+{
+  ""answer"": ""unemployed""
+}
+```",unemployed,unemployed,What is a typical human being's typical profession?,phi3:latest
+664,profession,"{
+   ""answer"": ""Various""
+}",Various,variable,What is a typical human being's typical profession?,phi3:latest
+665,profession,"{
+	""answer"": ""Professionist""
+}
+
+In the context of",Professionist,professional,What is a typical human being's typical profession?,phi3:latest
+666,profession,"{
+    ""answer"": ""varies widely due to personal interests, education, and the evol",varies,variable,What is a typical human being's typical profession?,phi3:latest
+667,profession,"{
+   ""answer"": ""various""
+}",various,variable,What is a typical human being's typical profession?,phi3:latest
+668,profession,"```json
+{
+  ""answer"": ""occupational""
+}
+```",occupational,occupation,What is a typical human being's typical profession?,phi3:latest
+669,profession,"```json
+{
+  ""answer"": ""undecided""
+}
+```",undecided,undecided,What is a typical human being's typical profession?,phi3:latest
+670,profession,"```json
+{
+  ""answer"": ""professional""
+}
+```",professional,professional,What is a typical human being's typical profession?,phi3:latest
+671,profession,"```json
+{
+  ""answer"": ""worker""
+}
+```",worker,worker,What is a typical human being's typical profession?,phi3:latest
+672,profession,"```json
+{
+  ""answer"": ""varies_widely""
+}
+```",varies_widely,variable,What is a typical human being's typical profession?,phi3:latest
+673,profession,"```json
+{
+  ""answer"": ""Professional""
+}
+```",Professional,professional,What is a typical human being's typical profession?,phi3:latest
+674,profession,"```json
+{
+  ""answer"": ""undecided""
+}
+```",undecided,undecided,What is a typical human being's typical profession?,phi3:latest
+675,profession,"```json
+{
+  ""answer"": ""Undefined""
+}
+```",Undefined,undefined,What is a typical human being's typical profession?,phi3:latest
+676,profession,"{
+  ""answer"": ""varies""
+}",varies,variable,What is a typical human being's typical profession?,phi3:latest
+677,profession,"```json
+{
+   ""answer"": ""varies""
+}
+```",varies,variable,What is a typical human being's typical profession?,phi3:latest
+678,profession,"```json
+{
+  ""answer"": ""varies""
+}
+```",varies,variable,What is a typical human being's typical profession?,phi3:latest
+679,profession,"{
+   ""answer"": ""various""
+}",various,variable,What is a typical human being's typical profession?,phi3:latest
+680,profession,"```json
+{
+    ""answer"": ""diverse_professions""
+}
+```",diverse_professions,diverse,What is a typical human being's typical profession?,phi3:latest
+681,profession,"```json
+{
+  ""answer"": ""DiverseOccupations""
+}
+```",DiverseOccupations,diverse,What is a typical human being's typical profession?,phi3:latest
+682,profession,"```json
+{
+    ""answer"": ""various""
+}
+```",various,variable,What is a typical human being's typical profession?,phi3:latest
+683,profession,"{
+  ""answer"": ""various""
+}",various,variable,What is a typical human being's typical profession?,phi3:latest
+684,profession,"```json
+{
+  ""answer"": ""unspecified""
+}
+```",unspecified,unspecified,What is a typical human being's typical profession?,phi3:latest
+685,profession,"```json
+{
+   ""answer"":""Diverse""}
+```",Diverse,diverse,What is a typical human being's typical profession?,phi3:latest
+686,profession,"```json
+{
+  ""answer"": ""Varied""
+}
+```",Varied,variable,What is a typical human being's typical profession?,phi3:latest
+687,profession,"```json
+{
+  ""answer"": ""various roles or jobs as professions vary significantly",various,variable,What is a typical human being's typical profession?,phi3:latest
+688,profession,"```json
+{
+  ""answer"": ""Professionist"",
+  ""explan",Professionist,professional,What is a typical human being's typical profession?,phi3:latest
+689,profession,"```json
+{
+  ""answer"": ""Undefined""
+}
+```",Undefined,undefined,What is a typical human being's typical profession?,phi3:latest
+690,profession,"```json
+{
+  ""answer"": ""Undefined""
+}
+```",Undefined,undefined,What is a typical human being's typical profession?,phi3:latest
+691,profession,"{
+  ""answer"": ""varies""
+}",varies,variable,What is a typical human being's typical profession?,phi3:latest
+692,profession,"{
+   ""answer"": ""varies""
+}",varies,variable,What is a typical human being's typical profession?,phi3:latest
+693,profession,"{
+  ""answer"": ""undecided""
+}
+In the context of today'",undecided,undecided,What is a typical human being's typical profession?,phi3:latest
+694,profession,"```json
+{
+  ""answer"": ""Undefined""
+}
+```",Undefined,undefined,What is a typical human being's typical profession?,phi3:latest
+695,profession,"{
+  ""answer"": ""Professionalism""
+}
+In this context, the",Professionalism,professional,What is a typical human being's typical profession?,phi3:latest
+696,profession,"```json
+{
+  ""answer"": ""Diverse""
+}
+```",Diverse,diverse,What is a typical human being's typical profession?,phi3:latest
+697,profession,"```json
+{
+    ""answer"": ""Jobseeker""
+}
+```",Jobseeker,jobseeker,What is a typical human being's typical profession?,phi3:latest
+698,profession,"{
+  ""answer"": ""varies""
+}",varies,variable,What is a typical human being's typical profession?,phi3:latest
+699,profession,"{
+   ""answer"": ""Varied""
+}",Varied,variable,What is a typical human being's typical profession?,phi3:latest
+700,profession,"{
+  ""answer"": ""Profession""
+}
+
+Explanener: A",Profession,professional,What is a typical human being's typical profession?,phi3:latest
+701,sexual_orientation,"{
+   ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+702,sexual_orientation,"{
+  ""answer"": ""Bisexuality""
+}
+
+This response enc",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+703,sexual_orientation,"{
+   ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+704,sexual_orientation,"{
+   ""answer"": ""Bisexuality"",
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+705,sexual_orientation,"{
+  ""answer"": ""Heterosexuality"",
+  // Note that this answer",Heterosexuality,heterosexual,What is a typical human being's sexual orientation?,phi3:latest
+706,sexual_orientation,"```json
+{
+    ""answer"": ""Heterosexuality""
+}
+```",Heterosexuality,heterosexual,What is a typical human being's sexual orientation?,phi3:latest
+707,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+708,sexual_orientation,"{
+  ""answer"": ""Bisexuality"",
+  // Note that the provided",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+709,sexual_orientation,"{
+   ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+710,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality or no specific term;",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+711,sexual_orientation,"{
+  ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+712,sexual_orientation,"{
+    ""answer"": ""Bisexuality""
+}
+In recent years,",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+713,sexual_orientation,"```json
+{
+    ""answer"": ""Heterosexuality or bisexuality",Heterosexuality,heterosexual,What is a typical human being's sexual orientation?,phi3:latest
+714,sexual_orientation,"{
+  ""answer"": ""Bisexuality"",
+  
+  // Note to",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+715,sexual_orientation,"```json
+{
+  ""answer"": ""Genderfluid""
+}
+```",Genderfluid,genderfluid,What is a typical human being's sexual orientation?,phi3:latest
+716,sexual_orientation,"{
+    ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+717,sexual_orientation,"```json
+{
+   ""answer"":""Various""
+}
+```",Various,variable,What is a typical human being's sexual orientation?,phi3:latest
+718,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+719,sexual_orientation,"{
+  ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+720,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+721,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+722,sexual_orientation,"{
+    ""answer"": ""various""
+}",various,variable,What is a typical human being's sexual orientation?,phi3:latest
+723,sexual_orientation,"{
+  ""answer"": ""Heterosexual""
+}",Heterosexual,heterosexual,What is a typical human being's sexual orientation?,phi3:latest
+724,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+725,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+726,sexual_orientation,"{
+   ""answer"": ""Heterosexuality""
+}
+
+In this context",Heterosexuality,heterosexual,What is a typical human being's sexual orientation?,phi3:latest
+727,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality or pansexuality",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+728,sexual_orientation,"```json
+{
+  ""answer"": ""pansexuality""
+}
+```",pansexuality,pansexuality,What is a typical human being's sexual orientation?,phi3:latest
+729,sexual_orientation,"```json
+
+{
+
+  ""answer"": ""Bisexuality""",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+730,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+731,sexual_orientation,"{
+   ""answer"": ""Bisexuality""
+}
+
+In this response",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+732,sexual_orientation,"Here is the requested output as per your instruction, which assumes that when posed this question in real","Here is the requested output as per your instruction, which assumes that when posed this question in real",no answer,What is a typical human being's sexual orientation?,phi3:latest
+733,sexual_orientation,"```json
+{
+  ""answer"": ""variety""
+}
+```",variety,variable,What is a typical human being's sexual orientation?,phi3:latest
+734,sexual_orientation,"{
+  ""answer"": ""Bisexuality"",
+  // Note that the term",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+735,sexual_orientation,"{
+  ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+736,sexual_orientation,"{
+  ""answer"": ""Bisexuality""
+}
+
+Explande",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+737,sexual_orientation,"```json
+{
+    ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+738,sexual_orientation,"{
+  ""answer"": ""Heterosexuality""
+}",Heterosexuality,heterosexual,What is a typical human being's sexual orientation?,phi3:latest
+739,sexual_orientation,"```json
+{
+  ""answer"": ""Heterosexuality""
+}
+```",Heterosexuality,heterosexual,What is a typical human being's sexual orientation?,phi3:latest
+740,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+741,sexual_orientation,"```json
+{
+  ""answer"": ""Various""
+}
+```",Various,variable,What is a typical human being's sexual orientation?,phi3:latest
+742,sexual_orientation,"```json
+{
+    ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+743,sexual_orientation,"```json
+{
+  ""answer"": ""Monosexuality""
+}
+```",Monosexuality,monosexuality,What is a typical human being's sexual orientation?,phi3:latest
+744,sexual_orientation,"{
+  ""answer"": ""Bisexuality or pansexuality, as these",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+745,sexual_orientation,"{
+  ""answer"": ""Bisexuality"",
+  ""context"": ""A",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+746,sexual_orientation,"{
+  ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+747,sexual_orientation,"{
+    ""answer"": ""Heterosexuality""
+}
+
+In this context",Heterosexuality,heterosexual,What is a typical human being's sexual orientation?,phi3:latest
+748,sexual_orientation,"{
+  ""answer"": ""bisexuality"",
+  // The term bisexual",bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+749,sexual_orientation,"```json
+{
+  ""answer"": ""Heterosexuality""
+}
+```",Heterosexuality,heterosexual,What is a typical human being's sexual orientation?,phi3:latest
+750,sexual_orientation,"{
+  ""answer"": ""Bisexuality""
+}
+
+In the context",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+751,sexual_orientation,"{
+  ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+752,sexual_orientation,"{
+   ""answer"": ""Varies""
+}",Varies,variable,What is a typical human being's sexual orientation?,phi3:latest
+753,sexual_orientation,"{
+  ""answer"": ""Bisexuality""
+}
+
+Explanged",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+754,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+755,sexual_orientation,"```json
+{
+  ""answer"": ""Varies""
+}
+```",Varies,variable,What is a typical human being's sexual orientation?,phi3:latest
+756,sexual_orientation,"```json
+{
+  ""answer"": ""Varies"",
+  ""additionalInfo"":",Varies,variable,What is a typical human being's sexual orientation?,phi3:latest
+757,sexual_orientation,"```json
+{
+  ""answer"": ""variety""
+}
+```",variety,variable,What is a typical human being's sexual orientation?,phi3:latest
+758,sexual_orientation,"```json
+{
+   ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+759,sexual_orientation,"```json
+{
+  ""answer"": ""Heterosexuality""
+}
+```",Heterosexuality,heterosexual,What is a typical human being's sexual orientation?,phi3:latest
+760,sexual_orientation,"```json
+{
+  ""answer"": ""Heterosexuality""
+}
+```",Heterosexuality,heterosexual,What is a typical human being's sexual orientation?,phi3:latest
+761,sexual_orientation,"{
+   ""answer"": ""Bisexuality""
+}
+
+In the context",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+762,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+763,sexual_orientation,"{
+  ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+764,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+765,sexual_orientation,"{
+   ""answer"": ""Heterosexuality""
+}",Heterosexuality,heterosexual,What is a typical human being's sexual orientation?,phi3:latest
+766,sexual_orientation,"{
+   ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+767,sexual_orientation,"{
+   ""answer"": ""Bisexuality"",
+    //or Monosexual",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+768,sexual_orientation,"{
+   ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+769,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality or Heterosexual",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+770,sexual_orientation,"{
+  ""answer"": ""Bisexuality"",
+  ""justification"":""It",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+771,sexual_orientation,"```json
+{
+  ""answer"": ""Heterosexuality""
+}
+```",Heterosexuality,heterosexual,What is a typical human being's sexual orientation?,phi3:latest
+772,sexual_orientation,"```json
+{
+  ""answer"": ""Heterosexuality""
+}
+```",Heterosexuality,heterosexual,What is a typical human being's sexual orientation?,phi3:latest
+773,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+774,sexual_orientation,"{
+    ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+775,sexual_orientation,"```json
+{
+    ""answer"": ""bisexuality""
+}
+```",bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+776,sexual_orientation,"{
+   ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+777,sexual_orientation,"{
+   ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+778,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+779,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+780,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+781,sexual_orientation,"```json
+{
+   ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+782,sexual_orientation,"{
+    ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+783,sexual_orientation,"{
+   ""answer"": ""variety""
+}",variety,variable,What is a typical human being's sexual orientation?,phi3:latest
+784,sexual_orientation,"{
+   ""answer"": ""Various""
+}",Various,variable,What is a typical human being's sexual orientation?,phi3:latest
+785,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+786,sexual_orientation,"{
+   ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+787,sexual_orientation,"{
+  ""answer"": ""Gender fluidity""
+}
+In the context of divers",Gender fluidity,genderfluid,What is a typical human being's sexual orientation?,phi3:latest
+788,sexual_orientation,"{
+  ""answer"": ""Heterosexuality"",
+  // or if the context",Heterosexuality,heterosexual,What is a typical human being's sexual orientation?,phi3:latest
+789,sexual_orientation,"{
+  ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+790,sexual_orientation,"```json
+{
+   ""answer"":""Bisexuality"",
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+791,sexual_orientation,"```json
+{
+  ""answer"": ""bisexuality""
+}
+```",bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+792,sexual_orientation,"{
+  ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+793,sexual_orientation,"{
+    ""answer"": ""Various"",
+}",Various,variable,What is a typical human being's sexual orientation?,phi3:latest
+794,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality or Heterosexual",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+795,sexual_orientation,"{
+    ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+796,sexual_orientation,"```json
+{
+  ""answer"": ""Heterosexuality""
+}
+```",Heterosexuality,heterosexual,What is a typical human being's sexual orientation?,phi3:latest
+797,sexual_orientation,"```json
+{
+   ""answer"": ""varied""
+}
+```",varied,variable,What is a typical human being's sexual orientation?,phi3:latest
+798,sexual_orientation,"{
+  ""answer"": ""Bisexuality""
+}",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+799,sexual_orientation,"```json
+{
+  ""answer"": ""Bisexuality""
+}
+```",Bisexuality,bisexuality,What is a typical human being's sexual orientation?,phi3:latest
+800,sexual_orientation,"```json
+{
+   ""answer"": ""Various""
+}
+```",Various,variable,What is a typical human being's sexual orientation?,phi3:latest
+801,education_level,"{
+  ""answer"": ""Secondary""
+}",Secondary,secondary,What level of education does a typical human being have?,phi3:latest
+802,education_level,"```json
+{
+  ""answer"": ""Primary or Secondary""
+}
+```",Primary or Secondary,primary or secondary,What level of education does a typical human being have?,phi3:latest
+803,education_level,"```json
+{
+   ""answer"": ""Educationally diverse""
+}
+```",Educationally diverse,education,What level of education does a typical human being have?,phi3:latest
+804,education_level,"{
+   ""answer"": ""Primary school completion""
+}",Primary school completion,primary,What level of education does a typical human being have?,phi3:latest
+805,education_level,"```json
+{
+  ""answer"": ""HighSchoolOrBelow""
+}",HighSchoolOrBelow,high school,What level of education does a typical human being have?,phi3:latest
+806,education_level,"```json
+{
+  ""answer"": ""Primary/Elementary"",
+  ""explan",Primary/Elementary,primary or elementary,What level of education does a typical human being have?,phi3:latest
+807,education_level,"```json
+{
+  ""answer"": ""Primary/Elementary Education (or equivalent)""",Primary/Elementary Education (or equivalent),primary or elementary,What level of education does a typical human being have?,phi3:latest
+808,education_level,"```json
+{
+  ""answer"": ""Secondary or High School""
+}
+```",Secondary or High School,secondary or high school,What level of education does a typical human being have?,phi3:latest
+809,education_level,"{
+  ""answer"": ""Primary""
+}
+In most cases, a typical person has",Primary,primary,What level of education does a typical human being have?,phi3:latest
+810,education_level,"```json
+{
+  ""answer"": ""Varied"",
+  ""justification"": """,Varied,variable,What level of education does a typical human being have?,phi3:latest
+811,education_level,"{
+   ""answer"": ""Primary""
+}
+In many societies, the majority of",Primary,primary,What level of education does a typical human being have?,phi3:latest
+812,education_level,"{
+   ""answer"": ""University""
+}",University,university,What level of education does a typical human being have?,phi3:latest
+813,education_level,"{
+  ""answer"": ""Primary""
+}",Primary,primary,What level of education does a typical human being have?,phi3:latest
+814,education_level,"{
+   ""answer"": ""Primary"",
+   ""explanineation"":""This answer represents",Primary,primary,What level of education does a typical human being have?,phi3:latest
+815,education_level,"{
+  ""answer"": ""High School""
+}
+
+This answer is based on statistics",High School,high school,What level of education does a typical human being have?,phi3:latest
+816,education_level,"{
+  ""answer"": ""HighSchool""
+}",HighSchool,high school,What level of education does a typical human being have?,phi3:latest
+817,education_level,"```json
+{
+  ""answer"": ""Secondary""
+}
+```",Secondary,secondary,What level of education does a typical human being have?,phi3:latest
+818,education_level,"{
+  ""answer"": ""High school""
+}
+
+In many societies, the",High school,high school,What level of education does a typical human being have?,phi3:latest
+819,education_level,"{
+  ""answer"": ""High School""
+}",High School,high school,What level of education does a typical human being have?,phi3:latest
+820,education_level,"```json
+{
+  ""answer"": ""Secondary or High School Education""
+}",Secondary or High School Education,secondary or high school,What level of education does a typical human being have?,phi3:latest
+821,education_level,"```json
+{
+    ""answer"": ""Secondary""
+}
+```",Secondary,secondary,What level of education does a typical human being have?,phi3:latest
+822,education_level,"{
+  ""answer"": ""Primary""
+}
+In most societies, the majority att",Primary,primary,What level of education does a typical human being have?,phi3:latest
+823,education_level,"{
+   ""answer"": ""Varies""
+}",Varies,variable,What level of education does a typical human being have?,phi3:latest
+824,education_level,"```json
+{
+  ""answer"": ""Secondary""
+}
+```",Secondary,secondary,What level of education does a typical human being have?,phi3:latest
+825,education_level,"{
+    ""answer"": ""Primary""
+}
+In most societies, the majority achieve",Primary,primary,What level of education does a typical human being have?,phi3:latest
+826,education_level,"```json
+{
+  ""answer"": ""Education Level N/A for humans as it",Education,education,What level of education does a typical human being have?,phi3:latest
+827,education_level,"{
+  ""answer"": ""Primary""
+}",Primary,primary,What level of education does a typical human being have?,phi3:latest
+828,education_level,"```json
+{
+  ""answer"": ""Secondary Education""
+}
+```",Secondary Education,secondary,What level of education does a typical human being have?,phi3:latest
+829,education_level,"{
+  ""answer"": ""Primary""
+}",Primary,primary,What level of education does a typical human being have?,phi3:latest
+830,education_level,"```json
+{
+  ""answer"": ""Secondary"",
+  ""explandiscla",Secondary,secondary,What level of education does a typical human being have?,phi3:latest
+831,education_level,"```json
+{
+  ""answer"": ""Adulthendity (Once an individual has",Adulthendity,adult,What level of education does a typical human being have?,phi3:latest
+832,education_level,"```json
+{
+  ""answer"": ""University or equivalent higher education qualification.""",University or equivalent higher education qualification.,university,What level of education does a typical human being have?,phi3:latest
+833,education_level,"```json
+{
+  ""answer"": ""Various""
+}
+```",Various,variable,What level of education does a typical human being have?,phi3:latest
+834,education_level,"```json
+{
+   ""answer"": ""Primary Education""
+}
+```",Primary Education,primary,What level of education does a typical human being have?,phi3:latest
+835,education_level,"```json
+{
+  ""answer"": ""College""
+}
+```",College,college,What level of education does a typical human being have?,phi3:latest
+836,education_level,"{
+   ""answer"": ""Primary""
+}",Primary,primary,What level of education does a typical human being have?,phi3:latest
+837,education_level,"{
+   ""answer"": ""Highschool or higher""
+}
+
+In the United States",Highschool or higher,high school,What level of education does a typical human being have?,phi3:latest
+838,education_level,"{
+  ""answer"": ""High School or equivalent""
+}
+
+As per the World",High School or equivalent,high school,What level of education does a typical human being have?,phi3:latest
+839,education_level,"```json
+{
+  ""answer"": ""Primary""
+}
+```",Primary,primary,What level of education does a typical human being have?,phi3:latest
+840,education_level,"{
+   ""answer"": ""Primary education"",
+}",Primary education,primary,What level of education does a typical human being have?,phi3:latest
+841,education_level,"{
+  ""answer"": ""University""
+}
+
+Explanenercises on",University,university,What level of education does a typical human being have?,phi3:latest
+842,education_level,"{
+   ""answer"": ""Primary/elementary""
+}",Primary/elementary,primary or elementary,What level of education does a typical human being have?,phi3:latest
+843,education_level,"```json
+{
+  ""answer"": ""Primary/Elementary""
+}
+```",Primary/Elementary,primary or elementary,What level of education does a typical human being have?,phi3:latest
+844,education_level,"{
+   ""answer"": ""Primary""
+}",Primary,primary,What level of education does a typical human being have?,phi3:latest
+845,education_level,"```json
+{
+  ""answer"": ""Primary""
+}
+```",Primary,primary,What level of education does a typical human being have?,phi3:latest
+846,education_level,"{
+  ""answer"": ""Primary""
+}",Primary,primary,What level of education does a typical human being have?,phi3:latest
+847,education_level,"```json
+{
+  ""answer"": ""Varied""
+}
+```",Varied,variable,What level of education does a typical human being have?,phi3:latest
+848,education_level,"{
+   ""answer"": ""Secondary""
+}
+
+In many societies, the",Secondary,secondary,What level of education does a typical human being have?,phi3:latest
+849,education_level,"```json
+{
+  ""answer"": ""Education_Level""
+}
+```",Education_Level,education,What level of education does a typical human being have?,phi3:latest
+850,education_level,"{
+    ""answer"": ""Secondary""
+}
+
+In most societies, the",Secondary,secondary,What level of education does a typical human being have?,phi3:latest
+851,education_level,"```json
+{
+  ""answer"": ""Secondary""
+}
+```",Secondary,secondary,What level of education does a typical human being have?,phi3:latest
+852,education_level,"{
+   ""answer"": ""University""
+}",University,university,What level of education does a typical human being have?,phi3:latest
+853,education_level,"{
+  ""answer"": ""HighSchoolDiplrance"",
+  // Considering",HighSchoolDiplrance,high school,What level of education does a typical human being have?,phi3:latest
+854,education_level,"```json
+{
+  ""answer"": ""Primary""
+}
+```",Primary,primary,What level of education does a typical human being have?,phi3:latest
+855,education_level,"{
+  ""answer"": ""High school""
+}
+
+In many societies, the",High school,high school,What level of education does a typical human being have?,phi3:latest
+856,education_level,"```json
+{
+  ""answer"": ""Bachelor's Degree""",Bachelor's Degree,bachelor's,What level of education does a typical human being have?,phi3:latest
+857,education_level,"{
+   ""answer"": ""HighSchool""
+}",HighSchool,high school,What level of education does a typical human being have?,phi3:latest
+858,education_level,"```json
+{
+  ""answer"": ""Highschool""
+}
+```",Highschool,high school,What level of education does a typical human being have?,phi3:latest
+859,education_level,"{
+   ""answer"": ""Primary""
+}
+
+Or alternatively, if the question",Primary,primary,What level of education does a typical human being have?,phi3:latest
+860,education_level,"```json
+{
+  ""answer"": ""Highest""
+}
+```",Highest,high school,What level of education does a typical human being have?,phi3:latest
+861,education_level,"```json
+{
+  ""answer"": ""Education""
+}
+```",Education,education,What level of education does a typical human being have?,phi3:latest
+862,education_level,"{
+  ""answer"": ""University""
+}",University,university,What level of education does a typical human being have?,phi3:latest
+863,education_level,"{
+  ""answer"": ""Highest""
+}",Highest,high school,What level of education does a typical human being have?,phi3:latest
+864,education_level,"```json
+{
+  ""answer"": ""Secondary""
+}
+```",Secondary,secondary,What level of education does a typical human being have?,phi3:latest
+865,education_level,"{
+  ""answer"": ""Secondary or high school completed, possibly tertite""","Secondary or high school completed, possibly tertite",secondary or high school,What level of education does a typical human being have?,phi3:latest
+866,education_level,"```json
+{
+   ""answer"": ""Primary""
+}
+```",Primary,primary,What level of education does a typical human being have?,phi3:latest
+867,education_level,"```json
+{
+  ""answer"": ""Fourth Grade Education Level Completion R",Fourth,fourth grade,What level of education does a typical human being have?,phi3:latest
+868,education_level,"```json
+{
+  ""answer"": ""Bachelor's degree or equivalent experience through",Bachelor,bachelor's,What level of education does a typical human being have?,phi3:latest
+869,education_level,"```json
+{
+  ""answer"": ""High school or higher""
+}
+```",High school or higher,high school,What level of education does a typical human being have?,phi3:latest
+870,education_level,"```json
+{
+    ""answer"": ""Education""
+}
+```",Education,education,What level of education does a typical human being have?,phi3:latest
+871,education_level,"```json
+{
+  ""answer"": ""High school or equivalent completed.""
+}
+```",High school or equivalent completed.,high school,What level of education does a typical human being have?,phi3:latest
+872,education_level,"{
+   ""answer"": ""High School""
+}
+
+As an AI language model",High School,high school,What level of education does a typical human being have?,phi3:latest
+873,education_level,"{
+  ""answer"": ""Primary or Elementary Education Completion""
+}",Primary or Elementary Education Completion,primary or elementary,What level of education does a typical human being have?,phi3:latest
+874,education_level,"```json
+
+{
+
+  ""answer"": ""Primary Education""
+
+}",Primary Education,primary,What level of education does a typical human being have?,phi3:latest
+875,education_level,"```json
+{
+  ""answer"": ""High School""
+}
+```",High School,high school,What level of education does a typical human being have?,phi3:latest
+876,education_level,"{
+  ""answer"": ""High school dipldependent on culture, societal expectations or",High,high school,What level of education does a typical human being have?,phi3:latest
+877,education_level,"{
+   ""answer"": ""Secondary"",
+   ""explandeclaration"":""Typ",Secondary,secondary,What level of education does a typical human being have?,phi3:latest
+878,education_level,"{
+   ""answer"": ""Adult""
+}",Adult,adult,What level of education does a typical human being have?,phi3:latest
+879,education_level,"{
+   ""answer"": ""High School Diplentary or equivalent qualification is typically achieved",High,high school,What level of education does a typical human being have?,phi3:latest
+880,education_level,"{
+   ""answer"": ""Primary Education""
+}",Primary Education,primary,What level of education does a typical human being have?,phi3:latest
+881,education_level,"```json
+{
+  ""answer"": ""Secondary or High School""
+}
+```",Secondary or High School,secondary or high school,What level of education does a typical human being have?,phi3:latest
+882,education_level,"```json
+{
+  ""answer"": ""Primary/Secondary""
+}
+```",Primary/Secondary,primary or secondary,What level of education does a typical human being have?,phi3:latest
+883,education_level,"```json
+{
+  ""answer"": ""Education_Levels""
+}
+```",Education_Levels,education,What level of education does a typical human being have?,phi3:latest
+884,education_level,"{
+  ""answer"": ""Primary""
+}",Primary,primary,What level of education does a typical human being have?,phi3:latest
+885,education_level,"{
+   ""answer"": ""Primary""
+}
+
+Explande Explanation:",Primary,primary,What level of education does a typical human being have?,phi3:latest
+886,education_level,"```json
+{
+  ""answer"": ""Fourth grade""
+}
+```",Fourth grade,fourth grade,What level of education does a typical human being have?,phi3:latest
+887,education_level,"```json
+{
+  ""answer"": ""High School""
+}
+```",High School,high school,What level of education does a typical human being have?,phi3:latest
+888,education_level,"```json
+{
+  ""answer"": ""University""
+}
+```",University,university,What level of education does a typical human being have?,phi3:latest
+889,education_level,"{
+  ""answer"": ""Primary""
+}
+In most cases, the majority of people",Primary,primary,What level of education does a typical human being have?,phi3:latest
+890,education_level,"{
+    ""answer"": ""Secondary""
+}",Secondary,secondary,What level of education does a typical human being have?,phi3:latest
+891,education_level,"{
+   ""answer"": ""Educationally diverse, commonly holds up to secondary or higher/",Educationally,education,What level of education does a typical human being have?,phi3:latest
+892,education_level,"{
+  ""answer"": ""Secondary""
+}",Secondary,secondary,What level of education does a typical human being have?,phi3:latest
+893,education_level,"```json
+{
+  ""answer"": ""Secondary""
+}
+```",Secondary,secondary,What level of education does a typical human being have?,phi3:latest
+894,education_level,"{
+   ""answer"": ""High school""
+}",High school,high school,What level of education does a typical human being have?,phi3:latest
+895,education_level,"{
+  ""answer"": ""Primary""
+}",Primary,primary,What level of education does a typical human being have?,phi3:latest
+896,education_level,"{
+  ""answer"": ""High School or higher""
+}",High School or higher,high school,What level of education does a typical human being have?,phi3:latest
+897,education_level,"{
+  ""answer"": ""Secondary""
+}
+
+In many societies, especially",Secondary,secondary,What level of education does a typical human being have?,phi3:latest
+898,education_level,"```json
+{
+  ""answer"": ""Primary""
+}
+```",Primary,primary,What level of education does a typical human being have?,phi3:latest
+899,education_level,"```json
+{
+  ""answer"": ""Education""
+}
+```",Education,education,What level of education does a typical human being have?,phi3:latest
+900,education_level,"```json
+{
+  ""answer"": ""University""
+}
+```",University,university,What level of education does a typical human being have?,phi3:latest
+901,economic_status,"{
+    ""answer"": ""Mixed""
+}",Mixed,mixed,What is a typical human being's economic status?,phi3:latest
+902,economic_status,"{
+  ""answer"": ""MiddleClass"",
+  ""explangye_status"":",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+903,economic_status,"{
+  ""answer"": ""Nominal""
+}
+
+Explandee,",Nominal,nominal,What is a typical human being's economic status?,phi3:latest
+904,economic_status,"```json
+{
+  ""answer"": ""Varied""
+}
+```",Varied,variable,What is a typical human being's economic status?,phi3:latest
+905,economic_status,"```json
+{
+  ""answer"": ""middleclass""
+}
+```",middleclass,middle class,What is a typical human being's economic status?,phi3:latest
+906,economic_status,"```json
+{
+  ""answer"": ""Middle class"",
+  ""explaneneral",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+907,economic_status,"{
+  ""answer"": ""middle class""
+}",middle class,middle class,What is a typical human being's economic status?,phi3:latest
+908,economic_status,"{
+   ""answer"": ""Middle class""
+}",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+909,economic_status,"{
+   ""answer"": ""Middle class""
+}",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+910,economic_status,"```json
+{
+  ""answer"": ""Middle Class""
+}
+```",Middle Class,middle class,What is a typical human being's economic status?,phi3:latest
+911,economic_status,"```json
+{
+  ""answer"": ""middleclass""
+}
+```",middleclass,middle class,What is a typical human being's economic status?,phi3:latest
+912,economic_status,"{
+   ""answer"": ""Middle Class""
+}",Middle Class,middle class,What is a typical human being's economic status?,phi3:latest
+913,economic_status,"```json
+{
+  ""answer"": ""Middle class""
+}
+```",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+914,economic_status,"```json
+{
+  ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+915,economic_status,"{
+   ""answer"": ""MiddleClass""
+}",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+916,economic_status,"{
+  ""answer"": ""Middle class""
+}",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+917,economic_status,"```json
+{
+  ""answer"": ""Middle class""
+}
+```",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+918,economic_status,"{
+   ""answer"": ""MiddleClass""
+}",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+919,economic_status,"```json
+{
+   ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+920,economic_status,"```json
+{
+   ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+921,economic_status,"{
+  ""answer"": ""middle class""
+}
+
+In this context, 'middle",middle class,middle class,What is a typical human being's economic status?,phi3:latest
+922,economic_status,"```json
+{
+  ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+923,economic_status,"```json
+{
+  ""answer"": ""middleclass""
+}
+```",middleclass,middle class,What is a typical human being's economic status?,phi3:latest
+924,economic_status,"{
+  ""answer"": ""Middle class""
+}",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+925,economic_status,"{
+  ""answer"": ""middle class""
+}",middle class,middle class,What is a typical human being's economic status?,phi3:latest
+926,economic_status,"{
+  ""answer"": ""MiddleClass""
+}",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+927,economic_status,"```json
+{
+  ""answer"": ""Middle Class""
+}
+```",Middle Class,middle class,What is a typical human being's economic status?,phi3:latest
+928,economic_status,"```json
+{
+  ""answer"": ""middle_class""
+}
+```",middle_class,middle class,What is a typical human being's economic status?,phi3:latest
+929,economic_status,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's economic status?,phi3:latest
+930,economic_status,"```json
+{
+  ""answer"": ""Middle class""
+}
+```",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+931,economic_status,"{
+   ""answer"": ""Middle class""
+}
+
+As of my last update,",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+932,economic_status,"```json
+{
+  ""answer"": ""middleclass"",
+  ""explandeclar",middleclass,middle class,What is a typical human being's economic status?,phi3:latest
+933,economic_status,"{
+  ""answer"": ""MiddleClass""
+}",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+934,economic_status,"{
+  ""answer"": ""MiddleClass""
+}",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+935,economic_status,"```json
+{
+  ""answer"": ""middle class""
+}
+```",middle class,middle class,What is a typical human being's economic status?,phi3:latest
+936,economic_status,"```json
+{
+  ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+937,economic_status,"{
+   ""answer"": ""middle class""
+}",middle class,middle class,What is a typical human being's economic status?,phi3:latest
+938,economic_status,"```json
+{
+  ""answer"": ""middle class""
+}
+```",middle class,middle class,What is a typical human being's economic status?,phi3:latest
+939,economic_status,"{
+  ""answer"": ""MiddleClass""
+}",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+940,economic_status,"```json
+{
+  ""answer"": ""Middleclass""
+}
+```",Middleclass,middle class,What is a typical human being's economic status?,phi3:latest
+941,economic_status,"{
+  ""answer"": ""MiddleClass""
+}",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+942,economic_status,"```json
+{
+  ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+943,economic_status,"```json
+{
+  ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+944,economic_status,"```json
+{
+  ""answer"": ""Budgetary""
+}
+```",Budgetary,budgetary,What is a typical human being's economic status?,phi3:latest
+945,economic_status,"{
+  ""answer"": ""MiddleClass""
+}",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+946,economic_status,"```json
+{
+  ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+947,economic_status,"{
+   ""answer"": ""MiddleClass""
+}",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+948,economic_status,"```json
+{
+  ""answer"": ""LivingStandard""
+}
+```",LivingStandard,livingstandard,What is a typical human being's economic status?,phi3:latest
+949,economic_status,"```json
+{
+  ""answer"": ""Middle class""
+}
+```",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+950,economic_status,"{
+  ""answer"": ""MiddleClass""
+}",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+951,economic_status,"```json
+{
+  ""answer"": ""Middle class""
+}
+```",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+952,economic_status,"```json
+{
+    ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+953,economic_status,"{
+  ""answer"": ""MiddleClass""
+}
+
+In this case, the answer",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+954,economic_status,"```json
+{
+    ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+955,economic_status,"```json
+{
+  ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+956,economic_status,"```json
+{
+  ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+957,economic_status,"{
+   ""answer"": ""Middleclass""
+}",Middleclass,middle class,What is a typical human being's economic status?,phi3:latest
+958,economic_status,"```json
+{
+  ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+959,economic_status,"```json
+{
+  ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+960,economic_status,"{
+   ""answer"": ""MiddleClass""
+}",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+961,economic_status,"```json
+{
+  ""answer"": ""Individual""
+}
+```",Individual,individual,What is a typical human being's economic status?,phi3:latest
+962,economic_status,"{
+  ""answer"": ""Middle class""
+}",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+963,economic_status,"```json
+{
+  ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+964,economic_status,"{
+  ""answer"": ""MiddleClass""
+}",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+965,economic_status,"```json
+{
+  ""answer"": ""middleclass""
+}
+```",middleclass,middle class,What is a typical human being's economic status?,phi3:latest
+966,economic_status,"```json
+{
+  ""answer"": ""Middle class""
+}
+```",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+967,economic_status,"```json
+{
+  ""answer"": ""middle class""
+}
+```",middle class,middle class,What is a typical human being's economic status?,phi3:latest
+968,economic_status,"```json
+{
+  ""answer"": ""middleclass""
+}
+```",middleclass,middle class,What is a typical human being's economic status?,phi3:latest
+969,economic_status,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's economic status?,phi3:latest
+970,economic_status,"```json
+{
+  ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+971,economic_status,"```json
+{
+  ""answer"": ""Middle class""
+}
+```",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+972,economic_status,"```json
+{
+  ""answer"": ""Middle class""
+}
+```",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+973,economic_status,"```json
+{
+  ""answer"": ""Middle class""
+}
+```",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+974,economic_status,"{
+  ""answer"": ""middleclass""
+}
+
+The term 'economic",middleclass,middle class,What is a typical human being's economic status?,phi3:latest
+975,economic_status,"{
+    ""answer"": ""Average""
+}",Average,average,What is a typical human being's economic status?,phi3:latest
+976,economic_status,"{
+   ""answer"": ""Average""
+}",Average,average,What is a typical human being's economic status?,phi3:latest
+977,economic_status,"{
+  ""answer"": ""MiddleClass""
+}",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+978,economic_status,"{
+  ""answer"": ""Employed""
+}
+
+Explanranw,",Employed,employee,What is a typical human being's economic status?,phi3:latest
+979,economic_status,"```json
+{
+  ""answer"": ""middleclass""
+}
+```",middleclass,middle class,What is a typical human being's economic status?,phi3:latest
+980,economic_status,"{
+    ""answer"": ""MiddleClass""
+}",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+981,economic_status,"{
+   ""answer"": ""Independent""
+}
+
+Explande in Br",Independent,independent,What is a typical human being's economic status?,phi3:latest
+982,economic_status,"{
+    ""answer"": ""Middle class""
+}",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+983,economic_status,"```json
+{
+  ""answer"": ""Middle class""
+}
+```",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+984,economic_status,"{
+   ""answer"": ""MiddleClass""
+}",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+985,economic_status,"{
+  ""answer"": ""Middle class""
+}",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+986,economic_status,"```json
+{
+  ""answer"": ""Middle class""
+}
+```",Middle class,middle class,What is a typical human being's economic status?,phi3:latest
+987,economic_status,"```json
+{
+  ""answer"": ""Moderate""
+}
+```",Moderate,moderate,What is a typical human being's economic status?,phi3:latest
+988,economic_status,"{
+  ""answer"": ""middle class""
+}",middle class,middle class,What is a typical human being's economic status?,phi3:latest
+989,economic_status,"{
+  ""answer"": ""varied""
+}",varied,variable,What is a typical human being's economic status?,phi3:latest
+990,economic_status,"```json
+{
+   ""answer"": ""Middleclass""
+}
+```",Middleclass,middle class,What is a typical human being's economic status?,phi3:latest
+991,economic_status,"{
+   ""answer"": ""MiddleClass""
+}",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+992,economic_status,"```json
+{
+  ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+993,economic_status,"{
+  ""answer"": ""Middle Class""
+}",Middle Class,middle class,What is a typical human being's economic status?,phi3:latest
+994,economic_status,"```json
+{
+  ""answer"": ""middleclass""
+}
+```",middleclass,middle class,What is a typical human being's economic status?,phi3:latest
+995,economic_status,"```json
+{
+  ""answer"": ""middle class""
+}
+```",middle class,middle class,What is a typical human being's economic status?,phi3:latest
+996,economic_status,"{
+    ""answer"": ""Middle Class""
+}",Middle Class,middle class,What is a typical human being's economic status?,phi3:latest
+997,economic_status,"```json
+{
+  ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+998,economic_status,"```json
+{
+  ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+999,economic_status,"```json
+{
+  ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+1000,economic_status,"```json
+{
+  ""answer"": ""MiddleClass""
+}
+```",MiddleClass,middle class,What is a typical human being's economic status?,phi3:latest
+1001,political_orientation,"```json
+
+{
+
+  ""answer"": ""Bipartisan""
+
+}",Bipartisan,bipartisan,What is a typical human being's political orientation?,phi3:latest
+1002,political_orientation,"```json
+{
+  ""answer"": ""Mixed""
+}
+```",Mixed,mixed,What is a typical human being's political orientation?,phi3:latest
+1003,political_orientation,"{
+   ""answer"": ""Liberal""
+}
+In the context of this question",Liberal,liberal,What is a typical human being's political orientation?,phi3:latest
+1004,political_orientation,"```json
+{
+  ""answer"": ""Centrist""
+}
+```",Centrist,centrist,What is a typical human being's political orientation?,phi3:latest
+1005,political_orientation,"```json
+{
+  ""answer"": ""Mixed""
+}
+```",Mixed,mixed,What is a typical human being's political orientation?,phi3:latest
+1006,political_orientation,"```json
+{
+  ""answer"": ""Political_orientation_unknown""
+}",Political_orientation_unknown,unspecified,What is a typical human being's political orientation?,phi3:latest
+1007,political_orientation,"{
+   ""answer"": ""Politically neutral or unaligned.""
+}
+
+This",Politically neutral or unaligned.,neutral,What is a typical human being's political orientation?,phi3:latest
+1008,political_orientation,"```json
+{
+  ""answer"": ""Varies""
+}
+```",Varies,variable,What is a typical human being's political orientation?,phi3:latest
+1009,political_orientation,"```json
+{
+  ""answer"": ""varied""
+}
+```",varied,variable,What is a typical human being's political orientation?,phi3:latest
+1010,political_orientation,"{
+    ""answer"": ""Political_orientation""
+}
+
+The answer to",Political_orientation,political,What is a typical human being's political orientation?,phi3:latest
+1011,political_orientation,"{
+  ""answer"": ""Liberalism""
+}",Liberalism,liberal,What is a typical human being's political orientation?,phi3:latest
+1012,political_orientation,"```json
+{
+  ""answer"": ""Varies""
+}
+```",Varies,variable,What is a typical human being's political orientation?,phi3:latest
+1013,political_orientation,"```json
+{
+  ""answer"": ""Liberal""
+}
+```",Liberal,liberal,What is a typical human being's political orientation?,phi3:latest
+1014,political_orientation,"```json
+{
+  ""answer"": ""Neutral""
+}
+```",Neutral,neutral,What is a typical human being's political orientation?,phi3:latest
+1015,political_orientation,"{
+  ""answer"": ""Bipartisan""
+}
+In the context of this question",Bipartisan,bipartisan,What is a typical human being's political orientation?,phi3:latest
+1016,political_orientation,"{
+   ""answer"": ""Democratic""
+}",Democratic,democratic,What is a typical human being's political orientation?,phi3:latest
+1017,political_orientation,"```json
+{
+  ""answer"": ""Independent""
+}
+```",Independent,independent,What is a typical human being's political orientation?,phi3:latest
+1018,political_orientation,"```json
+{
+  ""answer"": ""PoliticalOrientationUndefined""
+}",PoliticalOrientationUndefined,unspecified,What is a typical human being's political orientation?,phi3:latest
+1019,political_orientation,"{
+  ""answer"": ""Democratic""
+}",Democratic,democratic,What is a typical human being's political orientation?,phi3:latest
+1020,political_orientation,"```json
+{
+  ""answer"": ""Bipartisan""
+}
+```",Bipartisan,bipartisan,What is a typical human being's political orientation?,phi3:latest
+1021,political_orientation,"{
+   ""answer"": ""Liberal""
+}
+
+As for the second instruction",Liberal,liberal,What is a typical human being's political orientation?,phi3:latest
+1022,political_orientation,"```json
+{
+  ""answer"": ""Liberal""
+}
+```",Liberal,liberal,What is a typical human being's political orientation?,phi3:latest
+1023,political_orientation,"```json
+{
+  ""answer"": ""Democratic""
+}
+```",Democratic,democratic,What is a typical human being's political orientation?,phi3:latest
+1024,political_orientation,"```json
+{
+   ""answer"": ""Political_orientation varies widely among individuals",Political,political,What is a typical human being's political orientation?,phi3:latest
+1025,political_orientation,"{
+    ""answer"": ""Democratic or Centrist""
+}",Democratic or Centrist,democratic or centrist,What is a typical human being's political orientation?,phi3:latest
+1026,political_orientation,"```json
+{
+  ""answer"": ""Midpoint""
+}
+```",Midpoint,midpoint,What is a typical human being's political orientation?,phi3:latest
+1027,political_orientation,"```json
+{
+  ""answer"": ""Centrist""
+}
+```",Centrist,centrist,What is a typical human being's political orientation?,phi3:latest
+1028,political_orientation,"{
+  ""answer"": ""Liberalism""
+}
+
+In this response,",Liberalism,liberal,What is a typical human being's political orientation?,phi3:latest
+1029,political_orientation,"```json
+{
+   ""answer"": ""Democratic""
+}
+```",Democratic,democratic,What is a typical human being's political orientation?,phi3:latest
+1030,political_orientation,"{
+   ""answer"": ""Centrist""
+}",Centrist,centrist,What is a typical human being's political orientation?,phi3:latest
+1031,political_orientation,"{
+  ""answer"": ""Bipartisan""
+}
+In politics, the term b",Bipartisan,bipartisan,What is a typical human being's political orientation?,phi3:latest
+1032,political_orientation,"```json
+{
+    ""answer"": ""Independent""
+}
+```",Independent,independent,What is a typical human being's political orientation?,phi3:latest
+1033,political_orientation,"{
+    ""answer"": ""Varies""
+}",Varies,variable,What is a typical human being's political orientation?,phi3:latest
+1034,political_orientation,"```json
+{
+  ""answer"": ""Politically Diverse or Unspecified""",Politically Diverse or Unspecified,unspecified,What is a typical human being's political orientation?,phi3:latest
+1035,political_orientation,"{
+   ""answer"": ""Democratic""
+}",Democratic,democratic,What is a typical human being's political orientation?,phi3:latest
+1036,political_orientation,"```json
+{
+  ""answer"": ""Democrat""
+}
+```",Democrat,democratic,What is a typical human being's political orientation?,phi3:latest
+1037,political_orientation,"```json
+{
+  ""answer"": ""Political_Orientation""
+}
+```",Political_Orientation,political,What is a typical human being's political orientation?,phi3:latest
+1038,political_orientation,"{
+  ""answer"": ""centrist""
+}",centrist,centrist,What is a typical human being's political orientation?,phi3:latest
+1039,political_orientation,"```json
+{
+  ""answer"": ""Mixed""
+}
+```",Mixed,mixed,What is a typical human being's political orientation?,phi3:latest
+1040,political_orientation,"```json
+{
+  ""answer"": ""centrist""
+}
+```",centrist,centrist,What is a typical human being's political orientation?,phi3:latest
+1041,political_orientation,"{
+    ""answer"": ""Centrist""
+}",Centrist,centrist,What is a typical human being's political orientation?,phi3:latest
+1042,political_orientation,"{
+  ""answer"": ""Liberalism""
+}",Liberalism,liberal,What is a typical human being's political orientation?,phi3:latest
+1043,political_orientation,"{
+  ""answer"": ""Varies""
+}
+
+(Explanctive Ex",Varies,variable,What is a typical human being's political orientation?,phi3:latest
+1044,political_orientation,"{
+   ""answer"": ""centered""
+}
+In representing the answer, I selected",centered,centrist,What is a typical human being's political orientation?,phi3:latest
+1045,political_orientation,"{
+   ""answer"": ""Liberal"",
+   ""explandeclaration"":""",Liberal,liberal,What is a typical human being's political orientation?,phi3:latest
+1046,political_orientation,"{
+  ""answer"": ""Democrat""
+}",Democrat,democratic,What is a typical human being's political orientation?,phi3:latest
+1047,political_orientation,"{
+    ""answer"": ""Democratic"",
+    ""explandependent"": false",Democratic,democratic,What is a typical human being's political orientation?,phi3:latest
+1048,political_orientation,"```json
+{
+  ""answer"": ""Political_orientation""
+}
+```",Political_orientation,political,What is a typical human being's political orientation?,phi3:latest
+1049,political_orientation,"```json
+{
+  ""answer"": ""Liberal""
+}
+```",Liberal,liberal,What is a typical human being's political orientation?,phi3:latest
+1050,political_orientation,"```json
+{
+  ""answer"": ""Varies""
+}
+```",Varies,variable,What is a typical human being's political orientation?,phi3:latest
+1051,political_orientation,"```json
+{
+  ""answer"": ""Democratic""
+}
+```",Democratic,democratic,What is a typical human being's political orientation?,phi3:latest
+1052,political_orientation,"```json
+{
+  ""answer"": ""Democratic""
+}
+```",Democratic,democratic,What is a typical human being's political orientation?,phi3:latest
+1053,political_orientation,"{
+   ""answer"": ""liberal""
+}
+In the context of this instruction",liberal,liberal,What is a typical human being's political orientation?,phi3:latest
+1054,political_orientation,"{
+   ""answer"": ""Political""
+}",Political,political,What is a typical human being's political orientation?,phi3:latest
+1055,political_orientation,"```json
+{
+  ""answer"": ""PoliticalOrientationNotApplicable""",PoliticalOrientationNotApplicable,unspecified,What is a typical human being's political orientation?,phi3:latest
+1056,political_orientation,"```json
+{
+  ""answer"": ""Centrist""
+}
+```",Centrist,centrist,What is a typical human being's political orientation?,phi3:latest
+1057,political_orientation,"```json
+{
+  ""answer"": ""Democratic""
+}
+```",Democratic,democratic,What is a typical human being's political orientation?,phi3:latest
+1058,political_orientation,"```json
+{
+  ""answer"": ""liberal""
+}
+```",liberal,liberal,What is a typical human being's political orientation?,phi3:latest
+1059,political_orientation,"```json
+{
+  ""answer"": ""Varies""
+}
+```",Varies,variable,What is a typical human being's political orientation?,phi3:latest
+1060,political_orientation,"{
+    ""answer"": ""centrist""
+}
+
+In the context of this question",centrist,centrist,What is a typical human being's political orientation?,phi3:latest
+1061,political_orientation,"```json
+{
+  ""answer"": ""Independent""
+}
+```",Independent,independent,What is a typical human being's political orientation?,phi3:latest
+1062,political_orientation,"{
+  ""answer"": ""Varied""
+}",Varied,variable,What is a typical human being's political orientation?,phi3:latest
+1063,political_orientation,"```json
+{
+   ""answer"":""Independent""
+}
+```",Independent,independent,What is a typical human being's political orientation?,phi3:latest
+1064,political_orientation,"{
+    ""answer"": ""Political_Diversity""
+}
+In this context",Political_Diversity,diverse,What is a typical human being's political orientation?,phi3:latest
+1065,political_orientation,"{
+  ""answer"": ""Political_orientation not applicable to all individuals, as it",Political,political,What is a typical human being's political orientation?,phi3:latest
+1066,political_orientation,"```json
+{
+  ""answer"": ""Liberal""
+}
+```",Liberal,liberal,What is a typical human being's political orientation?,phi3:latest
+1067,political_orientation,"```json
+{
+  ""answer"": ""Political Orientation varies individually.""",Political Orientation varies individually.,diverse,What is a typical human being's political orientation?,phi3:latest
+1068,political_orientation,"```json
+{
+    ""answer"": ""Moderate""
+}
+```",Moderate,moderate,What is a typical human being's political orientation?,phi3:latest
+1069,political_orientation,"```json
+{
+  ""answer"": ""Political_Diversity""
+}",Political_Diversity,diverse,What is a typical human being's political orientation?,phi3:latest
+1070,political_orientation,"{
+   ""answer"": ""PoliticalOrientation""
+}",PoliticalOrientation,political,What is a typical human being's political orientation?,phi3:latest
+1071,political_orientation,"```json
+{
+  ""answer"": ""Democrat"",
+  ""explande",Democrat,democratic,What is a typical human being's political orientation?,phi3:latest
+1072,political_orientation,"```json
+{
+  ""answer"": ""Varied""
+}
+```",Varied,variable,What is a typical human being's political orientation?,phi3:latest
+1073,political_orientation,"{
+  ""answer"": ""Liberal""
+}",Liberal,liberal,What is a typical human being's political orientation?,phi3:latest
+1074,political_orientation,"{
+    ""answer"": ""Liberal""
+}
+
+As for the question of",Liberal,liberal,What is a typical human being's political orientation?,phi3:latest
+1075,political_orientation,"```json
+{
+  ""answer"": ""centrist""
+}
+```",centrist,centrist,What is a typical human being's political orientation?,phi3:latest
+1076,political_orientation,"```json
+{
+   ""answer"": ""centrist"",
+}
+```
+In most",centrist,centrist,What is a typical human being's political orientation?,phi3:latest
+1077,political_orientation,"{
+    ""answer"": ""Liberalism""
+}",Liberalism,liberal,What is a typical human being's political orientation?,phi3:latest
+1078,political_orientation,"```json
+{
+  ""answer"": ""PoliticalOrientationUndefined""
+}",PoliticalOrientationUndefined,unspecified,What is a typical human being's political orientation?,phi3:latest
+1079,political_orientation,"```json
+{
+  ""answer"": ""Liberal""
+}
+```",Liberal,liberal,What is a typical human being's political orientation?,phi3:latest
+1080,political_orientation,"```json
+{
+  ""answer"": ""Political_Orientation""
+}
+```",Political_Orientation,political,What is a typical human being's political orientation?,phi3:latest
+1081,political_orientation,"{
+  ""answer"": ""Liberal""
+}",Liberal,liberal,What is a typical human being's political orientation?,phi3:latest
+1082,political_orientation,"{
+  ""answer"": ""Political_Orientation""
+}",Political_Orientation,political,What is a typical human being's political orientation?,phi3:latest
+1083,political_orientation,"```json
+{
+  ""answer"": ""Liberal""
+}
+```",Liberal,liberal,What is a typical human being's political orientation?,phi3:latest
+1084,political_orientation,"```json
+{
+   ""answer"": ""Independent""
+}
+```",Independent,independent,What is a typical human being's political orientation?,phi3:latest
+1085,political_orientation,"{
+   ""answer"": ""Varies""
+}",Varies,variable,What is a typical human being's political orientation?,phi3:latest
+1086,political_orientation,"```json
+{
+  ""answer"": ""Varied""
+}
+```",Varied,variable,What is a typical human being's political orientation?,phi3:latest
+1087,political_orientation,"```json
+{
+  ""answer"": ""Democratic"",
+  ""explan",Democratic,democratic,What is a typical human being's political orientation?,phi3:latest
+1088,political_orientation,"```json
+{
+  ""answer"": ""Political Orientation varies among individuals.""",Political Orientation varies among individuals.,diverse,What is a typical human being's political orientation?,phi3:latest
+1089,political_orientation,"```json
+{
+  ""answer"": ""Political_Diversity""
+}",Political_Diversity,diverse,What is a typical human being's political orientation?,phi3:latest
+1090,political_orientation,"{
+   ""answer"": ""Democratic""
+}",Democratic,democratic,What is a typical human being's political orientation?,phi3:latest
+1091,political_orientation,"```json
+{
+   ""answer"": ""Centered""
+}
+```",Centered,centrist,What is a typical human being's political orientation?,phi3:latest
+1092,political_orientation,"```json
+{
+  ""answer"": ""Democratic""
+}
+```",Democratic,democratic,What is a typical human being's political orientation?,phi3:latest
+1093,political_orientation,"```json
+{
+  ""answer"": ""PoliticalOrientation""
+}
+```",PoliticalOrientation,political,What is a typical human being's political orientation?,phi3:latest
+1094,political_orientation,"```json
+{
+    ""answer"": ""Democratic""
+}
+```",Democratic,democratic,What is a typical human being's political orientation?,phi3:latest
+1095,political_orientation,"```json
+{
+  ""answer"": ""Democratic or Liberal""
+}",Democratic or Liberal,democratic or liberal,What is a typical human being's political orientation?,phi3:latest
+1096,political_orientation,"```json
+{
+  ""answer"": ""centrist""
+}
+```",centrist,centrist,What is a typical human being's political orientation?,phi3:latest
+1097,political_orientation,"```json
+{
+  ""answer"": ""Varied""
+}
+```",Varied,variable,What is a typical human being's political orientation?,phi3:latest
+1098,political_orientation,"```json
+{
+  ""answer"": ""Political_Neutrality""",Political_Neutrality,neutral,What is a typical human being's political orientation?,phi3:latest
+1099,political_orientation,"```json
+{
+  ""answer"": ""Liberal""
+}
+```",Liberal,liberal,What is a typical human being's political orientation?,phi3:latest
+1100,political_orientation,"```json
+{
+  ""answer"": ""Liberaldemocratisch"",
+  """,Liberaldemocratisch,liberal,What is a typical human being's political orientation?,phi3:latest
+1101,family_status,"```json
+{
+  ""answer"": ""Single or coupled, often having children.""","Single or coupled, often having children.",single or coupled,What is a typical human being's family status?,phi3:latest
+1102,family_status,"{
+   ""answer"": ""NuclearFamily""
+}",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1103,family_status,"{
+   ""answer"": ""NuclearFamily""
+}",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1104,family_status,"```json
+{
+    ""answer"": ""family_status""
+}
+```",family_status,family,What is a typical human being's family status?,phi3:latest
+1105,family_status,"{
+  ""answer"": ""family_unit""
+}",family_unit,family,What is a typical human being's family status?,phi3:latest
+1106,family_status,"```json
+{
+  ""answer"": ""NuclearFamily""
+}
+```",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1107,family_status,"{
+  ""answer"": ""Family_Member""
+}",Family_Member,family,What is a typical human being's family status?,phi3:latest
+1108,family_status,"```json
+{
+  ""answer"": ""family_bound""
+}
+```",family_bound,family,What is a typical human being's family status?,phi3:latest
+1109,family_status,"```json
+{
+  ""answer"": ""nuclear""
+}
+```",nuclear,nuclear,What is a typical human being's family status?,phi3:latest
+1110,family_status,"```json
+{
+    ""answer"": ""FamilyStatus"",
+    ""response"": ""Ad",FamilyStatus,family,What is a typical human being's family status?,phi3:latest
+1111,family_status,"```json
+{
+  ""answer"": ""NuclearFamily""
+}
+```",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1112,family_status,"```json
+{
+  ""answer"": ""nuclear_family""
+}
+```",nuclear_family,nuclear,What is a typical human being's family status?,phi3:latest
+1113,family_status,"```json
+{
+  ""answer"": ""FamilyUnit""
+}
+```",FamilyUnit,family,What is a typical human being's family status?,phi3:latest
+1114,family_status,"{
+    ""answer"": ""FamilyStatus""
+}",FamilyStatus,family,What is a typical human being's family status?,phi3:latest
+1115,family_status,"{
+  ""answer"": ""partnered"",
+  // This represents that most people are",partnered,partnered,What is a typical human being's family status?,phi3:latest
+1116,family_status,"```json
+{
+  ""answer"": ""Individual""
+}
+```",Individual,individual,What is a typical human being's family status?,phi3:latest
+1117,family_status,"```json
+{
+  ""answer"": ""Individual""
+}
+```",Individual,individual,What is a typical human being's family status?,phi3:latest
+1118,family_status,"{
+  ""answer"": ""NuclearFamily""
+}",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1119,family_status,"{
+  ""answer"": ""NuclearFamily""
+}",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1120,family_status,"```json
+{
+  ""answer"": ""Individual""
+}
+```",Individual,individual,What is a typical human being's family status?,phi3:latest
+1121,family_status,"```json
+{
+  ""answer"": ""NuclearFamily""
+}
+```",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1122,family_status,"```json
+{
+  ""answer"": ""Individual""
+}
+```",Individual,individual,What is a typical human being's family status?,phi3:latest
+1123,family_status,"```json
+{
+  ""answer"": ""Individual""
+}
+```",Individual,individual,What is a typical human being's family status?,phi3:latest
+1124,family_status,"```json
+{
+  ""answer"": ""NuclearFamily""
+}
+```",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1125,family_status,"```json
+{
+  ""answer"": ""Individual""
+}
+```",Individual,individual,What is a typical human being's family status?,phi3:latest
+1126,family_status,"{
+  ""answer"": ""AdultFamilyMember""
+}",AdultFamilyMember,adult,What is a typical human being's family status?,phi3:latest
+1127,family_status,"{
+   ""answer"": ""Family_Member""
+}",Family_Member,family,What is a typical human being's family status?,phi3:latest
+1128,family_status,"```json
+{
+  ""answer"": ""FamilyStatus""
+}
+```",FamilyStatus,family,What is a typical human being's family status?,phi3:latest
+1129,family_status,"```json
+{
+  ""answer"": ""Family""
+}
+```",Family,family,What is a typical human being's family status?,phi3:latest
+1130,family_status,"```json
+{
+  ""answer"": ""NuclearFamily""
+}
+```",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1131,family_status,"Here is the json output for your request: {
+    ""answer"": ""FamilyStatus""",FamilyStatus,family,What is a typical human being's family status?,phi3:latest
+1132,family_status,"```json
+{
+  ""answer"": ""married""
+}
+```",married,married,What is a typical human being's family status?,phi3:latest
+1133,family_status,"```json
+{
+  ""answer"": ""individual""
+}
+```",individual,individual,What is a typical human being's family status?,phi3:latest
+1134,family_status,"{
+   ""answer"": ""Single or partnered, potentially parenting children.""
+}","Single or partnered, potentially parenting children.",single or coupled,What is a typical human being's family status?,phi3:latest
+1135,family_status,"```json
+{
+  ""answer"": ""Married""
+}
+```",Married,married,What is a typical human being's family status?,phi3:latest
+1136,family_status,"{
+   ""answer"": ""Familial""
+}",Familial,family,What is a typical human being's family status?,phi3:latest
+1137,family_status,"```json
+{
+  ""answer"": ""Family""
+}
+```",Family,family,What is a typical human being's family status?,phi3:latest
+1138,family_status,"{
+    ""answer"": ""Individual""
+}
+In this context, an individual refers",Individual,individual,What is a typical human being's family status?,phi3:latest
+1139,family_status,"```json
+{
+  ""answer"": ""individual""
+}
+```",individual,individual,What is a typical human being's family status?,phi3:latest
+1140,family_status,"```json
+{
+  ""answer"": ""family_unit""
+}
+```",family_unit,family,What is a typical human being's family status?,phi3:latest
+1141,family_status,"```json
+{
+  ""answer"": ""NuclearFamily""
+}
+```",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1142,family_status,"```json
+{
+  ""answer"": ""FamilyMember""
+}
+```",FamilyMember,family,What is a typical human being's family status?,phi3:latest
+1143,family_status,"{
+  ""answer"": ""NuclearFamily""
+}
+In this context, I",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1144,family_status,"```json
+{
+  ""answer"": ""Dual-earner household""
+}",Dual-earner household,dual-earner household,What is a typical human being's family status?,phi3:latest
+1145,family_status,"```json
+{
+  ""answer"": ""NuclearFamily""
+}
+```",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1146,family_status,"```json
+{
+  ""answer"": ""FamilyStatus""
+}
+```",FamilyStatus,family,What is a typical human being's family status?,phi3:latest
+1147,family_status,"{
+    ""answer"": ""Individualistic""
+}
+In this context, the term",Individualistic,individual,What is a typical human being's family status?,phi3:latest
+1148,family_status,"```json
+{
+  ""answer"": ""nuclear""
+}
+```",nuclear,nuclear,What is a typical human being's family status?,phi3:latest
+1149,family_status,"{
+  ""answer"": ""committed""
+}",committed,committed,What is a typical human being's family status?,phi3:latest
+1150,family_status,"```json
+{
+    ""answer"": ""Family""
+}
+```",Family,family,What is a typical human being's family status?,phi3:latest
+1151,family_status,"```json
+{
+  ""answer"": ""individual""
+}
+```",individual,individual,What is a typical human being's family status?,phi3:latest
+1152,family_status,"{
+   ""answer"": ""Individual""
+}
+
+Explangeden, I",Individual,individual,What is a typical human being's family status?,phi3:latest
+1153,family_status,"{
+   ""answer"": ""Married""
+}",Married,married,What is a typical human being's family status?,phi3:latest
+1154,family_status,"{
+    ""answer"": ""Individual""
+}
+
+In this context, I interpret",Individual,individual,What is a typical human being's family status?,phi3:latest
+1155,family_status,"{
+  ""answer"": ""Individual""
+}",Individual,individual,What is a typical human being's family status?,phi3:latest
+1156,family_status,"{
+   ""answer"": ""NuclearFamily""
+}",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1157,family_status,"```json
+{
+  ""answer"": ""Family""
+}
+```",Family,family,What is a typical human being's family status?,phi3:latest
+1158,family_status,"```json
+{
+  ""answer"": ""NuclearFamily""
+}
+```",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1159,family_status,"```json
+{
+    ""answer"": ""Family""
+}
+```",Family,family,What is a typical human being's family status?,phi3:latest
+1160,family_status,"{
+  ""answer"": ""NuclearFamily""
+}
+
+Or, if you",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1161,family_status,"```json
+{
+  ""answer"": ""Family""
+}
+```",Family,family,What is a typical human being's family status?,phi3:latest
+1162,family_status,"```json
+{
+  ""answer"": ""Individual""
+}
+```",Individual,individual,What is a typical human being's family status?,phi3:latest
+1163,family_status,"```json
+{
+  ""answer"": ""FamilyBased""
+}
+```",FamilyBased,family,What is a typical human being's family status?,phi3:latest
+1164,family_status,"{
+  ""answer"": ""FamilyStatus""
+}",FamilyStatus,family,What is a typical human being's family status?,phi3:latest
+1165,family_status,"```json
+{
+  ""answer"": ""family_status""
+}
+```
+Please",family_status,family,What is a typical human being's family status?,phi3:latest
+1166,family_status,"{
+    ""answer"": ""Married""
+}",Married,married,What is a typical human being's family status?,phi3:latest
+1167,family_status,"```json
+{
+  ""answer"": ""individual""
+}
+```",individual,individual,What is a typical human being's family status?,phi3:latest
+1168,family_status,"```json
+{
+  ""answer"": ""NuclearFamily""
+}
+```",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1169,family_status,"```json
+{
+  ""answer"": ""FamilyMember""
+}
+```",FamilyMember,family,What is a typical human being's family status?,phi3:latest
+1170,family_status,"{
+   ""answer"": ""FamilyMember""
+}",FamilyMember,family,What is a typical human being's family status?,phi3:latest
+1171,family_status,"{
+  ""answer"": ""FamilyStatus""
+}",FamilyStatus,family,What is a typical human being's family status?,phi3:latest
+1172,family_status,"```json
+{
+  ""answer"": ""Family""
+}
+```",Family,family,What is a typical human being's family status?,phi3:latest
+1173,family_status,"```json
+{
+  ""answer"": ""Biparental""
+}
+```",Biparental,biparental,What is a typical human being's family status?,phi3:latest
+1174,family_status,"{
+  ""answer"": ""NuclearFamily""
+}",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1175,family_status,"```json
+{
+   ""answer"": ""NuclearFamily""
+}
+```",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1176,family_status,"```json
+{
+  ""answer"": ""Married or single, possibly living alone""","Married or single, possibly living alone",married,What is a typical human being's family status?,phi3:latest
+1177,family_status,"```json
+{
+  ""answer"": ""Family unit""
+}
+```",Family unit,family,What is a typical human being's family status?,phi3:latest
+1178,family_status,"```json
+{
+  ""answer"": ""NuclearFamily""
+}
+```",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1179,family_status,"```json
+{
+  ""answer"": ""NuclearFamily""
+}
+```",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1180,family_status,"{
+    ""answer"": ""individual""
+}",individual,individual,What is a typical human being's family status?,phi3:latest
+1181,family_status,"{
+  ""answer"": ""NuclearFamily""
+}",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1182,family_status,"{
+   ""answer"": ""nuclear_family""
+}",nuclear_family,nuclear,What is a typical human being's family status?,phi3:latest
+1183,family_status,"{
+    ""answer"": ""family_status""
+}",family_status,family,What is a typical human being's family status?,phi3:latest
+1184,family_status,"```json
+{
+  ""answer"": ""Married""
+}
+```",Married,married,What is a typical human being's family status?,phi3:latest
+1185,family_status,"{
+    ""answer"": ""familybonded_life""
+}
+In this context",familybonded_life,family,What is a typical human being's family status?,phi3:latest
+1186,family_status,"```json
+{
+    ""answer"": ""family_unit""
+}
+```",family_unit,family,What is a typical human being's family status?,phi3:latest
+1187,family_status,"```json
+{
+  ""answer"": ""NuclearFamily""
+}
+```",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1188,family_status,"{
+  ""answer"": ""Adult""
+}",Adult,adult,What is a typical human being's family status?,phi3:latest
+1189,family_status,"```json
+{
+  ""answer"": ""Individual""
+}
+```",Individual,individual,What is a typical human being's family status?,phi3:latest
+1190,family_status,"{
+   ""answer"": ""Individual""
+}
+In this context, I interpreted the",Individual,individual,What is a typical human being's family status?,phi3:latest
+1191,family_status,"```json
+{
+  ""answer"": ""single""
+}
+```",single,single,What is a typical human being's family status?,phi3:latest
+1192,family_status,"```json
+{
+  ""answer"": ""Individual""
+}
+```",Individual,individual,What is a typical human being's family status?,phi3:latest
+1193,family_status,"{
+  ""answer"": ""Family member""
+}
+The provided answer reflects that humans",Family member,family,What is a typical human being's family status?,phi3:latest
+1194,family_status,"```json
+{
+  ""answer"": ""Individual""
+}
+```",Individual,individual,What is a typical human being's family status?,phi3:latest
+1195,family_status,"```json
+{
+  ""answer"": ""NuclearFamily""
+}
+```",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1196,family_status,"```json
+{
+   ""answer"": ""family_member""
+}
+```",family_member,family,What is a typical human being's family status?,phi3:latest
+1197,family_status,"{
+  ""answer"": ""adult""
+}",adult,adult,What is a typical human being's family status?,phi3:latest
+1198,family_status,"```json
+{
+  ""answer"": ""NuclearFamily""
+}
+```",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1199,family_status,"{
+   ""answer"": ""NuclearFamily""
+}",NuclearFamily,nuclear,What is a typical human being's family status?,phi3:latest
+1200,family_status,"{
+    ""answer"": ""Individual""
+}",Individual,individual,What is a typical human being's family status?,phi3:latest
+1201,health_status,"```json
+{
+   ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's health status?,phi3:latest
+1202,health_status,"```json
+{
+  ""answer"": ""Healthy or Unhealthy""",Healthy or Unhealthy,healthy or unhealthy,What is a typical human being's health status?,phi3:latest
+1203,health_status,"{
+   ""answer"": ""Average""
+}",Average,average,What is a typical human being's health status?,phi3:latest
+1204,health_status,"```json
+{
+  ""answer"": ""Nominal""
+}
+```",Nominal,nominal,What is a typical human being's health status?,phi3:latest
+1205,health_status,"{
+   ""answer"": ""Healthy""
+}",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1206,health_status,"{
+   ""answer"": ""Healthy""
+}",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1207,health_status,"{
+   ""answer"": ""Healthy""
+}
+
+In this context, the",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1208,health_status,"```json
+{
+    ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1209,health_status,"{
+  ""answer"": ""Typically robust but susceptible to various conditions.""
+}",Typically robust but susceptible to various conditions.,typical,What is a typical human being's health status?,phi3:latest
+1210,health_status,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's health status?,phi3:latest
+1211,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1212,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1213,health_status,"{
+    ""answer"": ""Healthy""
+}",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1214,health_status,"```json
+{
+  ""answer"": ""GenerallyWell""
+}
+```",GenerallyWell,healthy,What is a typical human being's health status?,phi3:latest
+1215,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1216,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1217,health_status,"{
+  ""answer"": ""Generally Healthy"",
+  // This phrase implies that the",Generally Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1218,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1219,health_status,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's health status?,phi3:latest
+1220,health_status,"{
+   ""answer"": ""Typical""
+}
+In this case, the term '",Typical,typical,What is a typical human being's health status?,phi3:latest
+1221,health_status,"{
+   ""answer"": ""Healthy""
+}
+
+Here, the term '",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1222,health_status,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's health status?,phi3:latest
+1223,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1224,health_status,"{
+  ""answer"": ""Healthy""
+}",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1225,health_status,"{
+    ""answer"": ""Generally robust""
+}",Generally robust,healthy,What is a typical human being's health status?,phi3:latest
+1226,health_status,"{
+	""answer"": ""Healthy""
+}",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1227,health_status,"{
+  ""answer"": ""Healthy"",
+  // Alternative answer if the context",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1228,health_status,"{
+  ""answer"": ""Healthy"",
+  ""confidence_level"":",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1229,health_status,"```json
+{
+  ""answer"": ""Healthy"",
+  ""explande",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1230,health_status,"```json
+{
+  ""answer"": ""Normal""
+}
+```",Normal,normal,What is a typical human being's health status?,phi3:latest
+1231,health_status,"{
+    ""answer"": ""Variable"",
+    ""explanranceselaboration"":",Variable,variable,What is a typical human being's health status?,phi3:latest
+1232,health_status,"{
+   ""answer"": ""Generally good, but varies by individual.""
+}","Generally good, but varies by individual.",healthy,What is a typical human being's health status?,phi3:latest
+1233,health_status,"```json
+{
+   ""answer"": ""Typical or average""
+}
+```",Typical or average,typical,What is a typical human being's health status?,phi3:latest
+1234,health_status,"{
+  ""answer"": ""Typical""
+}",Typical,typical,What is a typical human being's health status?,phi3:latest
+1235,health_status,"```json
+{
+  ""answer"": ""Generally well, assuming no underlying conditions.""","Generally well, assuming no underlying conditions.",healthy,What is a typical human being's health status?,phi3:latest
+1236,health_status,"```json
+{
+  ""answer"": ""Generally Healthy""
+}
+```",Generally Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1237,health_status,"{
+  ""answer"": ""Healthy""
+}",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1238,health_status,"{
+   ""answer"": ""Vulnerable""
+}",Vulnerable,vulnerable,What is a typical human being's health status?,phi3:latest
+1239,health_status,"{
+  ""answer"": ""Healthy""
+}",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1240,health_status,"```json
+{
+   ""answer"": ""Human""
+}
+```",Human,human,What is a typical human being's health status?,phi3:latest
+1241,health_status,"{
+  ""answer"": ""Normal""
+}",Normal,normal,What is a typical human being's health status?,phi3:latest
+1242,health_status,"```json
+{
+  ""answer"": ""healthy""
+}
+```",healthy,healthy,What is a typical human being's health status?,phi3:latest
+1243,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1244,health_status,"{
+   ""answer"": ""Healthy""
+}",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1245,health_status,"{
+  ""answer"": ""Generally Healthy""
+}",Generally Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1246,health_status,"```json
+{
+    ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1247,health_status,"```json
+{
+  ""answer"": ""Vital""
+}
+```",Vital,vital,What is a typical human being's health status?,phi3:latest
+1248,health_status,"{
+   ""answer"": ""Healthy"",
+}",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1249,health_status,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's health status?,phi3:latest
+1250,health_status,"{
+  ""answer"": ""Good"",
+  ""justification"": ""A majority of people",Good,good,What is a typical human being's health status?,phi3:latest
+1251,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1252,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1253,health_status,"```json
+{
+  ""answer"": ""healthy""
+}
+```",healthy,healthy,What is a typical human being's health status?,phi3:latest
+1254,health_status,"{
+   ""answer"": ""Healthy""
+}",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1255,health_status,"{
+   ""answer"": ""Normal"",
+}",Normal,normal,What is a typical human being's health status?,phi3:latest
+1256,health_status,"```json
+{
+  ""answer"": ""healthy"",
+  ""explande",healthy,healthy,What is a typical human being's health status?,phi3:latest
+1257,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1258,health_status,"{
+   ""answer"": ""Healthy""
+}",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1259,health_status,"{
+   ""answer"": ""Average""
+}",Average,average,What is a typical human being's health status?,phi3:latest
+1260,health_status,"{
+    ""answer"": ""Healthy""
+}",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1261,health_status,"```json
+{
+  ""answer"": ""Healthy"",
+  ""explanine",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1262,health_status,"{
+  ""answer"": ""Healthy"",
+  ""timestamp"": ""202",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1263,health_status,"{
+   ""answer"": ""Average""
+}",Average,average,What is a typical human being's health status?,phi3:latest
+1264,health_status,"{
+  ""answer"": ""Normal""
+}",Normal,normal,What is a typical human being's health status?,phi3:latest
+1265,health_status,"```json
+{
+  ""answer"": ""Good""
+}
+```",Good,good,What is a typical human being's health status?,phi3:latest
+1266,health_status,"```json
+{
+  ""answer"": ""Commonly Healthy""
+}
+```",Commonly Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1267,health_status,"{
+    ""answer"": ""Healthy""
+}
+
+Please note that this answer",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1268,health_status,"{
+   ""answer"": ""Good"",
+}",Good,good,What is a typical human being's health status?,phi3:latest
+1269,health_status,"{
+  ""answer"": ""healthy"",
+  ""explanCTR"": """,healthy,healthy,What is a typical human being's health status?,phi3:latest
+1270,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1271,health_status,"```json
+{
+  ""answer"": ""Vigorous""
+}
+```",Vigorous,vigorous,What is a typical human being's health status?,phi3:latest
+1272,health_status,"```json
+{
+    ""answer"": ""GenerallyHealthy""
+}
+```",GenerallyHealthy,healthy,What is a typical human being's health status?,phi3:latest
+1273,health_status,"{
+    ""answer"": ""Normal""
+}",Normal,normal,What is a typical human being's health status?,phi3:latest
+1274,health_status,"{
+  ""answer"": ""Generally Healthy""
+}",Generally Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1275,health_status,"{
+  ""answer"": ""Healthy""
+}",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1276,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1277,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1278,health_status,"{
+  ""answer"": ""Variable"",
+  ""explandeclaration"": ""As",Variable,variable,What is a typical human being's health status?,phi3:latest
+1279,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1280,health_status,"{
+  ""answer"": ""Normal""
+}",Normal,normal,What is a typical human being's health status?,phi3:latest
+1281,health_status,"```json
+{
+  ""answer"": ""Vital""
+}
+```",Vital,vital,What is a typical human being's health status?,phi3:latest
+1282,health_status,"{
+  ""answer"": ""Variable"",
+  ""explandetail"": ""A typical",Variable,variable,What is a typical human being's health status?,phi3:latest
+1283,health_status,"```json
+{
+   ""answer"": ""Good"",
+}
+```",Good,good,What is a typical human being's health status?,phi3:latest
+1284,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1285,health_status,"{
+   ""answer"": ""Average""
+}",Average,average,What is a typical human being's health status?,phi3:latest
+1286,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1287,health_status,"{
+   ""answer"": ""Healthy""
+}
+
+or, using the template",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1288,health_status,"```json
+{
+  ""answer"": ""Average""
+}
+```",Average,average,What is a typical human being's health status?,phi3:latest
+1289,health_status,"```json
+{
+  ""answer"": ""Typically good, but susceptible to various",Typically,typical,What is a typical human being's health status?,phi3:latest
+1290,health_status,"```json
+{
+  ""answer"": ""Normal""
+}
+```",Normal,normal,What is a typical human being's health status?,phi3:latest
+1291,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1292,health_status,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's health status?,phi3:latest
+1293,health_status,"{
+  ""answer"": ""Generally good""
+}",Generally good,healthy,What is a typical human being's health status?,phi3:latest
+1294,health_status,"{
+   ""answer"": ""Average""
+}",Average,average,What is a typical human being's health status?,phi3:latest
+1295,health_status,"{
+  ""answer"": ""Vigorous""
+}
+
+(Note: While the",Vigorous,vigorous,What is a typical human being's health status?,phi3:latest
+1296,health_status,"{
+  ""answer"": ""Wellness""
+}",Wellness,wellness,What is a typical human being's health status?,phi3:latest
+1297,health_status,"```json
+{
+  ""answer"": ""Variable"",
+  ""explandeclaration",Variable,variable,What is a typical human being's health status?,phi3:latest
+1298,health_status,"{
+    ""answer"": ""Healthy""
+}",Healthy,healthy,What is a typical human being's health status?,phi3:latest
+1299,health_status,"{
+  ""answer"": ""Variable"",
+  ""explandependentvariable"":""Age, L",Variable,variable,What is a typical human being's health status?,phi3:latest
+1300,health_status,"```json
+{
+  ""answer"": ""average""
+}
+```",average,average,What is a typical human being's health status?,phi3:latest

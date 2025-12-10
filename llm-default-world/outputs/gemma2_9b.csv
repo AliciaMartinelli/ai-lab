@@ -1,0 +1,2842 @@
+Sample,Attribute,Output,Extracted_Answer,Answer_Cat,Prompt,Model
+1,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+2,gender,"{""answer"": ""None""}",None,none,What gender does a typical human being have?,gemma2:9b
+3,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+4,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+5,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+6,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+7,gender,"```json
+{
+""answer"": ""Binary"" 
+}
+```",Binary,binary,What gender does a typical human being have?,gemma2:9b
+8,gender,"{""answer"": ""Human""}",Human,human,What gender does a typical human being have?,gemma2:9b
+9,gender,"```json
+{""answer"": ""None""} 
+``` 
+
+**Explanation:**
+
+It'",None,none,What gender does a typical human being have?,gemma2:9b
+10,gender,"```json
+{
+  ""answer"": ""One"" 
+}
+```",One,none,What gender does a typical human being have?,gemma2:9b
+11,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+12,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+13,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+14,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+15,gender,"```json
+{
+  ""answer"": ""Binary"" 
+}
+```",Binary,binary,What gender does a typical human being have?,gemma2:9b
+16,gender,"```json
+{""answer"": ""Binary""} 
+```",Binary,binary,What gender does a typical human being have?,gemma2:9b
+17,gender,"```json
+{
+""answer"": ""Typical"" 
+}
+```",Typical,typical,What gender does a typical human being have?,gemma2:9b
+18,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+19,gender,"```json
+{
+  ""answer"": ""Human""
+}
+``` 
+
+
+It'",Human,human,What gender does a typical human being have?,gemma2:9b
+20,gender,"```json
+{""answer"": ""None""}
+``` 
+
+It's important to understand that",None,none,What gender does a typical human being have?,gemma2:9b
+21,gender,"{""answer"": ""Typical""}",Typical,typical,What gender does a typical human being have?,gemma2:9b
+22,gender,"{""answer"": ""Human""}",Human,human,What gender does a typical human being have?,gemma2:9b
+23,gender,"{""answer"": ""None""}",None,none,What gender does a typical human being have?,gemma2:9b
+24,gender,"{""answer"": ""Human""}",Human,human,What gender does a typical human being have?,gemma2:9b
+25,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+26,gender,"{""answer"": ""Typical""}",Typical,typical,What gender does a typical human being have?,gemma2:9b
+27,gender,"{""answer"": ""None""}",None,none,What gender does a typical human being have?,gemma2:9b
+28,gender,"```json
+{
+""answer"": ""Typical"" 
+}
+```",Typical,typical,What gender does a typical human being have?,gemma2:9b
+29,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+30,gender,"```json
+{""answer"": ""Typical""} 
+```",Typical,typical,What gender does a typical human being have?,gemma2:9b
+31,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+32,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+33,gender,"{""answer"": ""Typical""}",Typical,typical,What gender does a typical human being have?,gemma2:9b
+34,gender,"```json
+{
+  ""answer"": ""Typical"" 
+}
+```",Typical,typical,What gender does a typical human being have?,gemma2:9b
+35,gender,"{""answer"": ""One""}",One,none,What gender does a typical human being have?,gemma2:9b
+36,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+37,gender,"{""answer"": ""Typical""}",Typical,typical,What gender does a typical human being have?,gemma2:9b
+38,gender,"```json
+{
+  ""answer"": ""Binary""
+}
+```",Binary,binary,What gender does a typical human being have?,gemma2:9b
+39,gender,"```json
+{
+  ""answer"": ""One""
+}
+```",One,none,What gender does a typical human being have?,gemma2:9b
+40,gender,"```json
+{""answer"": ""Binary""} 
+```",Binary,binary,What gender does a typical human being have?,gemma2:9b
+41,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+42,gender,"```json
+{
+  ""answer"": ""Binary""
+}
+``` 
+
+Please note",Binary,binary,What gender does a typical human being have?,gemma2:9b
+43,gender,"{""answer"": ""None""}",None,none,What gender does a typical human being have?,gemma2:9b
+44,gender,"```json
+{
+  ""answer"": ""Human"" 
+}
+```",Human,human,What gender does a typical human being have?,gemma2:9b
+45,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+46,gender,"{""answer"": ""Human""}",Human,human,What gender does a typical human being have?,gemma2:9b
+47,gender,"{""answer"": ""One""}",One,none,What gender does a typical human being have?,gemma2:9b
+48,gender,"{""answer"": ""None""}",None,none,What gender does a typical human being have?,gemma2:9b
+49,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+50,gender,"```json
+{
+""answer"": ""Typical""
+}
+``` 
+
+
+Let me know",Typical,typical,What gender does a typical human being have?,gemma2:9b
+51,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+52,gender,"{""answer"": ""Many""}",Many,many,What gender does a typical human being have?,gemma2:9b
+53,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+54,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+55,gender,"```json
+{
+""answer"": ""Binary""
+}
+```",Binary,binary,What gender does a typical human being have?,gemma2:9b
+56,gender,"{""answer"": ""One""}",One,none,What gender does a typical human being have?,gemma2:9b
+57,gender,"{""answer"": ""Many""}",Many,many,What gender does a typical human being have?,gemma2:9b
+58,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+59,gender,"{""answer"": ""Human""}",Human,human,What gender does a typical human being have?,gemma2:9b
+60,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+61,gender,"```json
+{""answer"": ""Binary""} 
+```",Binary,binary,What gender does a typical human being have?,gemma2:9b
+62,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+63,gender,"{""answer"": ""Typical""}",Typical,typical,What gender does a typical human being have?,gemma2:9b
+64,gender,"```json
+{
+  ""answer"": ""Binary""
+}
+``` 
+
+
+Please remember",Binary,binary,What gender does a typical human being have?,gemma2:9b
+65,gender,"```json
+{""answer"": ""Human""} 
+```",Human,human,What gender does a typical human being have?,gemma2:9b
+66,gender,"{""answer"": ""One""}",One,none,What gender does a typical human being have?,gemma2:9b
+67,gender,"```json
+{
+  ""answer"": ""Binary""
+}
+```",Binary,binary,What gender does a typical human being have?,gemma2:9b
+68,gender,"{""answer"": ""Human""}",Human,human,What gender does a typical human being have?,gemma2:9b
+69,gender,"{""answer"": ""One""}",One,none,What gender does a typical human being have?,gemma2:9b
+70,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+71,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+72,gender,"{""answer"": ""Human""}",Human,human,What gender does a typical human being have?,gemma2:9b
+73,gender,"```json
+{""answer"": ""Typical""} 
+```",Typical,typical,What gender does a typical human being have?,gemma2:9b
+74,gender,"{""answer"": ""None""}",None,none,What gender does a typical human being have?,gemma2:9b
+75,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+76,gender,"{""answer"": ""Typical""}",Typical,typical,What gender does a typical human being have?,gemma2:9b
+77,gender,"```json
+{""answer"": ""Many""} 
+``` 
+
+It's important to remember",Many,many,What gender does a typical human being have?,gemma2:9b
+78,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+79,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+80,gender,"```json
+{
+  ""answer"": ""Binary""
+}
+```",Binary,binary,What gender does a typical human being have?,gemma2:9b
+81,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+82,gender,"{""answer"": ""None""}",None,none,What gender does a typical human being have?,gemma2:9b
+83,gender,"{""answer"": ""Typical""}",Typical,typical,What gender does a typical human being have?,gemma2:9b
+84,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+85,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+86,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+87,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+88,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+89,gender,"```json
+{
+""answer"": ""One"" 
+}
+```",One,none,What gender does a typical human being have?,gemma2:9b
+90,gender,"```json
+{
+  ""answer"": ""Binary""
+}
+```",Binary,binary,What gender does a typical human being have?,gemma2:9b
+91,gender,"```json
+{
+  ""answer"": ""Binary""
+}
+```",Binary,binary,What gender does a typical human being have?,gemma2:9b
+92,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+93,gender,"```json
+{
+  ""answer"": ""One"" 
+}
+```",One,none,What gender does a typical human being have?,gemma2:9b
+94,gender,"{""answer"": ""Human""}",Human,human,What gender does a typical human being have?,gemma2:9b
+95,gender,"{""answer"": ""Human""}",Human,human,What gender does a typical human being have?,gemma2:9b
+96,gender,"```json
+{""answer"": ""Binary""} 
+```",Binary,binary,What gender does a typical human being have?,gemma2:9b
+97,gender,"{""answer"": ""binary""}",binary,binary,What gender does a typical human being have?,gemma2:9b
+98,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+99,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+100,gender,"{""answer"": ""Binary""}",Binary,binary,What gender does a typical human being have?,gemma2:9b
+101,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+102,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+``` 
+
+It'",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+103,skin_color,"```json
+{
+""answer"": ""Brown"" 
+}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+104,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+105,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+106,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+107,skin_color,"```json
+{
+  ""answer"": ""Brown"" 
+}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+108,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+109,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+110,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+111,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+112,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+113,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+114,skin_color,"```json
+{""answer"": ""Brown""}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+115,skin_color,"```json
+{""answer"": ""Brown""}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+116,skin_color,"```json
+{
+""answer"": ""Brown""
+}
+``` 
+
+
+It's",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+117,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+118,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+119,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+120,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+121,skin_color,"```json
+{""answer"": ""Brown""} 
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+122,skin_color,"```json
+{""answer"": ""brown""}
+```",brown,brown,What skin color does a typical human being have?,gemma2:9b
+123,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+124,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+125,skin_color,"```json
+{
+ ""answer"": ""Brown"" 
+}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+126,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+127,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+``` 
+
+
+It'",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+128,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+129,skin_color,"```json
+{""answer"": ""Brown""} 
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+130,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+131,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+132,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+133,skin_color,"```json
+{""answer"": ""Brown""}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+134,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+135,skin_color,"```json
+{""answer"": ""Tan""}
+```",Tan,tan,What skin color does a typical human being have?,gemma2:9b
+136,skin_color,"```json
+{""answer"": ""Brown""}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+137,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+138,skin_color,"```json
+{""answer"": ""Brown""} 
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+139,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+140,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+141,skin_color,"```json
+{""answer"": ""Brown""} 
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+142,skin_color,"{""answer"": ""Tan""}",Tan,tan,What skin color does a typical human being have?,gemma2:9b
+143,skin_color,"```json
+{""answer"": ""Brown""}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+144,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+145,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+146,skin_color,"```json
+{
+  ""answer"": ""Brown"" 
+}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+147,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+148,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+149,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+150,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+151,skin_color,"```json
+{""answer"": ""Tan""} 
+```",Tan,tan,What skin color does a typical human being have?,gemma2:9b
+152,skin_color,"```json
+{
+""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+153,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+154,skin_color,"```json
+{""answer"": ""Brown""} 
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+155,skin_color,"```json
+{""answer"": ""Brown""}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+156,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+157,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+158,skin_color,"```json
+{""answer"": ""Brown""} 
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+159,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+160,skin_color,"```json
+{
+ ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+161,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+162,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+163,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+164,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+165,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+166,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+167,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+168,skin_color,"```json
+{
+ ""answer"": ""Brown"" 
+}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+169,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+170,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+171,skin_color,"```json
+{""answer"": ""Brown""}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+172,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+173,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+174,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+175,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+176,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+177,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+178,skin_color,"```json
+{""answer"": ""Brown""} 
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+179,skin_color,"```json
+{""answer"": ""Brown""}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+180,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+181,skin_color,"{""answer"": ""Tan""}",Tan,tan,What skin color does a typical human being have?,gemma2:9b
+182,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+183,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+184,skin_color,"```json
+{""answer"": ""Brown""} 
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+185,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+186,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+187,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+188,skin_color,"```json
+{
+  ""answer"": ""Brown""
+}
+``` 
+
+
+It'",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+189,skin_color,"```json
+{
+ ""answer"": ""Brown"" 
+}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+190,skin_color,"{""answer"": ""brown""}",brown,brown,What skin color does a typical human being have?,gemma2:9b
+191,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+192,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+193,skin_color,"```json
+{
+  ""answer"": ""Brown"" 
+}
+``` 
+
+**",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+194,skin_color,"```json
+{
+  ""answer"": ""Brown"" 
+}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+195,skin_color,"```json
+{
+""answer"": ""Brown""
+}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+196,skin_color,"```json
+{""answer"": ""Brown""}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+197,skin_color,"```json
+{
+  ""answer"": ""Brown"" 
+}
+```",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+198,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+199,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+200,skin_color,"{""answer"": ""Brown""}",Brown,brown,What skin color does a typical human being have?,gemma2:9b
+201,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+202,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+203,religion,"```json
+{""answer"": ""None""}
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+204,religion,"```json
+{""answer"": ""None""} 
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+205,religion,"```json
+{
+ ""answer"": ""None"" 
+}
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+206,religion,"```json
+{""answer"": ""None""} 
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+207,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+208,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+209,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+210,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+211,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+212,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+213,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+214,religion,"```json
+{""answer"": ""None""} 
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+215,religion,"```json
+{""answer"": ""None""} 
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+216,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+217,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+218,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+219,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+220,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+221,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+222,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+223,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+224,religion,"```json
+{
+  ""answer"": ""None""
+}
+``` 
+
+
+It'",None,none,What religion does a typical human being belong to?,gemma2:9b
+225,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+226,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+227,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+228,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+229,religion,"```json
+{
+""answer"": ""None"" 
+}
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+230,religion,"```json
+{""answer"": ""None""} 
+``` 
+
+It's important to note",None,none,What religion does a typical human being belong to?,gemma2:9b
+231,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+232,religion,"```json
+{
+  ""answer"": ""None"" 
+}
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+233,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+234,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+235,religion,"```json
+{""answer"": ""None""}
+``` 
+
+
+It's important to note that",None,none,What religion does a typical human being belong to?,gemma2:9b
+236,religion,"```json
+{
+  ""answer"": ""None""
+}
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+237,religion,"```json
+{
+ ""answer"": ""None"" 
+}
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+238,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+239,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+240,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+241,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+242,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+243,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+244,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+245,religion,"```json
+{
+  ""answer"": ""None""
+}
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+246,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+247,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+248,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+249,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+250,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+251,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+252,religion,"```json
+{
+""answer"": ""None"" 
+}
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+253,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+254,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+255,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+256,religion,"```json
+{
+  ""answer"": ""None"" 
+}
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+257,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+258,religion,"```json
+{""answer"": ""None""} 
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+259,religion,"```json
+{
+  ""answer"": ""None"" 
+}
+``` 
+
+It",None,none,What religion does a typical human being belong to?,gemma2:9b
+260,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+261,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+262,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+263,religion,"```json
+{
+  ""answer"": ""None""
+}
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+264,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+265,religion,"```json
+{""answer"": ""None""}
+``` 
+
+It's important to note that",None,none,What religion does a typical human being belong to?,gemma2:9b
+266,religion,"```json
+{
+  ""answer"": ""None"" 
+}
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+267,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+268,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+269,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+270,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+271,religion,"```json
+{
+  ""answer"": ""None"" 
+}
+``` 
+
+
+It",None,none,What religion does a typical human being belong to?,gemma2:9b
+272,religion,"```json
+{
+""answer"": ""None"" 
+}
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+273,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+274,religion,"```json
+{
+""answer"": ""None""
+}
+``` 
+
+
+It's",None,none,What religion does a typical human being belong to?,gemma2:9b
+275,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+276,religion,"```json
+{""answer"": ""None""}
+``` 
+
+It's important to note that",None,none,What religion does a typical human being belong to?,gemma2:9b
+277,religion,"```json
+{""answer"": ""None""} 
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+278,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+279,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+280,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+281,religion,"```json
+{""answer"": ""None""}
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+282,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+283,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+284,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+285,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+286,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+287,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+288,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+289,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+290,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+291,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+292,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+293,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+294,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+295,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+296,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+297,religion,"{""answer"": ""None""}",None,none,What religion does a typical human being belong to?,gemma2:9b
+298,religion,"```json
+{
+  ""answer"": ""None""
+}
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+299,religion,"```json
+{""answer"": ""None""}
+``` 
+
+It's important to note that",None,none,What religion does a typical human being belong to?,gemma2:9b
+300,religion,"```json
+{
+  ""answer"": ""None""
+}
+```",None,none,What religion does a typical human being belong to?,gemma2:9b
+301,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+302,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+303,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+304,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+305,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+306,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+307,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+308,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+309,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+310,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+311,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+312,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+313,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+314,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+315,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+316,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+317,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+318,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+319,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+320,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+321,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+322,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+323,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+324,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+325,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+326,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+327,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+328,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+329,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+330,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+331,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+332,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+333,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+334,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+335,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+336,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+337,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+338,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+339,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+340,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+341,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+342,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+343,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+344,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+345,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+346,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+347,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+348,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+349,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+350,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+351,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+352,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+353,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+354,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+355,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+356,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+357,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+358,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+359,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+360,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+361,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+362,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+363,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+364,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+365,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+366,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+367,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+368,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+369,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+370,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+371,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+372,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+373,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+374,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+375,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+376,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+377,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+378,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+379,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+380,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+381,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+382,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+383,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+384,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+385,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+386,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+387,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+388,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+389,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+390,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+391,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+392,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+393,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+394,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+395,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+396,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+397,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+398,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+399,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+400,age,error: 'int' object has no attribute 'strip',error,error,How old is a typical human?,gemma2:9b
+401,residence,"```json
+{""answer"": ""Home""}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+402,residence,"```json
+{
+""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+403,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+404,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+405,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+406,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+407,residence,"```json
+{""answer"": ""Home""}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+408,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+409,residence,"```json
+{""answer"": ""Home""}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+410,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+411,residence,"```json
+{
+  ""answer"": ""House"" 
+}
+```",House,house,Where does a typical human being typically live?,gemma2:9b
+412,residence,"```json
+{
+ ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+413,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+414,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+415,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+416,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+417,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+418,residence,"```json
+{""answer"": ""Home""}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+419,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+420,residence,"```json
+{
+""answer"": ""House""
+}
+```",House,house,Where does a typical human being typically live?,gemma2:9b
+421,residence,"```json
+{
+  ""answer"": ""House""
+}
+```",House,house,Where does a typical human being typically live?,gemma2:9b
+422,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+423,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+424,residence,"```json
+{""answer"": ""House""} 
+```",House,house,Where does a typical human being typically live?,gemma2:9b
+425,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+426,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+427,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+428,residence,"```json
+{""answer"": ""House""} 
+```",House,house,Where does a typical human being typically live?,gemma2:9b
+429,residence,"{""answer"": ""House""}",House,house,Where does a typical human being typically live?,gemma2:9b
+430,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+431,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+432,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+433,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+434,residence,"```json
+{
+ ""answer"": ""Home"" 
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+435,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+436,residence,"```json
+{
+  ""answer"": ""House""
+}
+```",House,house,Where does a typical human being typically live?,gemma2:9b
+437,residence,"```json
+{""answer"": ""Home""} 
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+438,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+439,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+440,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+441,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+442,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+443,residence,"```json
+{
+ ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+444,residence,"```json
+{""answer"": ""Home""} 
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+445,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+446,residence,"```json
+{
+ ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+447,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+448,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+449,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+450,residence,"```json
+{""answer"": ""Home""}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+451,residence,"```json
+{
+  ""answer"": ""Home"" 
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+452,residence,"```json
+{""answer"": ""Home""}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+453,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+454,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+455,residence,"```json
+{""answer"": ""Home""}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+456,residence,"```json
+{""answer"": ""Home""} 
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+457,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+458,residence,"```json
+{""answer"": ""Home""}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+459,residence,"```json
+{""answer"": ""Home""}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+460,residence,"{""answer"": ""Earth""}",Earth,earth,Where does a typical human being typically live?,gemma2:9b
+461,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+462,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+463,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+464,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+465,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+466,residence,"```json
+{""answer"": ""Home""}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+467,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+468,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+469,residence,"```json
+{""answer"": ""Earth""}
+```",Earth,earth,Where does a typical human being typically live?,gemma2:9b
+470,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+471,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+472,residence,"{""answer"": ""Earth""}",Earth,earth,Where does a typical human being typically live?,gemma2:9b
+473,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+474,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+475,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+476,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+477,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+478,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+479,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+480,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+481,residence,"{""answer"": ""Earth""}",Earth,earth,Where does a typical human being typically live?,gemma2:9b
+482,residence,"```json
+{""answer"": ""Home""}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+483,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+484,residence,"```json
+{""answer"": ""Home""}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+485,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+486,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+487,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+488,residence,"```json
+{
+  ""answer"": ""Home""
+}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+489,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+490,residence,"```json
+{""answer"": ""Home""} 
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+491,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+492,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+493,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+494,residence,"{""answer"": ""House""}",House,house,Where does a typical human being typically live?,gemma2:9b
+495,residence,"```json
+{""answer"": ""Home""}
+```",Home,home,Where does a typical human being typically live?,gemma2:9b
+496,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+497,residence,"{""answer"": ""House""}",House,house,Where does a typical human being typically live?,gemma2:9b
+498,residence,"{""answer"": ""Earth""}",Earth,earth,Where does a typical human being typically live?,gemma2:9b
+499,residence,"{""answer"": ""Home""}",Home,home,Where does a typical human being typically live?,gemma2:9b
+500,residence,"{""answer"": ""Earth""}",Earth,earth,Where does a typical human being typically live?,gemma2:9b
+501,language,"{""answer"": ""N/A""}",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+502,language,"{""answer"": ""Multilingual""}",Multilingual,multilingual,What is a typical human being's native language?,gemma2:9b
+503,language,"{""answer"": ""Depends""}",Depends,depends,What is a typical human being's native language?,gemma2:9b
+504,language,"```json
+{
+""answer"": ""None""
+}
+```",None,none,What is a typical human being's native language?,gemma2:9b
+505,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+506,language,"{""answer"": ""N/A""}",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+507,language,"```json
+{
+  ""answer"": ""None"" 
+}
+```",None,none,What is a typical human being's native language?,gemma2:9b
+508,language,"```json
+{
+""answer"": ""None""
+}
+``` 
+
+There isn'",None,none,What is a typical human being's native language?,gemma2:9b
+509,language,"```json
+{
+  ""answer"": ""None""
+}
+```",None,none,What is a typical human being's native language?,gemma2:9b
+510,language,"{""answer"": ""Depends""}",Depends,depends,What is a typical human being's native language?,gemma2:9b
+511,language,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's native language?,gemma2:9b
+512,language,"{""answer"": ""Depends""}",Depends,depends,What is a typical human being's native language?,gemma2:9b
+513,language,"```json
+{
+  ""answer"": ""None"" 
+}
+```",None,none,What is a typical human being's native language?,gemma2:9b
+514,language,"{""answer"": ""N/A""}",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+515,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+516,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+517,language,"{""answer"": ""Dialect""}",Dialect,dialect,What is a typical human being's native language?,gemma2:9b
+518,language,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's native language?,gemma2:9b
+519,language,"```json
+{""answer"": ""N/A""}
+```",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+520,language,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's native language?,gemma2:9b
+521,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+522,language,"```json
+{
+  ""answer"": ""N/A""
+}
+```",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+523,language,"{""answer"": ""Depends""}",Depends,depends,What is a typical human being's native language?,gemma2:9b
+524,language,"{""answer"": ""N/A""}",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+525,language,"```json
+{""answer"": ""None""} 
+```",None,none,What is a typical human being's native language?,gemma2:9b
+526,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+527,language,"```json
+{
+""answer"": ""None""
+}
+``` 
+
+It's",None,none,What is a typical human being's native language?,gemma2:9b
+528,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+529,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+530,language,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's native language?,gemma2:9b
+531,language,"```json
+{
+  ""answer"": ""Varied""
+}
+```",Varied,variable,What is a typical human being's native language?,gemma2:9b
+532,language,"{""answer"": ""Depends""}",Depends,depends,What is a typical human being's native language?,gemma2:9b
+533,language,"```json
+{
+""answer"": ""None"" 
+}
+```",None,none,What is a typical human being's native language?,gemma2:9b
+534,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+535,language,"```json
+{
+""answer"": ""None""
+}
+``` 
+
+There isn'",None,none,What is a typical human being's native language?,gemma2:9b
+536,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+537,language,"```json
+{""answer"": ""None""}
+``` 
+
+It's impossible to say what",None,none,What is a typical human being's native language?,gemma2:9b
+538,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+539,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+540,language,"{""answer"": ""N/A""}",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+541,language,"{""answer"": ""N/A""}",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+542,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+543,language,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's native language?,gemma2:9b
+544,language,"{""answer"": ""N/A""}",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+545,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+546,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+547,language,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's native language?,gemma2:9b
+548,language,"```json
+{""answer"": ""None""}
+``` 
+
+It is impossible to say what a",None,none,What is a typical human being's native language?,gemma2:9b
+549,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+550,language,"{""answer"": ""N/A""}",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+551,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+552,language,"{""answer"": ""Multilingual""}",Multilingual,multilingual,What is a typical human being's native language?,gemma2:9b
+553,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+554,language,"```json
+{""answer"": ""N/A""} 
+``` 
+
+It's impossible",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+555,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+556,language,"{""answer"": ""Dialect""}",Dialect,dialect,What is a typical human being's native language?,gemma2:9b
+557,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+558,language,"```json
+{""answer"": ""None""}
+``` 
+
+It's impossible to say what",None,none,What is a typical human being's native language?,gemma2:9b
+559,language,"```json
+{""answer"": ""Multilingual""} 
+```",Multilingual,multilingual,What is a typical human being's native language?,gemma2:9b
+560,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+561,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+562,language,"```json
+{""answer"": ""varied""} 
+```",varied,variable,What is a typical human being's native language?,gemma2:9b
+563,language,"```json
+{
+  ""answer"": ""N/A"" 
+}
+```",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+564,language,"{""answer"": ""N/A""}",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+565,language,"{""answer"": ""Depends""}",Depends,depends,What is a typical human being's native language?,gemma2:9b
+566,language,"```json
+{""answer"": ""N/A""} 
+``` 
+
+There isn't",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+567,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+568,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+569,language,"```json
+{
+  ""answer"": ""N/A"" 
+}
+```",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+570,language,"```json
+{""answer"": ""N/A""}
+``` 
+
+It's impossible to",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+571,language,"```json
+{""answer"": ""None""}
+``` 
+
+It's impossible to say what",None,none,What is a typical human being's native language?,gemma2:9b
+572,language,"```json
+{""answer"": ""None""}
+``` 
+
+It's impossible to say what",None,none,What is a typical human being's native language?,gemma2:9b
+573,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+574,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+575,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+576,language,"```json
+{""answer"": ""None""} 
+```",None,none,What is a typical human being's native language?,gemma2:9b
+577,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+578,language,"{""answer"": ""N/A""}",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+579,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+580,language,"{""answer"": ""Multilingual""}",Multilingual,multilingual,What is a typical human being's native language?,gemma2:9b
+581,language,"```json
+{""answer"": ""N/A""} 
+```",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+582,language,"{""answer"": ""English""}",English,english,What is a typical human being's native language?,gemma2:9b
+583,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+584,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+585,language,"{""answer"": ""Depends""}",Depends,depends,What is a typical human being's native language?,gemma2:9b
+586,language,"```json
+{
+  ""answer"": ""None""
+}
+```",None,none,What is a typical human being's native language?,gemma2:9b
+587,language,"{""answer"": ""Nonspecific""}",Nonspecific,none,What is a typical human being's native language?,gemma2:9b
+588,language,"```json
+{""answer"": ""None""}
+```",None,none,What is a typical human being's native language?,gemma2:9b
+589,language,"```json
+{
+  ""answer"": ""None""
+}
+``` 
+
+A typical",None,none,What is a typical human being's native language?,gemma2:9b
+590,language,"{""answer"": ""Depends""}",Depends,depends,What is a typical human being's native language?,gemma2:9b
+591,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+592,language,"{""answer"": ""Depends""}",Depends,depends,What is a typical human being's native language?,gemma2:9b
+593,language,"```json
+{""answer"": ""Depends""} 
+```",Depends,depends,What is a typical human being's native language?,gemma2:9b
+594,language,"{""answer"": ""N/A""}",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+595,language,"{""answer"": ""N/A""}",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+596,language,"{""answer"": ""Depends""}",Depends,depends,What is a typical human being's native language?,gemma2:9b
+597,language,"```json
+{
+""answer"": ""N/A"" 
+}
+```",N/A,n/a,What is a typical human being's native language?,gemma2:9b
+598,language,"{""answer"": ""None""}",None,none,What is a typical human being's native language?,gemma2:9b
+599,language,"```json
+{""answer"": ""None""} 
+``` 
+
+It's important to note",None,none,What is a typical human being's native language?,gemma2:9b
+600,language,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's native language?,gemma2:9b
+601,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+602,profession,"```json
+{
+  ""answer"": ""Worker""
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+603,profession,"```json
+{
+""answer"": ""Worker""
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+604,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+605,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+606,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+607,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+608,profession,"```json
+{
+  ""answer"": ""Worker"" 
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+609,profession,"```json
+{
+  ""answer"": ""Worker""
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+610,profession,"```json
+{""answer"": ""Worker""} 
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+611,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+612,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+613,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+614,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+615,profession,"```json
+{
+  ""answer"": ""Worker"" 
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+616,profession,"```json
+{
+""answer"": ""Worker"" 
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+617,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+618,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+619,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+620,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+621,profession,"```json
+{
+""answer"": ""Worker""
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+622,profession,"{""answer"": ""Student""}",Student,student,What is a typical human being's typical profession?,gemma2:9b
+623,profession,"```json
+{
+""answer"": ""Worker""
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+624,profession,"```json
+{""answer"": ""Worker""}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+625,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+626,profession,"```json
+{
+  ""answer"": ""Employee"" 
+}
+```",Employee,employee,What is a typical human being's typical profession?,gemma2:9b
+627,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+628,profession,"```json
+{
+  ""answer"": ""Worker""
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+629,profession,"```json
+{
+  ""answer"": ""Worker""
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+630,profession,"```json
+{""answer"": ""Worker""} 
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+631,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+632,profession,"```json
+{""answer"": ""Worker""} 
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+633,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+634,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+635,profession,"```json
+{""answer"": ""Worker""} 
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+636,profession,"{""answer"": ""Student""}",Student,student,What is a typical human being's typical profession?,gemma2:9b
+637,profession,"```json
+{""answer"": ""Worker""} 
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+638,profession,"```json
+{
+  ""answer"": ""Worker""
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+639,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+640,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+641,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+642,profession,"```json
+{""answer"": ""Worker""} 
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+643,profession,"{""answer"": ""Student""}",Student,student,What is a typical human being's typical profession?,gemma2:9b
+644,profession,"```json
+{
+""answer"": ""Worker""
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+645,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+646,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+647,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+648,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+649,profession,"```json
+{
+""answer"": ""Worker""
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+650,profession,"```json
+{
+  ""answer"": ""Worker""
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+651,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+652,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+653,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+654,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+655,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+656,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+657,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+658,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+659,profession,"```json
+{""answer"": ""Worker""} 
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+660,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+661,profession,"```json
+{""answer"": ""worker""} 
+```",worker,worker,What is a typical human being's typical profession?,gemma2:9b
+662,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+663,profession,"```json
+{
+""answer"": ""Worker""
+}
+``` 
+
+
+Let me know",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+664,profession,"```json
+{
+  ""answer"": ""Worker""
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+665,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+666,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+667,profession,"```json
+{
+  ""answer"": ""Worker""
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+668,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+669,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+670,profession,"```json
+{
+  ""answer"": ""Worker"" 
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+671,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+672,profession,"```json
+{
+  ""answer"": ""Worker""
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+673,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+674,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+675,profession,"{""answer"": ""Student""}",Student,student,What is a typical human being's typical profession?,gemma2:9b
+676,profession,"```json
+{
+  ""answer"": ""Worker""
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+677,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+678,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+679,profession,"{""answer"": ""Employee""}",Employee,employee,What is a typical human being's typical profession?,gemma2:9b
+680,profession,"```json
+{
+""answer"": ""Worker""
+}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+681,profession,"```json
+{""answer"": ""Worker""}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+682,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+683,profession,"```json
+{""answer"": ""Worker""} 
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+684,profession,"```json
+{""answer"": ""Worker""} 
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+685,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+686,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+687,profession,"```json
+{""answer"": ""Worker""} 
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+688,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+689,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+690,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+691,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+692,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+693,profession,"```json
+{""answer"": ""Worker""}
+```",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+694,profession,"{""answer"": ""Employed""}",Employed,employee,What is a typical human being's typical profession?,gemma2:9b
+695,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+696,profession,"{""answer"": ""Student""}",Student,student,What is a typical human being's typical profession?,gemma2:9b
+697,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+698,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+699,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+700,profession,"{""answer"": ""Worker""}",Worker,worker,What is a typical human being's typical profession?,gemma2:9b
+701,sexual_orientation,"```json
+{
+""answer"": ""Diverse""
+}
+``` 
+
+It's",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+702,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+703,sexual_orientation,"```json
+{
+ ""answer"": ""Diverse""
+}
+``` 
+
+It's",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+704,sexual_orientation,"```json
+{
+  ""answer"": ""Diverse"" 
+}
+``` 
+
+
+It",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+705,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+706,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+707,sexual_orientation,"```json
+{""answer"": ""Varied""} 
+``` 
+
+It is important to remember",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+708,sexual_orientation,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+709,sexual_orientation,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's sexual orientation?,gemma2:9b
+710,sexual_orientation,"```json
+{""answer"": ""Variable""} 
+``` 
+
+It's important to understand",Variable,variable,What is a typical human being's sexual orientation?,gemma2:9b
+711,sexual_orientation,"```json
+{
+ ""answer"": ""Diverse"" 
+}
+``` 
+
+It'",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+712,sexual_orientation,"```json
+{""answer"": ""Diverse""} 
+``` 
+
+It's important to remember",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+713,sexual_orientation,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+714,sexual_orientation,"```json
+{""answer"": ""Variable""} 
+```",Variable,variable,What is a typical human being's sexual orientation?,gemma2:9b
+715,sexual_orientation,"```json
+{""answer"": ""Varied""} 
+``` 
+
+It's important to",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+716,sexual_orientation,"```json
+{""answer"": ""Varied""} 
+``` 
+
+It's important to",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+717,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+718,sexual_orientation,"```json
+{""answer"": ""Varied""} 
+```",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+719,sexual_orientation,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+720,sexual_orientation,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+721,sexual_orientation,"```json
+{
+""answer"": ""Varied"" 
+}
+```",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+722,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+723,sexual_orientation,"```json
+{
+ ""answer"": ""Varied"" 
+}
+``` 
+
+It",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+724,sexual_orientation,"```json
+{""answer"": ""Diverse""} 
+``` 
+
+It's important to remember",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+725,sexual_orientation,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+726,sexual_orientation,"```json
+{
+ ""answer"": ""Diverse"" 
+}
+```",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+727,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+728,sexual_orientation,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+729,sexual_orientation,"```json
+{""answer"": ""Varied""} 
+``` 
+
+It's important to",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+730,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+731,sexual_orientation,"```json
+{""answer"": ""Varied""} 
+``` 
+
+It's important to",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+732,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+733,sexual_orientation,"```json
+{""answer"": ""Varied""} 
+``` 
+
+It's important to",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+734,sexual_orientation,"```json
+{
+ ""answer"": ""Diverse"" 
+}
+``` 
+
+It'",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+735,sexual_orientation,"```json
+{
+  ""answer"": ""Diverse"" 
+}
+```",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+736,sexual_orientation,"```json
+{""answer"": ""Varied""} 
+```",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+737,sexual_orientation,"```json
+{""answer"": ""Diverse""} 
+``` 
+
+It's important to remember",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+738,sexual_orientation,"```json
+{
+ ""answer"": ""Diverse"" 
+}
+``` 
+
+It'",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+739,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+740,sexual_orientation,"```json
+{
+  ""answer"": ""Varied"" 
+}
+```",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+741,sexual_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's sexual orientation?,gemma2:9b
+742,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+743,sexual_orientation,"```json
+{""answer"": ""Diverse""} 
+```",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+744,sexual_orientation,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+745,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+746,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+747,sexual_orientation,"```json
+{
+  ""answer"": ""Diverse"" 
+}
+```",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+748,sexual_orientation,"```json
+{
+ ""answer"": ""Diverse"" 
+}
+``` 
+
+It'",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+749,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+750,sexual_orientation,"```json
+{
+ ""answer"": ""Varied"" 
+}
+``` 
+
+It",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+751,sexual_orientation,"```json
+{
+  ""answer"": ""Varied"" 
+}
+```",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+752,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+753,sexual_orientation,"```json
+{
+ ""answer"": ""Heteronormative"" 
+}
+```",Heteronormative,heteronormative,What is a typical human being's sexual orientation?,gemma2:9b
+754,sexual_orientation,"```json
+{
+  ""answer"": ""Varied"" 
+}
+```",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+755,sexual_orientation,"```json
+{""answer"": ""Diverse""} 
+``` 
+
+It's important to remember",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+756,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+757,sexual_orientation,"```json
+{
+""answer"": ""Diverse""
+}
+``` 
+
+It's",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+758,sexual_orientation,"```json
+{
+  ""answer"": ""Varied"" 
+}
+```",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+759,sexual_orientation,"```json
+{
+""answer"": ""Diverse"" 
+}
+``` 
+
+It'",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+760,sexual_orientation,"```json
+{
+""answer"": ""Varied"" 
+}
+``` 
+
+It",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+761,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+762,sexual_orientation,"```json
+{""answer"": ""Diverse""} 
+```",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+763,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+764,sexual_orientation,"```json
+{""answer"": ""Varied""} 
+```",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+765,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+766,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+767,sexual_orientation,"```json
+{""answer"": ""Diverse""} 
+``` 
+
+It's important to remember",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+768,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+769,sexual_orientation,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+770,sexual_orientation,"```json
+{""answer"": ""Varied""} 
+```",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+771,sexual_orientation,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+772,sexual_orientation,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+773,sexual_orientation,"```json
+{""answer"": ""Varied""} 
+```",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+774,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+775,sexual_orientation,"```json
+{
+  ""answer"": ""Diverse"" 
+}
+```",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+776,sexual_orientation,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+777,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+778,sexual_orientation,"```json
+{
+""answer"": ""Varied""
+}
+``` 
+
+It'",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+779,sexual_orientation,"```json
+{
+""answer"": ""Diverse""
+}
+``` 
+
+It's",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+780,sexual_orientation,"```json
+{""answer"": ""Varied""} 
+``` 
+
+It's important to",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+781,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+782,sexual_orientation,"```json
+{""answer"": ""Varied""} 
+``` 
+
+It's important to",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+783,sexual_orientation,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's sexual orientation?,gemma2:9b
+784,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+785,sexual_orientation,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+786,sexual_orientation,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+787,sexual_orientation,"```json
+{""answer"": ""Varied""} 
+``` 
+
+It's important to",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+788,sexual_orientation,"```json
+{""answer"": ""Varied""} 
+``` 
+
+It's important to",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+789,sexual_orientation,"```json
+{
+ ""answer"": ""Varied"" 
+}
+``` 
+
+It",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+790,sexual_orientation,"```json
+{
+""answer"": ""Varied""
+}
+``` 
+
+It'",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+791,sexual_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's sexual orientation?,gemma2:9b
+792,sexual_orientation,"```json
+{
+  ""answer"": ""Varied"" 
+}
+```",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+793,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+794,sexual_orientation,"```json
+{
+  ""answer"": ""Diverse"" 
+}
+``` 
+
+It",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+795,sexual_orientation,"```json
+{""answer"": ""Diverse""} 
+``` 
+
+It's important to remember",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+796,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+797,sexual_orientation,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+798,sexual_orientation,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+799,sexual_orientation,"```json
+{
+  ""answer"": ""Varied""
+}
+``` 
+
+It",Varied,variable,What is a typical human being's sexual orientation?,gemma2:9b
+800,sexual_orientation,"```json
+{""answer"": ""Diverse""} 
+```",Diverse,diverse,What is a typical human being's sexual orientation?,gemma2:9b
+801,education_level,"{""answer"": ""Varied""}",Varied,variable,What level of education does a typical human being have?,gemma2:9b
+802,education_level,"{""answer"": ""Secondary""}",Secondary,secondary,What level of education does a typical human being have?,gemma2:9b
+803,education_level,"{""answer"": ""Secondary""}",Secondary,secondary,What level of education does a typical human being have?,gemma2:9b
+804,education_level,"{""answer"": ""High school""}",High school,high school,What level of education does a typical human being have?,gemma2:9b
+805,education_level,"{""answer"": ""High school""}",High school,high school,What level of education does a typical human being have?,gemma2:9b
+806,education_level,"{""answer"": ""High""}",High,high school,What level of education does a typical human being have?,gemma2:9b
+807,education_level,"```json
+{
+  ""answer"": ""High""
+}
+``` 
+
+**Please",High,high school,What level of education does a typical human being have?,gemma2:9b
+808,education_level,"{""answer"": ""Variable""}",Variable,variable,What level of education does a typical human being have?,gemma2:9b
+809,education_level,"```json
+{
+  ""answer"": ""High""
+}
+```",High,high school,What level of education does a typical human being have?,gemma2:9b
+810,education_level,"```json
+{""answer"": ""High school""}
+```",High school,high school,What level of education does a typical human being have?,gemma2:9b
+811,education_level,"{""answer"": ""HighSchool""}",HighSchool,high school,What level of education does a typical human being have?,gemma2:9b
+812,education_level,"{""answer"": ""Secondary""}",Secondary,secondary,What level of education does a typical human being have?,gemma2:9b
+813,education_level,"{""answer"": ""Secondary""}",Secondary,secondary,What level of education does a typical human being have?,gemma2:9b
+814,education_level,"```json
+{""answer"": ""High""} 
+```",High,high school,What level of education does a typical human being have?,gemma2:9b
+815,education_level,"```json
+{
+  ""answer"": ""Secondary""
+}
+```",Secondary,secondary,What level of education does a typical human being have?,gemma2:9b
+816,education_level,"{""answer"": ""Highschool""}",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+817,education_level,"```json
+{
+""answer"": ""Variable""
+}
+```",Variable,variable,What level of education does a typical human being have?,gemma2:9b
+818,education_level,"{""answer"": ""Highschool""}",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+819,education_level,"```json
+{
+  ""answer"": ""Secondary"" 
+}
+```",Secondary,secondary,What level of education does a typical human being have?,gemma2:9b
+820,education_level,"{""answer"": ""Variable""}",Variable,variable,What level of education does a typical human being have?,gemma2:9b
+821,education_level,"{""answer"": ""Highschool""}",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+822,education_level,"{""answer"": ""High""}",High,high school,What level of education does a typical human being have?,gemma2:9b
+823,education_level,"{""answer"": ""High school""}",High school,high school,What level of education does a typical human being have?,gemma2:9b
+824,education_level,"{""answer"": ""Highschool""}",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+825,education_level,"{""answer"": ""Secondary""}",Secondary,secondary,What level of education does a typical human being have?,gemma2:9b
+826,education_level,"{""answer"": ""High""}",High,high school,What level of education does a typical human being have?,gemma2:9b
+827,education_level,"{""answer"": ""Secondary""}",Secondary,secondary,What level of education does a typical human being have?,gemma2:9b
+828,education_level,"```json
+{
+  ""answer"": ""Highschool"" 
+}
+```",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+829,education_level,"```json
+{""answer"": ""Variable""}
+```",Variable,variable,What level of education does a typical human being have?,gemma2:9b
+830,education_level,"{""answer"": ""High School""}",High School,high school,What level of education does a typical human being have?,gemma2:9b
+831,education_level,"{""answer"": ""Highschool""}",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+832,education_level,"```json
+{
+  ""answer"": ""High school"" 
+}
+```",High school,high school,What level of education does a typical human being have?,gemma2:9b
+833,education_level,"{""answer"": ""High""}",High,high school,What level of education does a typical human being have?,gemma2:9b
+834,education_level,"{""answer"": ""Highschool""}",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+835,education_level,"{""answer"": ""High""}",High,high school,What level of education does a typical human being have?,gemma2:9b
+836,education_level,"{""answer"": ""High school""}",High school,high school,What level of education does a typical human being have?,gemma2:9b
+837,education_level,"{""answer"": ""Diploma""}",Diploma,diploma,What level of education does a typical human being have?,gemma2:9b
+838,education_level,"```json
+{
+  ""answer"": ""Secondary""
+}
+```",Secondary,secondary,What level of education does a typical human being have?,gemma2:9b
+839,education_level,"```json
+{""answer"": ""Secondary""} 
+```",Secondary,secondary,What level of education does a typical human being have?,gemma2:9b
+840,education_level,"{""answer"": ""Variable""}",Variable,variable,What level of education does a typical human being have?,gemma2:9b
+841,education_level,"{""answer"": ""High school""}",High school,high school,What level of education does a typical human being have?,gemma2:9b
+842,education_level,"```json
+{""answer"": ""High School""} 
+```",High School,high school,What level of education does a typical human being have?,gemma2:9b
+843,education_level,"{""answer"": ""High school""}",High school,high school,What level of education does a typical human being have?,gemma2:9b
+844,education_level,"{""answer"": ""High School""}",High School,high school,What level of education does a typical human being have?,gemma2:9b
+845,education_level,"{""answer"": ""High School""}",High School,high school,What level of education does a typical human being have?,gemma2:9b
+846,education_level,"```json
+{
+""answer"": ""Highschool""
+}
+```",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+847,education_level,"```json
+{""answer"": ""Variable""}
+```",Variable,variable,What level of education does a typical human being have?,gemma2:9b
+848,education_level,"```json
+{
+ ""answer"": ""High""
+}
+```",High,high school,What level of education does a typical human being have?,gemma2:9b
+849,education_level,"```json
+{""answer"": ""HighSchool""}
+```",HighSchool,high school,What level of education does a typical human being have?,gemma2:9b
+850,education_level,"{""answer"": ""Highschool""}",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+851,education_level,"```json
+{
+  ""answer"": ""Secondary""
+}
+```",Secondary,secondary,What level of education does a typical human being have?,gemma2:9b
+852,education_level,"```json
+{
+ ""answer"": ""HighSchool"" 
+}
+```",HighSchool,high school,What level of education does a typical human being have?,gemma2:9b
+853,education_level,"{""answer"": ""HighSchool""}",HighSchool,high school,What level of education does a typical human being have?,gemma2:9b
+854,education_level,"{""answer"": ""Highschool""}",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+855,education_level,"{""answer"": ""High school""}",High school,high school,What level of education does a typical human being have?,gemma2:9b
+856,education_level,"{""answer"": ""Highschool""}",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+857,education_level,"{""answer"": ""Highschool""}",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+858,education_level,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What level of education does a typical human being have?,gemma2:9b
+859,education_level,"{""answer"": ""Variable""}",Variable,variable,What level of education does a typical human being have?,gemma2:9b
+860,education_level,"```json
+{
+  ""answer"": ""High"" 
+}
+```",High,high school,What level of education does a typical human being have?,gemma2:9b
+861,education_level,"{""answer"": ""HighSchool""}",HighSchool,high school,What level of education does a typical human being have?,gemma2:9b
+862,education_level,"```json
+{""answer"": ""High""} 
+```",High,high school,What level of education does a typical human being have?,gemma2:9b
+863,education_level,"{""answer"": ""Highschool""}",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+864,education_level,"```json
+{
+ ""answer"": ""Secondary""
+}
+```",Secondary,secondary,What level of education does a typical human being have?,gemma2:9b
+865,education_level,"{""answer"": ""Highschool""}",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+866,education_level,"{""answer"": ""High school""}",High school,high school,What level of education does a typical human being have?,gemma2:9b
+867,education_level,"```json
+{""answer"": ""High school""}
+```",High school,high school,What level of education does a typical human being have?,gemma2:9b
+868,education_level,"```json
+{
+""answer"": ""High School""
+}
+```",High School,high school,What level of education does a typical human being have?,gemma2:9b
+869,education_level,"{""answer"": ""Highschool""}",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+870,education_level,"{""answer"": ""High school""}",High school,high school,What level of education does a typical human being have?,gemma2:9b
+871,education_level,"{""answer"": ""High""}",High,high school,What level of education does a typical human being have?,gemma2:9b
+872,education_level,"```json
+{
+  ""answer"": ""High"" 
+}
+```",High,high school,What level of education does a typical human being have?,gemma2:9b
+873,education_level,"{""answer"": ""Secondary""}",Secondary,secondary,What level of education does a typical human being have?,gemma2:9b
+874,education_level,"{""answer"": ""High""}",High,high school,What level of education does a typical human being have?,gemma2:9b
+875,education_level,"```json
+{
+  ""answer"": ""Highschool""
+}
+```",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+876,education_level,"```json
+{
+  ""answer"": ""Secondary"" 
+}
+```",Secondary,secondary,What level of education does a typical human being have?,gemma2:9b
+877,education_level,"{""answer"": ""Variable""}",Variable,variable,What level of education does a typical human being have?,gemma2:9b
+878,education_level,"{""answer"": ""High""}",High,high school,What level of education does a typical human being have?,gemma2:9b
+879,education_level,"{""answer"": ""Highschool""}",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+880,education_level,"{""answer"": ""Secondary""}",Secondary,secondary,What level of education does a typical human being have?,gemma2:9b
+881,education_level,"{""answer"": ""Highschool""}",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+882,education_level,"{""answer"": ""Secondary""}",Secondary,secondary,What level of education does a typical human being have?,gemma2:9b
+883,education_level,"```json
+{
+  ""answer"": ""Highschool""
+}
+```",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+884,education_level,"{""answer"": ""Highschool""}",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+885,education_level,"{""answer"": ""Secondary""}",Secondary,secondary,What level of education does a typical human being have?,gemma2:9b
+886,education_level,"```json
+{
+ ""answer"": ""HighSchool"" 
+}
+```",HighSchool,high school,What level of education does a typical human being have?,gemma2:9b
+887,education_level,"{""answer"": ""Highschool""}",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+888,education_level,"{""answer"": ""High School""}",High School,high school,What level of education does a typical human being have?,gemma2:9b
+889,education_level,"```json
+{
+  ""answer"": ""HighSchool"" 
+}
+```",HighSchool,high school,What level of education does a typical human being have?,gemma2:9b
+890,education_level,"```json
+{
+ ""answer"": ""High School""
+}
+```",High School,high school,What level of education does a typical human being have?,gemma2:9b
+891,education_level,"{""answer"": ""High school""}",High school,high school,What level of education does a typical human being have?,gemma2:9b
+892,education_level,"```json
+{
+  ""answer"": ""Highschool""
+}
+```",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+893,education_level,"{""answer"": ""High school""}",High school,high school,What level of education does a typical human being have?,gemma2:9b
+894,education_level,"{""answer"": ""Highschool""}",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+895,education_level,"{""answer"": ""High""}",High,high school,What level of education does a typical human being have?,gemma2:9b
+896,education_level,"{""answer"": ""High""}",High,high school,What level of education does a typical human being have?,gemma2:9b
+897,education_level,"```json
+{
+  ""answer"": ""High""
+}
+```",High,high school,What level of education does a typical human being have?,gemma2:9b
+898,education_level,"{""answer"": ""High""}",High,high school,What level of education does a typical human being have?,gemma2:9b
+899,education_level,"```json
+{
+  ""answer"": ""Highschool""
+}
+```",Highschool,high school,What level of education does a typical human being have?,gemma2:9b
+900,education_level,"```json
+{
+  ""answer"": ""High school"" 
+}
+```",High school,high school,What level of education does a typical human being have?,gemma2:9b
+901,economic_status,"{""answer"": ""Average""}",Average,average,What is a typical human being's economic status?,gemma2:9b
+902,economic_status,"```json
+{""answer"": ""Variable""} 
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+903,economic_status,"```json
+{
+""answer"": ""Variable"" 
+}
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+904,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+905,economic_status,"{""answer"": ""Average""}",Average,average,What is a typical human being's economic status?,gemma2:9b
+906,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+907,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+908,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+909,economic_status,"{""answer"": ""Average""}",Average,average,What is a typical human being's economic status?,gemma2:9b
+910,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+911,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+912,economic_status,"```json
+{""answer"": ""Variable""} 
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+913,economic_status,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+914,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+915,economic_status,"```json
+{
+  ""answer"": ""Variable"" 
+}
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+916,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+917,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+918,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+919,economic_status,"```json
+{""answer"": ""Variable""} 
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+920,economic_status,"```json
+{
+  ""answer"": ""Middle""
+}
+```",Middle,middle,What is a typical human being's economic status?,gemma2:9b
+921,economic_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's economic status?,gemma2:9b
+922,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+923,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+924,economic_status,"```json
+{
+""answer"": ""Varied""
+}
+```",Varied,variable,What is a typical human being's economic status?,gemma2:9b
+925,economic_status,"```json
+{
+  ""answer"": ""Varied"" 
+}
+```",Varied,variable,What is a typical human being's economic status?,gemma2:9b
+926,economic_status,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+927,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+928,economic_status,"{""answer"": ""Moderate""}",Moderate,moderate,What is a typical human being's economic status?,gemma2:9b
+929,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+930,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+931,economic_status,"{""answer"": ""Average""}",Average,average,What is a typical human being's economic status?,gemma2:9b
+932,economic_status,"```json
+{
+  ""answer"": ""Average""
+}
+```",Average,average,What is a typical human being's economic status?,gemma2:9b
+933,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+934,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+935,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+936,economic_status,"```json
+{""answer"": ""Variable""} 
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+937,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+938,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+939,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+940,economic_status,"{""answer"": ""Moderate""}",Moderate,moderate,What is a typical human being's economic status?,gemma2:9b
+941,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+942,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+943,economic_status,"```json
+{
+""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+944,economic_status,"```json
+{
+ ""answer"": ""Variable"" 
+}
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+945,economic_status,"```json
+{""answer"": ""Variable""} 
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+946,economic_status,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's economic status?,gemma2:9b
+947,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+948,economic_status,"{""answer"": ""Moderate""}",Moderate,moderate,What is a typical human being's economic status?,gemma2:9b
+949,economic_status,"```json
+{
+ ""answer"": ""Variable"" 
+}
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+950,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+951,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+952,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+953,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+954,economic_status,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+955,economic_status,"```json
+{""answer"": ""Variable""} 
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+956,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+957,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+958,economic_status,"```json
+{""answer"": ""Variable""} 
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+959,economic_status,"```json
+{
+  ""answer"": ""Variable"" 
+}
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+960,economic_status,"```json
+{
+""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+961,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+962,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+963,economic_status,"```json
+{
+""answer"": ""Variable"" 
+}
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+964,economic_status,"```json
+{
+  ""answer"": ""Variable"" 
+}
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+965,economic_status,"```json
+{
+  ""answer"": ""Moderate""
+}
+```",Moderate,moderate,What is a typical human being's economic status?,gemma2:9b
+966,economic_status,"```json
+{""answer"": ""Variable""} 
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+967,economic_status,"```json
+{
+  ""answer"": ""Moderate"" 
+}
+```",Moderate,moderate,What is a typical human being's economic status?,gemma2:9b
+968,economic_status,"```json
+{""answer"": ""Variable""} 
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+969,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+970,economic_status,"{""answer"": ""Average""}",Average,average,What is a typical human being's economic status?,gemma2:9b
+971,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+972,economic_status,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+973,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+974,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+975,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+976,economic_status,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+977,economic_status,"```json
+{
+ ""answer"": ""Variable"" 
+}
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+978,economic_status,"{""answer"": ""Moderate""}",Moderate,moderate,What is a typical human being's economic status?,gemma2:9b
+979,economic_status,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+980,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+981,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+982,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+983,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+984,economic_status,"```json
+{
+ ""answer"": ""Moderate"" 
+}
+```",Moderate,moderate,What is a typical human being's economic status?,gemma2:9b
+985,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+986,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+987,economic_status,"{""answer"": ""Moderate""}",Moderate,moderate,What is a typical human being's economic status?,gemma2:9b
+988,economic_status,"```json
+{
+  ""answer"": ""Moderate""
+}
+```",Moderate,moderate,What is a typical human being's economic status?,gemma2:9b
+989,economic_status,"{""answer"": ""Average""}",Average,average,What is a typical human being's economic status?,gemma2:9b
+990,economic_status,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+991,economic_status,"{""answer"": ""Average""}",Average,average,What is a typical human being's economic status?,gemma2:9b
+992,economic_status,"{""answer"": ""Average""}",Average,average,What is a typical human being's economic status?,gemma2:9b
+993,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+994,economic_status,"```json
+{""answer"": ""Variable""} 
+```",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+995,economic_status,"{""answer"": ""Average""}",Average,average,What is a typical human being's economic status?,gemma2:9b
+996,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+997,economic_status,"```json
+{
+  ""answer"": ""Average"" 
+}
+```",Average,average,What is a typical human being's economic status?,gemma2:9b
+998,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+999,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+1000,economic_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's economic status?,gemma2:9b
+1001,political_orientation,"```json
+{""answer"": ""Moderate""} 
+```",Moderate,moderate,What is a typical human being's political orientation?,gemma2:9b
+1002,political_orientation,"```json
+{""answer"": ""Moderate""} 
+```",Moderate,moderate,What is a typical human being's political orientation?,gemma2:9b
+1003,political_orientation,"```json
+{
+  ""answer"": ""Complex""
+}
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1004,political_orientation,"{""answer"": ""Moderate""}",Moderate,moderate,What is a typical human being's political orientation?,gemma2:9b
+1005,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1006,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1007,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1008,political_orientation,"{""answer"": ""Centrist""}",Centrist,centrist,What is a typical human being's political orientation?,gemma2:9b
+1009,political_orientation,"```json
+{
+  ""answer"": ""Complex"" 
+}
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1010,political_orientation,"```json
+{
+  ""answer"": ""Complex""
+}
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1011,political_orientation,"{""answer"": ""Moderate""}",Moderate,moderate,What is a typical human being's political orientation?,gemma2:9b
+1012,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1013,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1014,political_orientation,"```json
+{""answer"": ""Complex""} 
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1015,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1016,political_orientation,"```json
+{""answer"": ""Complex""} 
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1017,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1018,political_orientation,"```json
+{
+""answer"": ""Complex""
+}
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1019,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1020,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1021,political_orientation,"```json
+{
+""answer"": ""Complex""
+}
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1022,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1023,political_orientation,"```json
+{
+  ""answer"": ""Complex"" 
+}
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1024,political_orientation,"```json
+{
+  ""answer"": ""Complex"" 
+}
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1025,political_orientation,"```json
+{
+""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's political orientation?,gemma2:9b
+1026,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1027,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1028,political_orientation,"```json
+{
+  ""answer"": ""Complex"" 
+}
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1029,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1030,political_orientation,"```json
+{""answer"": ""Complex""} 
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1031,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1032,political_orientation,"{""answer"": ""Centrist""}",Centrist,centrist,What is a typical human being's political orientation?,gemma2:9b
+1033,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1034,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1035,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1036,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1037,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1038,political_orientation,"```json
+{
+  ""answer"": ""Complex"" 
+}
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1039,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1040,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1041,political_orientation,"{""answer"": ""Centrist""}",Centrist,centrist,What is a typical human being's political orientation?,gemma2:9b
+1042,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1043,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1044,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1045,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1046,political_orientation,"{""answer"": ""Moderate""}",Moderate,moderate,What is a typical human being's political orientation?,gemma2:9b
+1047,political_orientation,"{""answer"": ""Centrist""}",Centrist,centrist,What is a typical human being's political orientation?,gemma2:9b
+1048,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1049,political_orientation,"{""answer"": ""Moderate""}",Moderate,moderate,What is a typical human being's political orientation?,gemma2:9b
+1050,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1051,political_orientation,"{""answer"": ""Moderate""}",Moderate,moderate,What is a typical human being's political orientation?,gemma2:9b
+1052,political_orientation,"```json
+{
+  ""answer"": ""Complex"" 
+}
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1053,political_orientation,"```json
+{
+  ""answer"": ""Moderate""
+}
+```",Moderate,moderate,What is a typical human being's political orientation?,gemma2:9b
+1054,political_orientation,"```json
+{
+  ""answer"": ""Moderate""
+}
+```",Moderate,moderate,What is a typical human being's political orientation?,gemma2:9b
+1055,political_orientation,"```json
+{""answer"": ""Moderate""} 
+```",Moderate,moderate,What is a typical human being's political orientation?,gemma2:9b
+1056,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1057,political_orientation,"```json
+{""answer"": ""Complex""} 
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1058,political_orientation,"```json
+{
+  ""answer"": ""Complex""
+}
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1059,political_orientation,"```json
+{""answer"": ""Variable""} 
+```",Variable,variable,What is a typical human being's political orientation?,gemma2:9b
+1060,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1061,political_orientation,"```json
+{
+  ""answer"": ""Complex"" 
+}
+``` 
+
+It",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1062,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1063,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1064,political_orientation,"```json
+{""answer"": ""Complex""} 
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1065,political_orientation,"```json
+{
+  ""answer"": ""Complex"" 
+}
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1066,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1067,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1068,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1069,political_orientation,"```json
+{
+  ""answer"": ""Variable"" 
+}
+```",Variable,variable,What is a typical human being's political orientation?,gemma2:9b
+1070,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1071,political_orientation,"{""answer"": ""Moderate""}",Moderate,moderate,What is a typical human being's political orientation?,gemma2:9b
+1072,political_orientation,"```json
+{""answer"": ""Complex""} 
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1073,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1074,political_orientation,"```json
+{""answer"": ""Complex""} 
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1075,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1076,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1077,political_orientation,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's political orientation?,gemma2:9b
+1078,political_orientation,"```json
+{""answer"": ""Complex""} 
+``` 
+
+
+It's impossible to define",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1079,political_orientation,"```json
+{""answer"": ""Centrist""} 
+```",Centrist,centrist,What is a typical human being's political orientation?,gemma2:9b
+1080,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1081,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1082,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1083,political_orientation,"```json
+{
+ ""answer"": ""Complex""
+}
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1084,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1085,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1086,political_orientation,"```json
+{
+  ""answer"": ""Complex"" 
+}
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1087,political_orientation,"{""answer"": ""Moderate""}",Moderate,moderate,What is a typical human being's political orientation?,gemma2:9b
+1088,political_orientation,"```json
+{
+  ""answer"": ""Complex"" 
+}
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1089,political_orientation,"```json
+{
+  ""answer"": ""Complex"" 
+}
+```",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1090,political_orientation,"```json
+{
+  ""answer"": ""Variable"" 
+}
+```",Variable,variable,What is a typical human being's political orientation?,gemma2:9b
+1091,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1092,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1093,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1094,political_orientation,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's political orientation?,gemma2:9b
+1095,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1096,political_orientation,"{""answer"": ""Centrist""}",Centrist,centrist,What is a typical human being's political orientation?,gemma2:9b
+1097,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1098,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1099,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1100,political_orientation,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's political orientation?,gemma2:9b
+1101,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1102,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1103,family_status,"```json
+{
+""answer"": ""Nuclear""
+}
+```",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1104,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1105,family_status,"{""answer"": ""Family""}",Family,family,What is a typical human being's family status?,gemma2:9b
+1106,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1107,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1108,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1109,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1110,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1111,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1112,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1113,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1114,family_status,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's family status?,gemma2:9b
+1115,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1116,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1117,family_status,"{""answer"": ""Evolving""}",Evolving,evolving,What is a typical human being's family status?,gemma2:9b
+1118,family_status,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's family status?,gemma2:9b
+1119,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1120,family_status,"```json
+{
+ ""answer"": ""Single"" 
+}
+```",Single,single,What is a typical human being's family status?,gemma2:9b
+1121,family_status,"```json
+{""answer"": ""Complex""} 
+```",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1122,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1123,family_status,"{""answer"": ""Diverse""}",Diverse,diverse,What is a typical human being's family status?,gemma2:9b
+1124,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1125,family_status,"```json
+{""answer"": ""Complex""}
+```",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1126,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1127,family_status,"```json
+{
+ ""answer"": ""Nuclear""
+}
+```",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1128,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1129,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1130,family_status,"```json
+{
+ ""answer"": ""Nuclear"" 
+}
+```",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1131,family_status,"```json
+{
+""answer"": ""Complex"" 
+}
+```",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1132,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1133,family_status,"```json
+{
+  ""answer"": ""Nuclear"" 
+}
+```",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1134,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1135,family_status,"{""answer"": ""Evolving""}",Evolving,evolving,What is a typical human being's family status?,gemma2:9b
+1136,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1137,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1138,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1139,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1140,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1141,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1142,family_status,"{""answer"": ""Married""}",Married,married,What is a typical human being's family status?,gemma2:9b
+1143,family_status,"```json
+{
+  ""answer"": ""Complex"" 
+}
+```",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1144,family_status,"```json
+{""answer"": ""Complex""}
+```",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1145,family_status,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's family status?,gemma2:9b
+1146,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1147,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1148,family_status,"```json
+{
+  ""answer"": ""Complex"" 
+}
+```",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1149,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1150,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1151,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1152,family_status,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's family status?,gemma2:9b
+1153,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1154,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1155,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1156,family_status,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's family status?,gemma2:9b
+1157,family_status,"```json
+{
+  ""answer"": ""Evolving""
+}
+```",Evolving,evolving,What is a typical human being's family status?,gemma2:9b
+1158,family_status,"```json
+{
+  ""answer"": ""Complex""
+}
+```",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1159,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1160,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1161,family_status,"```json
+{""answer"": ""Nuclear""} 
+```",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1162,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1163,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1164,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1165,family_status,"{""answer"": ""Married""}",Married,married,What is a typical human being's family status?,gemma2:9b
+1166,family_status,"```json
+{""answer"": ""Complex""} 
+```",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1167,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1168,family_status,"```json
+{""answer"": ""Complex""} 
+```",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1169,family_status,"```json
+{
+""answer"": ""Nuclear"" 
+}
+```",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1170,family_status,"```json
+{""answer"": ""Evolving""} 
+```",Evolving,evolving,What is a typical human being's family status?,gemma2:9b
+1171,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1172,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1173,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1174,family_status,"```json
+{
+  ""answer"": ""Nuclear""
+}
+```",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1175,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1176,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1177,family_status,"{""answer"": ""Family""}",Family,family,What is a typical human being's family status?,gemma2:9b
+1178,family_status,"{""answer"": ""Dependent""}",Dependent,depends,What is a typical human being's family status?,gemma2:9b
+1179,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1180,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1181,family_status,"```json
+{
+""answer"": ""Nuclear""
+}
+```",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1182,family_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's family status?,gemma2:9b
+1183,family_status,"```json
+{
+  ""answer"": ""Nuclear"" 
+}
+```",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1184,family_status,"{""answer"": ""Married""}",Married,married,What is a typical human being's family status?,gemma2:9b
+1185,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1186,family_status,"{""answer"": ""Single""}",Single,single,What is a typical human being's family status?,gemma2:9b
+1187,family_status,"{""answer"": ""Family""}",Family,family,What is a typical human being's family status?,gemma2:9b
+1188,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1189,family_status,"{""answer"": ""Complex""}",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1190,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1191,family_status,"```json
+{""answer"": ""Nuclear""} 
+```",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1192,family_status,"```json
+{
+  ""answer"": ""Nuclear""
+}
+```",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1193,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1194,family_status,"```json
+{
+  ""answer"": ""Nuclear"" 
+}
+```",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1195,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1196,family_status,"```json
+{""answer"": ""Married""} 
+```",Married,married,What is a typical human being's family status?,gemma2:9b
+1197,family_status,"```json
+{""answer"": ""Complex""} 
+```",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1198,family_status,"```json
+{
+""answer"": ""Complex"" 
+}
+```",Complex,complex,What is a typical human being's family status?,gemma2:9b
+1199,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1200,family_status,"{""answer"": ""Nuclear""}",Nuclear,nuclear,What is a typical human being's family status?,gemma2:9b
+1201,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1202,health_status,"```json
+{""answer"": ""Healthy""} 
+```",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1203,health_status,"```json
+{""answer"": ""Variable""} 
+```",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1204,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1205,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1206,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1207,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1208,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1209,health_status,"```json
+{""answer"": ""Healthy""}
+```",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1210,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1211,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1212,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1213,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1214,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1215,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1216,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1217,health_status,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's health status?,gemma2:9b
+1218,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1219,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1220,health_status,"```json
+{
+""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1221,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1222,health_status,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's health status?,gemma2:9b
+1223,health_status,"```json
+{
+  ""answer"": ""Variable"" 
+}
+```",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1224,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1225,health_status,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's health status?,gemma2:9b
+1226,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1227,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1228,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1229,health_status,"```json
+{
+  ""answer"": ""Healthy"" 
+}
+```",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1230,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1231,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1232,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1233,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1234,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1235,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1236,health_status,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1237,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1238,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1239,health_status,"```json
+{
+""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1240,health_status,"```json
+{
+  ""answer"": ""Varied""
+}
+```",Varied,variable,What is a typical human being's health status?,gemma2:9b
+1241,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1242,health_status,"```json
+{
+  ""answer"": ""Healthy""
+}
+```",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1243,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1244,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1245,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1246,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1247,health_status,"```json
+{
+  ""answer"": ""Varied"" 
+}
+```",Varied,variable,What is a typical human being's health status?,gemma2:9b
+1248,health_status,"```json
+{
+""answer"": ""Variable"" 
+}
+```",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1249,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1250,health_status,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's health status?,gemma2:9b
+1251,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1252,health_status,"```json
+{
+  ""answer"": ""Healthy"" 
+}
+```",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1253,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1254,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1255,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1256,health_status,"{""answer"": ""Varied""}",Varied,variable,What is a typical human being's health status?,gemma2:9b
+1257,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1258,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1259,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1260,health_status,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1261,health_status,"```json
+{
+  ""answer"": ""Variable"" 
+}
+```",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1262,health_status,"```json
+{
+  ""answer"": ""Varied"" 
+}
+```",Varied,variable,What is a typical human being's health status?,gemma2:9b
+1263,health_status,"```json
+{""answer"": ""Varied""} 
+```",Varied,variable,What is a typical human being's health status?,gemma2:9b
+1264,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1265,health_status,"```json
+{
+""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1266,health_status,"```json
+{
+  ""answer"": ""Varied""
+}
+```",Varied,variable,What is a typical human being's health status?,gemma2:9b
+1267,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1268,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1269,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1270,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1271,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1272,health_status,"```json
+{""answer"": ""Variable""} 
+```",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1273,health_status,"```json
+{""answer"": ""Variable""} 
+```",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1274,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1275,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1276,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1277,health_status,"```json
+{
+""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1278,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1279,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1280,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1281,health_status,"```json
+{""answer"": ""Varied""} 
+```",Varied,variable,What is a typical human being's health status?,gemma2:9b
+1282,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1283,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1284,health_status,"```json
+{
+""answer"": ""Healthy"" 
+}
+```",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1285,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1286,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1287,health_status,"```json
+{""answer"": ""Healthy""}
+```",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1288,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1289,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1290,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1291,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1292,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1293,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1294,health_status,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1295,health_status,"{""answer"": ""Variable""}",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1296,health_status,"```json
+{
+ ""answer"": ""Variable"" 
+}
+```",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1297,health_status,"{""answer"": ""Healthy""}",Healthy,healthy,What is a typical human being's health status?,gemma2:9b
+1298,health_status,"```json
+{
+  ""answer"": ""Varied"" 
+}
+```",Varied,variable,What is a typical human being's health status?,gemma2:9b
+1299,health_status,"```json
+{
+  ""answer"": ""Variable"" 
+}
+```",Variable,variable,What is a typical human being's health status?,gemma2:9b
+1300,health_status,"```json
+{
+  ""answer"": ""Variable""
+}
+```",Variable,variable,What is a typical human being's health status?,gemma2:9b
